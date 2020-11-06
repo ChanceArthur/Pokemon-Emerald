@@ -2367,8 +2367,8 @@ gTVSafariFanClubText00:: @ 08289813
 	.string "SAFARI FAN CLUB!\p"
 	.string "REPORTER: All right, mates!\n"
 	.string "Tossing them SAFARI BALLS, are you?\p"
-	.string "You can bet I am here in the SAFARI\n"
-	.string "ZONE chock-full of amazing Pokémon!\p"
+	.string "You can bet I am here in the Safari\n"
+	.string "Zone chock-full of amazing Pokémon!\p"
 	.string "Let's get with it and have a chat with\n"
 	.string "this good fellow of a SAFARI GUIDE!\p"
 	.string "All right, mate, how are the visiting\n"
@@ -2432,7 +2432,7 @@ gTVSafariFanClubText09:: @ 08289C99
 gTVSafariFanClubText10:: @ 08289D33
 	.string "REPORTER: Quite right, it is!\n"
 	.string "Facing up to challenges is important!\p"
-	.string "Viewers, come on down to the SAFARI\n"
+	.string "Viewers, come on down to the Safari\n"
 	.string "and make the challenge yourself!\p"
 	.string "Until next time, cheerio!$"
 

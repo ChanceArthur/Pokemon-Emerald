@@ -25,7 +25,7 @@ static const u8 sPokeBallDesc[] = _(
 static const u8 sSafariBallDesc[] = _(
     "A special BALL that\n"
     "is used only in the\n"
-    "SAFARI ZONE.");
+    "Safari Zone.");
 
 static const u8 sNetBallDesc[] = _(
     "A BALL that works\n"
@@ -1431,8 +1431,8 @@ static const u8 sBikeVoucherDesc[] = _(
 
 static const u8 sGoldTeethDesc[] = _(
     "Gold dentures lost\n"
-    "by the SAFARI\n"
-    "ZONE's WARDEN.");
+    "by the Safari\n"
+    "Zone's WARDEN.");
 
 static const u8 sOldAmberDesc[] = _(
     "A stone containing\n"

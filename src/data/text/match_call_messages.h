@@ -60,7 +60,7 @@ const u8 gText_MatchCallBeauty_Thalia_Intro2[] = _("the world on a luxury liner.
 
 const u8 gText_MatchCallBeauty_Jessica_Strategy[] = _("I'll lead you astray.");
 const u8 gText_MatchCallBeauty_Jessica_Pokemon[] = _("Cute, of course.");
-const u8 gText_MatchCallBeauty_Jessica_Intro1[] = _("I love the SAFARI ZONE.");
+const u8 gText_MatchCallBeauty_Jessica_Intro1[] = _("I love the Safari Zone.");
 const u8 gText_MatchCallBeauty_Jessica_Intro2[] = _("I seem to end up there.");
 
 const u8 gText_MatchCallRichBoy_Winston_Strategy[] = _("Strategy? Who needs it?");
