@@ -52,7 +52,7 @@ AquaHideout_1F_EventScript_Grunt1Defeated:: @ 8233513
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething: @ 823351D
 	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
+	.string "Team Aqua?\p"
 	.string "Our BOSS isn't here! He's gone off to\n"
 	.string "snatch something important!\p"
 	.string "… …\n"
@@ -70,7 +70,7 @@ AquaHideout_1F_Text_WhereMightMagmaHideoutBe: @ 82335E3
 
 AquaHideout_1F_Text_BossWentToJackASubmarine: @ 823367D
 	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
+	.string "Team Aqua?\p"
 	.string "Our BOSS isn't here!\n"
 	.string "He's gone off to jack a submarine!\p"
 	.string "… …\n"
@@ -80,7 +80,7 @@ AquaHideout_1F_Text_BossWentToJackASubmarine: @ 823367D
 
 AquaHideout_1F_Text_BossIsOnRoute122: @ 8233739
 	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
+	.string "Team Aqua?\p"
 	.string "Our BOSS isn't here! He's on his way to\n"
 	.string "Mt. Pyre on ROUTE 122!\p"
 	.string "… …\n"
@@ -97,7 +97,7 @@ AquaHideout_1F_Text_TeamMagmaAtMtChimney: @ 82337FA
 
 AquaHideout_1F_Text_BossIsInSlateportCity: @ 8233884
 	.string "What? What? What do you want with\n"
-	.string "TEAM AQUA?\p"
+	.string "Team Aqua?\p"
 	.string "Our BOSS isn't here!\n"
 	.string "He's on his way to SLATEPORT CITY!\p"
 	.string "… …\n"

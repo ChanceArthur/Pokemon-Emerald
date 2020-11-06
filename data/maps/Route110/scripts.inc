@@ -773,7 +773,7 @@ Route110_Movement_BirchExit4: @ 81EFB57
 	step_end
 
 Route110_Text_WeCantTalkAboutAquaActivities: @ 81EFB5D
-	.string "TEAM AQUA's activities…\n"
+	.string "Team Aqua's activities…\n"
 	.string "We can't talk about them yet.$"
 
 Route110_Text_KickUpARuckus: @ 81EFB93
@@ -782,10 +782,10 @@ Route110_Text_KickUpARuckus: @ 81EFB93
 
 Route110_Text_MyFirstJobInAqua: @ 81EFBCA
 	.string "This is my first job after joining\n"
-	.string "TEAM AQUA. It's a little scary.$"
+	.string "Team Aqua. It's a little scary.$"
 
 Route110_Text_AquaActionsBringSmiles: @ 81EFC0D
-	.string "TEAM AQUA's actions should bring\n"
+	.string "Team Aqua's actions should bring\n"
 	.string "smiles to people's faces!$"
 
 Route110_Text_MayLetsBattle: @ 81EFC48
@@ -950,7 +950,7 @@ Route110_Text_CyclingRoadSign: @ 81F082D
 	.string "SEASIDE CYCLING ROAD$"
 
 Route110_Text_AquaWasHere: @ 81F0842
-	.string "“TEAM AQUA was here!”\p"
+	.string "“Team Aqua was here!”\p"
 	.string "Someone painted that onto this sign,\n"
 	.string "but then someone else painted over it.\p"
 	.string "“Team Magma rules!” is what it\n"

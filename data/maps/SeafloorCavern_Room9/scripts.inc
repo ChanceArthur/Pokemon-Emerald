@@ -278,7 +278,7 @@ SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard: @ 823532B
 	.string "It's raining heavily?\p"
 	.string "Good… That should have happened.\n"
 	.string "That is why we awakened KYOGRE,\l"
-	.string "to realize TEAM AQUA's vision of\l"
+	.string "to realize Team Aqua's vision of\l"
 	.string "expanding the sea.\p"
 	.string "What?!\p"
 	.string "It's raining far harder than we\n"

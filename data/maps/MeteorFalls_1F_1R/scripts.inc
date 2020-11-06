@@ -255,14 +255,14 @@ MeteorFalls_1F_1R_Text_HoldItRightThereMagma: @ 822BFE4
 
 MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua: @ 822C04E
 	.string "Hehehe!\n"
-	.string "Even TEAM AQUA joins us!\p"
+	.string "Even Team Aqua joins us!\p"
 	.string "But it's too much trouble to deal with\n"
 	.string "you all…\p"
 	.string "Heh, it doesn't matter!\p"
 	.string "We've got the METEORITE, so off to\n"
 	.string "MT. CHIMNEY we go!\p"
-	.string "Hehehe! Be seeing you, you TEAM\n"
-	.string "AQUA dingbats!$"
+	.string "Hehehe! Be seeing you, you Team\n"
+	.string "Aqua dingbats!$"
 
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore: @ 822C11C
 	.string "ARCHIE: Didn't I see you before?\n"
@@ -277,7 +277,7 @@ MeteorFalls_1F_1R_Text_ArchieSeenYouBefore: @ 822C11C
 	.string "They engage in destruction, claiming\n"
 	.string "to expand the land mass.\p"
 	.string "They are the rivals to us,\n"
-	.string "the sea-loving TEAM AQUA!$"
+	.string "the sea-loving Team Aqua!$"
 
 MeteorFalls_1F_1R_Text_BossWeShouldChaseMagma: @ 822C268
 	.string "BOSS, we should give chase to\n"
@@ -302,7 +302,7 @@ MeteorFalls_1F_1R_Text_MeetProfCozmo: @ 822C342
 	.string "But they tricked me.\n"
 	.string "They even took my METEORITE away…\p"
 	.string "And then another similar bunch,\n"
-	.string "TEAM AQUA showed up.\p"
+	.string "Team Aqua showed up.\p"
 	.string "After that…\n"
 	.string "I don't understand any of it.\p"
 	.string "But that Team Magma…\p"

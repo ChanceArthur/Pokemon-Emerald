@@ -353,9 +353,9 @@ MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace: @ 82236A6
 	.string "from space. Could it be true?$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma: @ 82236E8
-	.string "TEAM AQUA should take care of\n"
+	.string "Team Aqua should take care of\n"
 	.string "Team Magma!\p"
-	.string "But if they did that, TEAM AQUA will\n"
+	.string "But if they did that, Team Aqua will\n"
 	.string "become bold and brazen, won't they?$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind: @ 822375B

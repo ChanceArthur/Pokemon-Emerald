@@ -559,7 +559,7 @@ MtChimney_Text_MaxieIntro: @ 822F32E
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "I'd heard ARCHIE bemoaning a child\n"
-	.string "who's been meddling in TEAM AQUA's\l"
+	.string "who's been meddling in Team Aqua's\l"
 	.string "affairs.\p"
 	.string "It must be you he meant.\p"
 	.string "Humph! So you're thinking of\n"
@@ -641,7 +641,7 @@ MtChimney_Text_Grunt1PostBattle: @ 822F93A
 	.string "splashing about in the waves!$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans: @ 822F978
-	.string "That annoying TEAM AQUA…\n"
+	.string "That annoying Team Aqua…\n"
 	.string "They always mess with our plans!$"
 
 MtChimney_Text_MeteoritesPackAmazingPower: @ 822F9B2
@@ -654,7 +654,7 @@ MtChimney_Text_YouBetterNotMessWithUs: @ 822F9D1
 
 MtChimney_Text_AquasNameSimilar: @ 822FA2F
 	.string "We're Team Magma!\p"
-	.string "They're TEAM AQUA!\p"
+	.string "They're Team Aqua!\p"
 	.string "It totally annoys me that they'd\n"
 	.string "use a name like ours!$"
 
@@ -706,7 +706,7 @@ MtChimney_Text_LessHabitatForWaterPokemon: @ 822FD5B
 	.string "less habitats for WATER Pokémon!$"
 
 MtChimney_Text_MagmasNameSimilar: @ 822FDA1
-	.string "We're TEAM AQUA!\p"
+	.string "We're Team Aqua!\p"
 	.string "They're Team Magma!\p"
 	.string "It burns me up that they'd use such\n"
 	.string "a confusing name!$"

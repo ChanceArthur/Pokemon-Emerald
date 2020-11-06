@@ -2672,7 +2672,7 @@ MatchCall_Text_Scott4:: @ 2B53DB
 	.string "SCOTT: Hi, {PLAYER}{KUN}!\p"
 	.string "I've been hearing about these odd\n"
 	.string "gangs being a nuisance.\p"
-	.string "Team Magma and TEAM AQUA,\n"
+	.string "Team Magma and Team Aqua,\n"
 	.string "I think they were.\p"
 	.string "I would think there'd be some\n"
 	.string "skilled Trainers among them.\p"

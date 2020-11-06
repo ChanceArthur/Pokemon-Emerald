@@ -229,10 +229,10 @@ Route119_WeatherInstitute_2F_Text_Grunt2Defeat: @ 8270208
 Route119_WeatherInstitute_2F_Text_Grunt2PostBattle: @ 827022B
 	.string "If the Pokémon they made here can\n"
 	.string "control the weather freely, then we of\l"
-	.string "TEAM AQUA definitely need it!$"
+	.string "Team Aqua definitely need it!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Intro: @ 8270292
-	.string "We're TEAM AQUA!\n"
+	.string "We're Team Aqua!\n"
 	.string "We appear wherever anything rare is\l"
 	.string "found!$"
 
@@ -241,7 +241,7 @@ Route119_WeatherInstitute_2F_Text_Grunt3Defeat: @ 82702CE
 
 Route119_WeatherInstitute_2F_Text_Grunt3PostBattle: @ 82702DA
 	.string "You don't have any idea what we of\n"
-	.string "TEAM AQUA are working towards!\l"
+	.string "Team Aqua are working towards!\l"
 	.string "You stay out of our way!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Intro: @ 8270335
@@ -261,7 +261,7 @@ Route119_WeatherInstitute_2F_Text_Grunt5PostBattle: @ 82703C0
 
 Route119_WeatherInstitute_2F_Text_ShellyIntro: @ 8270409
 	.string "Ahahahaha!\p"
-	.string "You're going to meddle in TEAM AQUA's\n"
+	.string "You're going to meddle in Team Aqua's\n"
 	.string "affairs?\p"
 	.string "You're either absolutely fearless,\n"
 	.string "simply ignorant, or both!\p"

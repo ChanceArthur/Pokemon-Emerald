@@ -500,10 +500,10 @@ MtPyre_Summit_Text_Grunt4Intro: @ 823271B
 	.string "You tried to join Team Magma,\l"
 	.string "but they wouldn't have you!\p"
 	.string "Well, don't think that we'll let you\n"
-	.string "join our TEAM AQUA!$"
+	.string "join our Team Aqua!$"
 
 MtPyre_Summit_Text_Grunt4Defeat: @ 823279A
-	.string "If you want to join TEAM AQUA that\n"
+	.string "If you want to join Team Aqua that\n"
 	.string "badly, we can consider it…$"
 
 MtPyre_Summit_Text_Grunt4PostBattle: @ 82327D8
