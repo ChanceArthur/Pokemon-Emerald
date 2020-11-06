@@ -398,7 +398,7 @@ PetalburgWoods_Text_ICouldntWin: @ 822E7C1
 
 PetalburgWoods_Text_ImOutOfPokeBalls: @ 822E7EF
 	.string "I caught a bunch of Pokémon.\n"
-	.string "Now I'm out of POKé BALLS.$"
+	.string "Now I'm out of Poké Balls.$"
 
 PetalburgWoods_Text_InstantlyPopularWithBugPokemon: @ 822E827
 	.string "If you take BUG Pokémon to school,\n"

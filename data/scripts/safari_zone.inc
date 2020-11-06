@@ -177,7 +177,7 @@ SafariZone_South_Text_EnjoyTheRestOfYourAdventure: @ 82A521A
 SafariZone_South_Text_ExitEarlyThankYouForPlaying: @ 82A5248
 	.string "Okay.\p"
 	.string "I'll take back your remaining Safari\n"
-	.string "BALLS.\p"
+	.string "Balls.\p"
 	.string "Thank you for playing.\n"
 	.string "We hope to see you again.$"
 

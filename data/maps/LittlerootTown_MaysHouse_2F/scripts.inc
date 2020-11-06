@@ -382,7 +382,7 @@ RivalsHouse_2F_Text_BrendanGettingReady: @ 81F9962
 	.string "Items all packed, and…$"
 
 RivalsHouse_2F_Text_ItsRivalsPokeBall: @ 81F9991
-	.string "It's {RIVAL}'s POKé BALL!\p"
+	.string "It's {RIVAL}'s Poké Ball!\p"
 	.string "Better leave it right where it is.$"
 
 RivalsHouse_2F_Text_MayJustCheckingMyPokedex: @ 81F99C9

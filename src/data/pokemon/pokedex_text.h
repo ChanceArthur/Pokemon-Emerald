@@ -600,7 +600,7 @@ const u8 gKinglerPokedexText[] = _(
 
 const u8 gVoltorbPokedexText[] = _(
     "It bears an uncanny and unexplained\n"
-    "resemblance to a POKé BALL. Because it\n"
+    "resemblance to a Poké Ball. Because it\n"
     "explodes at the slightest shock, even\n"
     "veteran Trainers treat it with caution.");
 

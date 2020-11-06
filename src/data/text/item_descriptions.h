@@ -15,7 +15,7 @@ static const u8 sUltraBallDesc[] = _(
 static const u8 sGreatBallDesc[] = _(
     "A good BALL with a\n"
     "higher catch rate\n"
-    "than a POKé BALL.");
+    "than a Poké Ball.");
 
 static const u8 sPokeBallDesc[] = _(
     "A tool used for\n"
