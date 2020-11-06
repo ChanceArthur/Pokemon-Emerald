@@ -1114,7 +1114,7 @@ Route104_Text_RegisteredMay: @ 81EDC8F
 
 Route104_Text_MayHowsYourPokedex: @ 81EDCB1
 	.string "MAY: Oh, by the way, {PLAYER}{KUN},\n"
-	.string "how's your POKéDEX coming along?$"
+	.string "how's your Pokédex coming along?$"
 
 Route104_Text_MayMinesDecentLetsBattle: @ 81EDCED
 	.string "Mine's looking pretty decent.\n"
@@ -1159,7 +1159,7 @@ Route104_Text_RegisteredBrendan: @ 81EDFA0
 	.string "in the POKéNAV.$"
 
 Route104_Text_BrendanHowsYourPokedex: @ 81EDFC6
-	.string "BRENDAN: {PLAYER}, how's your POKéDEX?\n"
+	.string "BRENDAN: {PLAYER}, how's your Pokédex?\n"
 	.string "Have you filled in any pages yet?$"
 
 Route104_Text_BrendanDoingGreatLetsBattle: @ 81EE009

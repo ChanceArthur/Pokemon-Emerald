@@ -387,7 +387,7 @@ RivalsHouse_2F_Text_ItsRivalsPokeBall: @ 81F9991
 
 RivalsHouse_2F_Text_MayJustCheckingMyPokedex: @ 81F99C9
 	.string "MAY: {PLAYER}{KUN}!\p"
-	.string "I was just checking my POKéDEX.\p"
+	.string "I was just checking my Pokédex.\p"
 	.string "There's still a lot of Pokémon that\n"
 	.string "I've seen but haven't caught.\p"
 	.string "And there are many others that\n"
@@ -403,11 +403,11 @@ RivalsHouse_2F_Text_MayWhereShouldIGoNext: @ 81F9A9E
 
 RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex: @ 81F9B0D
 	.string "BRENDAN: Hey, it's {PLAYER}.\p"
-	.string "I was just checking out my POKéDEX.\p"
+	.string "I was just checking out my Pokédex.\p"
 	.string "There are still many Pokémon that\n"
 	.string "I need to catch, I know, but this\l"
 	.string "is looking pretty good.\p"
-	.string "Checking this POKéDEX out gives me\n"
+	.string "Checking this Pokédex out gives me\n"
 	.string "the urge to hit the road again.$"
 
 RivalsHouse_2F_Text_BrendanWhereShouldIGoNext: @ 81F9BE7
