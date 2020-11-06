@@ -1,36 +1,43 @@
-# Pokémon Emerald
+# Pokémon Emerald "Definitive Edition"
 
-[![Build Status][travis-badge]][travis]
+A fun little side project for personal use that modernizes Pokémon Emerald with fixes and new features.
 
-[travis]: https://travis-ci.org/pret/pokeemerald
-[travis-badge]: https://travis-ci.org/pret/pokeemerald.svg?branch=master
+## Bug Fixes
 
-This is a decompilation of Pokémon Emerald.
+These are bugs that were present in the official release of Pokémon Emerald.
 
-It builds the following ROM:
+- Fixed surfing dismount ground effects.
+- Fixed broken RNG.
+  - Game Freak forgot to re-enable RTC-based RNG after development on FireRed/LeafGreen, which left it broken and predictable.
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+These are bugs in the official release that were either non-problematic or in features that were unused.
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+- Prevent moving camera from triggering ground effects.
+- Fixed snowy weather.
+- Dex entries are no longer shown if you've caught a Pokémon without a Pokédex.
 
+## Quality of Life Improvements
 
-## See also
+Implementing features and changes, many of which were introduced in newer entries of the series.
 
-Other disassembly and/or decompilation projects:
-* [**Pokémon Red and Blue**](https://github.com/pret/pokered)
-* [**Pokémon Gold and Silver (Space World '97 demo)**](https://github.com/pret/pokegold-spaceworld)
-* [**Pokémon Yellow**](https://github.com/pret/pokeyellow)
-* [**Pokémon Trading Card Game**](https://github.com/pret/poketcg)
-* [**Pokémon Pinball**](https://github.com/pret/pokepinball)
-* [**Pokémon Stadium**](https://github.com/pret/pokestadium)
-* [**Pokémon Gold and Silver**](https://github.com/pret/pokegold)
-* [**Pokémon Crystal**](https://github.com/pret/pokecrystal)
-* [**Pokémon Ruby and Sapphire**](https://github.com/pret/pokeruby)
-* [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs)
-* [**Pokémon FireRed and LeafGreen**](https://github.com/pret/pokefirered)
-* [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red)
+- TMs are no longer limited-use, and cannot be sold, tossed, or re-bought.
+- The game no longer checks the Union Room upon entering a Pokémon Center.
+  - This removes the momentary pause.
+  - GBA Wireless Adapters are obselete, making the Union Room useless anyway.
+- Eggs are no longer counted when healing your Pokémon.
+- Removed save overwrite confirmation.
+- Name entry automatically switches to lowercase after the first letter.
+- The free Premier Ball is now given per 10 Poké Balls.
+- HMs can be forgotten.
+- Raised and lowered stats determined by nature are now colored red and blue respectively.
+- Text speed is now set to "Fast" by default.
+- Sound is now set to "Stereo" by default.
+- Running indoors is now possible.
+- Added pluralization when receiving multiple of the same item.
+- Added prompt to continue using Repels.
 
+## To Do
 
-## Contacts
-
-You can find us on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://kiwiirc.com/client/irc.freenode.net/?#pret).
+- Add missing Pokémon from Ruby/Sapphire.
+- Improve party layout.
+- Change evolution methods.
