@@ -308,7 +308,7 @@ SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought: @ 82354F0
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty: @ 82355C2
 	.string "ARCHIE: W-what?!\n"
 	.string "Don't get all high and mighty with me!\p"
-	.string "Wasn't it you, TEAM MAGMA, that\n"
+	.string "Wasn't it you, Team Magma, that\n"
 	.string "infuriated GROUDON?\p"
 	.string "So long as I have this RED ORB,\n"
 	.string "I should be able to control KYOGRE…\p"

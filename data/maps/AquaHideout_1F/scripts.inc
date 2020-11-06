@@ -62,8 +62,8 @@ AquaHideout_1F_Text_OurBossIsSnatchingSomething: @ 823351D
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe: @ 82335E3
 	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is trying to\n"
+	.string "Are you a Team Magma grunt?\p"
+	.string "I hear that Team Magma is trying to\n"
 	.string "awaken an awesome Pokémon at their\l"
 	.string "HIDEOUT.\p"
 	.string "But where might their HIDEOUT be?$"
@@ -90,8 +90,8 @@ AquaHideout_1F_Text_BossIsOnRoute122: @ 8233739
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney: @ 82337FA
 	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is after\n"
+	.string "Are you a Team Magma grunt?\p"
+	.string "I hear that Team Magma is after\n"
 	.string "an awesome Pokémon at MT. CHIMNEY.\p"
 	.string "But what is that Pokémon like?$"
 

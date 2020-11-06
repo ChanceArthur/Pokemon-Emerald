@@ -273,14 +273,14 @@ Route119_WeatherInstitute_2F_Text_ShellyDefeat: @ 82704BD
 	.string "You're disgustingly strong!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyPostBattle: @ 82704E4
-	.string "It's bad enough to have TEAM MAGMA\n"
+	.string "It's bad enough to have Team Magma\n"
 	.string "blunder about, but now there's you!\p"
 	.string "What makes you want to sniff around\n"
 	.string "in our business, anyway?$"
 
 Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy: @ 8270568
 	.string "We have a situation here!\p"
-	.string "A TEAM MAGMA mob just passed\n"
+	.string "A Team Magma mob just passed\n"
 	.string "the WEATHER INSTITUTE.\p"
 	.string "They appear to be headed for\n"
 	.string "Mt. Pyre!$"
@@ -290,7 +290,7 @@ Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre: @ 82705DD
 	.string "We can't waste any more time here!\n"
 	.string "We have to hurry to Mt. Pyre, too!\p"
 	.string "Ahahahaha!\n"
-	.string "TEAM MAGMA, just you wait!$"
+	.string "Team Magma, just you wait!$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon: @ 8270650
 	.string "Thanks!\n"

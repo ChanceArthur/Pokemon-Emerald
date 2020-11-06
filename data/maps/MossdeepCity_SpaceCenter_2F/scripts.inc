@@ -384,7 +384,7 @@ MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets: @ 82241A1
 	.string "rockets.$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel: @ 822420C
-	.string "Why would TEAM MAGMA want to steal\n"
+	.string "Why would Team Magma want to steal\n"
 	.string "our rocket fuel in the first place?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut: @ 8224253
@@ -394,7 +394,7 @@ MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut: @ 8224253
 	.string "I can and will try!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis: @ 82242C5
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
+	.string "If Team Magma takes the rocket fuel,\n"
 	.string "I won't be able to go to space!\p"
 	.string "They can't be allowed to get away\n"
 	.string "with such an outrage!$"
@@ -404,7 +404,7 @@ MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace: @ 8224342
 	.string "space one day…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace: @ 8224376
-	.string "TEAM MAGMA…\n"
+	.string "Team Magma…\n"
 	.string "Do they want to go to space, too?$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn: @ 82243A4
@@ -464,7 +464,7 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere: @ 822467B
 	.string "Don't you dare interfere!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel: @ 82246B2
-	.string "STEVEN: TEAM MAGMA…\p"
+	.string "STEVEN: Team Magma…\p"
 	.string "What's the point of stealing rocket\n"
 	.string "fuel?$"
 
@@ -506,7 +506,7 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided: @ 82248C2
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
+	.string "If we, Team Magma, are wrong…\l"
 	.string "… … … … … …\p"
 	.string "Then might TEAM AQUA's goal to expand\n"
 	.string "the sea also be equally misguided?$"

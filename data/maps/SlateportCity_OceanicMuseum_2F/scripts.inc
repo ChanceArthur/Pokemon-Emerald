@@ -333,7 +333,7 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning: @ 820C059
 	.string "ARCHIE!\p"
 	.string "What makes you interfere with us?\p"
 	.string "…No! You can't be!\n"
-	.string "You're not one of TEAM MAGMA?\p"
+	.string "You're not one of Team Magma?\p"
 	.string "Wait, that can't be right.\n"
 	.string "You're not dressed for the part.\p"
 	.string "… … … … … …\n"
