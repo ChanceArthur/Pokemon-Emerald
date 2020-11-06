@@ -1103,14 +1103,14 @@ Route104_Text_TrainerTipsDoubleBattles: @ 81EDAEF
 
 Route104_Text_MayWeShouldRegister: @ 81EDBFF
 	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "DEVON upgraded your POKéNAV with\n"
+	.string "DEVON upgraded your PokéNav with\n"
 	.string "the MATCH CALL system, huh?\p"
 	.string "We should register each other so we\n"
 	.string "can get in contact anytime.$"
 
 Route104_Text_RegisteredMay: @ 81EDC8F
 	.string "{PLAYER} registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "in the PokéNav.$"
 
 Route104_Text_MayHowsYourPokedex: @ 81EDCB1
 	.string "MAY: Oh, by the way, {PLAYER}{KUN},\n"
@@ -1150,13 +1150,13 @@ Route104_Text_MayPostBattle: @ 81EDE3E
 Route104_Text_BrendanWeShouldRegister: @ 81EDF04
 	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
 	.string "Cool, you had DEVON install the MATCH\n"
-	.string "CALL system on your POKéNAV!\p"
+	.string "CALL system on your PokéNav!\p"
 	.string "Let's register each other in our\n"
-	.string "POKéNAVS so we can keep in touch.$"
+	.string "PokéNavS so we can keep in touch.$"
 
 Route104_Text_RegisteredBrendan: @ 81EDFA0
 	.string "{PLAYER} registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "in the PokéNav.$"
 
 Route104_Text_BrendanHowsYourPokedex: @ 81EDFC6
 	.string "BRENDAN: {PLAYER}, how's your Pokédex?\n"

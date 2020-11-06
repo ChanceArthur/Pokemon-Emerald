@@ -261,7 +261,7 @@ SootopolisCity_Gym_1F_Text_ExplainWaterPulse: @ 82256C1
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan: @ 822574D
 	.string "Registered GYM LEADER JUAN\n"
-	.string "in the POKéNAV.$"
+	.string "in the PokéNav.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle: @ 8225778
 	.string "The Trainers who have gathered all\n"

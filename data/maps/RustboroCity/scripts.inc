@@ -1160,14 +1160,14 @@ RustboroCity_Text_PleaseComeWithMe: @ 81E1A21
 RustboroCity_Text_MayHiLetsRegister: @ 81E1A49
 	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
 	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
+	.string "on your PokéNav!\p"
 	.string "Let's register each other so we can\n"
 	.string "contact one another anytime!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay: @ 81E1ADB
 	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "in the PokéNav.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle: @ 81E1AFA
 	.string "MAY: Oh, by the way, I passed\n"
@@ -1207,14 +1207,14 @@ RustboroCity_Text_MayMrBrineyHint: @ 81E1CE7
 RustboroCity_Text_BrendanHiLetsRegister: @ 81E1D7D
 	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
 	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
+	.string "on your PokéNav! Cool!\p"
 	.string "Let's register each other so we can\n"
 	.string "get in touch anytime!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan: @ 81E1E11
 	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "in the PokéNav.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle: @ 81E1E34
 	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
@@ -1287,25 +1287,25 @@ RustboroCity_Text_CuttersHouse: @ 81E2296
 
 RustboroCity_Text_DevelopedNewPokenavFeature: @ 81E22A5
 	.string "I've been developing an added feature\n"
-	.string "for the POKéNAV…\p"
+	.string "for the PokéNav…\p"
 	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
+	.string "{PLAYER}, may I see that PokéNav?\n"
 	.string "The one our PRESIDENT gave you?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone: @ 81E2331
 	.string "There you go, {PLAYER}!\p"
 	.string "I added a new feature named\n"
-	.string "MATCH CALL to your POKéNAV.\p"
+	.string "MATCH CALL to your PokéNav.\p"
 	.string "Using the MATCH CALL feature,\n"
 	.string "you can chat with people who have\l"
-	.string "been registered in your POKéNAV.\p"
+	.string "been registered in your PokéNav.\p"
 	.string "{PLAYER}, our PRESIDENT STONE should\n"
-	.string "be registered in your POKéNAV.\p"
+	.string "be registered in your PokéNav.\p"
 	.string "Test it out.\n"
 	.string "Please give our PRESIDENT a call.$"
 
 RustboroCity_Text_PleaseSelectPokenav: @ 81E2449
-	.string "Please select the POKéNAV.$"
+	.string "Please select the PokéNav.$"
 
 RustboroCity_Text_IdBetterGetBackToWork: @ 81E2464
 	.string "Okay, I'd better get back to work.\n"

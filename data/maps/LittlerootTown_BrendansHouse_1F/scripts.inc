@@ -367,7 +367,7 @@ PlayersHouse_1F_Text_DontPushYourselfTooHard: @ 81F7DBE
 	.string "Go for it, honey!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav: @ 81F7E0E
-	.string "MOM: What is that, honey? A POKéNAV?\n"
+	.string "MOM: What is that, honey? A PokéNav?\n"
 	.string "Someone from DEVON gave it to you?\p"
 	.string "Well, honey, how about registering\n"
 	.string "your mom?\p"
@@ -375,7 +375,7 @@ PlayersHouse_1F_Text_IsThatAPokenav: @ 81F7E0E
 
 PlayersHouse_1F_Text_RegisteredMom: @ 81F7E89
 	.string "Registered MOM\n"
-	.string "in the POKéNAV.$"
+	.string "in the PokéNav.$"
 
 PlayersHouse_1F_Text_Vigoroth1: @ 81F7EA8
 	.string "Fugiiiiih!$"

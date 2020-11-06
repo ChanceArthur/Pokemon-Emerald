@@ -561,7 +561,7 @@ MauvilleCity_Text_WallyPokenavCall: @ 81DFDFB
 	.string "… … … … … Beep!\p"
 	.string "WALLY: Oh, hello, {PLAYER}!\p"
 	.string "I just wanted to tell you that\n"
-	.string "my uncle bought me a POKéNAV!\p"
+	.string "my uncle bought me a PokéNav!\p"
 	.string "Now I can get in touch with you\n"
 	.string "anytime, {PLAYER}!\p"
 	.string "… … … … … …\n"
@@ -569,7 +569,7 @@ MauvilleCity_Text_WallyPokenavCall: @ 81DFDFB
 
 MauvilleCity_Text_RegisteredWally: @ 81DFEB4
 	.string "Registered WALLY\n"
-	.string "in the POKéNAV.$"
+	.string "in the PokéNav.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack: @ 81DFED5
 	.string "SCOTT: Hehe…\n"

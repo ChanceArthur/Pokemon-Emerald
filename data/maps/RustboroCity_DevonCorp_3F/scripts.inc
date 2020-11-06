@@ -222,11 +222,11 @@ RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis: @ 821277C
 	.string "That's why I want you to have this!$"
 
 RustboroCity_DevonCorp_3F_Text_ReceivedPokenav: @ 8212820
-	.string "{PLAYER} received a POKéNAV.$"
+	.string "{PLAYER} received a PokéNav.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp: @ 8212837
 	.string "MR. STONE: That device…\p"
-	.string "It's a Pokémon NAVIGATOR, or POKéNAV\n"
+	.string "It's a Pokémon NAVIGATOR, or PokéNav\n"
 	.string "for short.\p"
 	.string "It's an indispensable tool for any\n"
 	.string "Trainer on an adventure.\p"
