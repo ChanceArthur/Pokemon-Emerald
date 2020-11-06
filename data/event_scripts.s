@@ -900,8 +900,8 @@ gText_ComeBackWithSecretPower:: @ 8272E30
 
 gText_PokerusExplanation:: @ 8272F07
 	.string "Your Pokémon may be infected with\n"
-	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
+	.string "Pokérus.\p"
+	.string "Little is known about the Pokérus\n"
 	.string "except that they are microscopic life-\l"
 	.string "forms that attach to Pokémon.\p"
 	.string "While infected, Pokémon are said to\n"
