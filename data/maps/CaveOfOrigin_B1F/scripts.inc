@@ -98,7 +98,7 @@ CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin: @ 8235B23
 	.string "where RAYQUAZA might be right now.$"
 
 CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat: @ 8235BBF
-	.string "WALLACE: MT. PYRE?\p"
+	.string "WALLACE: Mt. Pyre?\p"
 	.string "But when I met the old lady there\n"
 	.string "earlier, she made no mention of it.\p"
 	.string "I very much doubt that the old lady\n"
