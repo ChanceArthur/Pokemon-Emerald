@@ -14,7 +14,7 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy:: @ 82676DC
 	end
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds: @ 82676E5
-	.string "What a TRAINER needs…\p"
+	.string "What a Trainer needs…\p"
 	.string "Knowledge…\n"
 	.string "Strategy…\l"
 	.string "Luck…\l"
@@ -31,7 +31,7 @@ BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains: @ 826779C
 	.string "Do you know about the FRONTIER\n"
 	.string "BRAINS?\p"
 	.string "That's what SCOTT calls the seven\n"
-	.string "special TRAINERS that run the seven\l"
+	.string "special Trainers that run the seven\l"
 	.string "facilities in the BATTLE FRONTIER.$"
 
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling: @ 826782C

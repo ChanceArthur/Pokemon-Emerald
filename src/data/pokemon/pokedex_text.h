@@ -108,7 +108,7 @@ const u8 gPidgeottoPokedexText[] = _(
 
 const u8 gPidgeotPokedexText[] = _(
     "This Pokémon has gorgeous, glossy\n"
-    "feathers. Many TRAINERS are so captivated\n"
+    "feathers. Many Trainers are so captivated\n"
     "by the beautiful feathers on its head that\n"
     "they choose PIDGEOT as their Pokémon.");
 
@@ -602,7 +602,7 @@ const u8 gVoltorbPokedexText[] = _(
     "It bears an uncanny and unexplained\n"
     "resemblance to a POKé BALL. Because it\n"
     "explodes at the slightest shock, even\n"
-    "veteran TRAINERS treat it with caution.");
+    "veteran Trainers treat it with caution.");
 
 const u8 gElectrodePokedexText[] = _(
     "They appear in great numbers at electric\n"
@@ -1176,9 +1176,9 @@ const u8 gQuagsirePokedexText[] = _(
 
 const u8 gEspeonPokedexText[] = _(
     "An ESPEON is extremely loyal to any\n"
-    "TRAINER it considers to be worthy. It is\n"
+    "Trainer it considers to be worthy. It is\n"
     "said to have developed precognitive\n"
-    "powers to protect its TRAINER from harm.");
+    "powers to protect its Trainer from harm.");
 
 const u8 gUmbreonPokedexText[] = _(
     "UMBREON evolved from exposure to the\n"
@@ -1417,7 +1417,7 @@ const u8 gSmearglePokedexText[] = _(
 const u8 gTyroguePokedexText[] = _(
     "TYROGUE become stressed out if they do\n"
     "not get to train every day. When raising\n"
-    "this Pokémon, the TRAINER must establish\n"
+    "this Pokémon, the Trainer must establish\n"
     "a regular training schedule.");
 
 const u8 gHitmontopPokedexText[] = _(
@@ -1694,7 +1694,7 @@ const u8 gGardevoirPokedexText[] = _(
     "It apparently does not feel the pull of\n"
     "gravity because it supports itself with\n"
     "psychic power. It will give its life to\n"
-    "protect its TRAINER.");
+    "protect its Trainer.");
 
 const u8 gSurskitPokedexText[] = _(
     "They gather on puddles after evening\n"
@@ -2096,7 +2096,7 @@ const u8 gFeebasPokedexText[] = _(
     "FEEBAS live in ponds that are heavily\n"
     "infested with weeds. Because of its\n"
     "hopelessly shabby appearance, it\n"
-    "seems as if few TRAINERS raise it.");
+    "seems as if few Trainers raise it.");
 
 const u8 gMiloticPokedexText[] = _(
     "It is said to live at the bottom of\n"

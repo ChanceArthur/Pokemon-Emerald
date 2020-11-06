@@ -165,7 +165,7 @@ SSTidalCorridor_EventScript_LookThroughPorthole:: @ 823C19E
 SSTidalCorridor_EventScript_Sailor:: @ 823C1A3
 	lock
 	faceplayer
-	goto_if_set FLAG_DEFEATED_SS_TIDAL_TRAINERS, SSTidalCorridor_EventScript_EnjoyYourCruise
+	goto_if_set FLAG_DEFEATED_SS_TIDAL_Trainers, SSTidalCorridor_EventScript_EnjoyYourCruise
 	call SSTidalCorridor_EventScript_CheckIfTrainersDefeated
 	msgbox SSTidalCorridor_Text_VisitOtherCabins, MSGBOX_DEFAULT
 	release
@@ -310,7 +310,7 @@ SSTidalCorridor_Text_WeveArrived: @ 823C64F
 
 SSTidalCorridor_Text_VisitOtherCabins: @ 823C65E
 	.string "Go visit other cabins.\n"
-	.string "TRAINERS bored of the boat trip will\l"
+	.string "Trainers bored of the boat trip will\l"
 	.string "be itching to battle.$"
 
 SSTidalCorridor_Text_EnjoyYourCruise: @ 823C6B0

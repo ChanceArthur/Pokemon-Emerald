@@ -133,7 +133,7 @@ MatchCall_WildBattleText15:: @ 82A9EFD
 MatchCall_NegativeBattleText1:: @ 82A9FAB
 	.string "Hi! {PLAYER}{KUN}, hello!\n"
 	.string "This is {STR_VAR_1}.\p"
-	.string "I tried battling another TRAINER,\n"
+	.string "I tried battling another Trainer,\n"
 	.string "but I lost.\p"
 	.string "It was really disappointing.\n"
 	.string "Well, see you again!$"
@@ -247,7 +247,7 @@ MatchCall_NegativeBattleText14:: @ 82AA64D
 MatchCall_PositiveBattleText1:: @ 82AA6AF
 	.string "Hi! {PLAYER}{KUN}, hello!\n"
 	.string "This is {STR_VAR_1}!\p"
-	.string "I battled another TRAINER earlier.\n"
+	.string "I battled another Trainer earlier.\n"
 	.string "I won! I won!\p"
 	.string "My {STR_VAR_2} really worked hard\n"
 	.string "for me. This is so great!$"
@@ -653,11 +653,11 @@ MatchCall_PersonalizedText1:: @ 82AC009
 MatchCall_PersonalizedText2:: @ 82AC0BD
 	.string "This is {STR_VAR_1}.\n"
 	.string "Hello.\p"
-	.string "I was just telling a new TRAINER\n"
+	.string "I was just telling a new Trainer\n"
 	.string "about you.\p"
-	.string "I told her about a strong TRAINER\n"
+	.string "I told her about a strong Trainer\n"
 	.string "who raises Pokémon with care.\p"
-	.string "I hope you'll become a TRAINER\n"
+	.string "I hope you'll become a Trainer\n"
 	.string "that everyone will admire.\p"
 	.string "I hope we meet again!$"
 
@@ -698,12 +698,12 @@ MatchCall_PersonalizedText6:: @ 82AC3B6
 MatchCall_PersonalizedText7:: @ 82AC446
 	.string "Hello, this is {STR_VAR_1}…\p"
 	.string "I've grown a little jaded with this\n"
-	.string "whole COOLTRAINER thing…\p"
+	.string "whole COOLTrainer thing…\p"
 	.string "Everyone thinks I'm a perfect\n"
-	.string "TRAINER, and that makes me try to\l"
+	.string "Trainer, and that makes me try to\l"
 	.string "live up to that expectation.\p"
 	.string "But I guess that goes with being\n"
-	.string "a COOLTRAINER.\p"
+	.string "a COOLTrainer.\p"
 	.string "I'll just have to buckle down…\n"
 	.string "and grin and bear it.\p"
 	.string "You're the only person that I could\n"
@@ -718,7 +718,7 @@ MatchCall_PersonalizedText8:: @ 82AC5C7
 	.string "you as the target.\p"
 	.string "I don't intend to lose when we\n"
 	.string "battle again.\p"
-	.string "Isn't it great to have TRAINER\n"
+	.string "Isn't it great to have Trainer\n"
 	.string "friends? Let's meet again!$"
 
 MatchCall_PersonalizedText9:: @ 82AC682
@@ -798,7 +798,7 @@ MatchCall_PersonalizedText15:: @ 82ACC3F
 	.string "I'm {STR_VAR_1}!\n"
 	.string "The man of the sea!\p"
 	.string "You know what I think?\p"
-	.string "The TRAINERS out at sea are\n"
+	.string "The Trainers out at sea are\n"
 	.string "the toughest of the tough!\p"
 	.string "You should learn from me and train\n"
 	.string "in the sea…\p"
@@ -813,7 +813,7 @@ MatchCall_PersonalizedText16:: @ 82ACD2F
 	.string "I've done nothing but lose to them!\p"
 	.string "But even though I may lose to\n"
 	.string "Pokémon, I won't lose to another\l"
-	.string "TRAINER, no sir!\p"
+	.string "Trainer, no sir!\p"
 	.string "We have to battle again!\n"
 	.string "Ugwaah!$"
 
@@ -881,7 +881,7 @@ MatchCall_PersonalizedText22:: @ 82AD1DF
 
 MatchCall_PersonalizedText23:: @ 82AD2A8
 	.string "It's {STR_VAR_1}.\p"
-	.string "When there's a strong TRAINER\n"
+	.string "When there's a strong Trainer\n"
 	.string "nearby, I can sometimes sense that\l"
 	.string "somehow.\p"
 	.string "Did you pass close by, {PLAYER}{KUN}?\n"
@@ -910,7 +910,7 @@ MatchCall_PersonalizedText25:: @ 82AD44E
 	.string "ROXANNE tells me exactly what\n"
 	.string "I did wrong so I can learn from it.\p"
 	.string "You bet I'll be going to\n"
-	.string "the TRAINER'S SCHOOL tomorrow!\p"
+	.string "the Trainer's SCHOOL tomorrow!\p"
 	.string "See you later!$"
 
 MatchCall_PersonalizedText26:: @ 82AD53A
@@ -981,7 +981,7 @@ MatchCall_PersonalizedText30:: @ 82ADA8F
 	.string "I could not be an EXPERT on my own\l"
 	.string "power.\p"
 	.string "Only with the help of Pokémon can\n"
-	.string "a TRAINER become an EXPERT.\p"
+	.string "a Trainer become an EXPERT.\p"
 	.string "Humph! I believe I may have said\n"
 	.string "something deep and profound!\p"
 	.string "I shall leave you in good spirits!$"
@@ -991,7 +991,7 @@ MatchCall_PersonalizedText31:: @ 82ADB9B
 	.string "I'm glad to chat with you!\p"
 	.string "I am feeling alive and refreshed\n"
 	.string "soaking in this hot-spring tub.\p"
-	.string "I've been battling young TRAINERS\n"
+	.string "I've been battling young Trainers\n"
 	.string "since we met, but you're still\l"
 	.string "the best of the lot.\p"
 	.string "I imagine you'll become an EXPERT\n"
@@ -1038,7 +1038,7 @@ MatchCall_PersonalizedText34:: @ 82ADF07
 	.string "I'm now a TRIATHLETE.\p"
 	.string "You just can't tell where life will\n"
 	.string "take you, if you get my drift.\p"
-	.string "You're a TRAINER now, but who\n"
+	.string "You're a Trainer now, but who\n"
 	.string "knows what the future holds, huh?\p"
 	.string "Imagine yourself as a teacher,\n"
 	.string "or maybe an artist. Cool, huh?\p"
@@ -1240,7 +1240,7 @@ MatchCall_PersonalizedText53:: @ 82AEEF4
 
 MatchCall_PersonalizedText54:: @ 82AEFDA
 	.string "Hi, it's {STR_VAR_1}. You know,\n"
-	.string "the TRAINER who's always prepared!\p"
+	.string "the Trainer who's always prepared!\p"
 	.string "{PLAYER}{KUN}, do you have enough items?\n"
 	.string "Are your Pokémon fit for action?\p"
 	.string "Keeping everything perfect around\n"
@@ -1254,7 +1254,7 @@ MatchCall_PersonalizedText55:: @ 82AF0E7
 	.string "It's {STR_VAR_1}!\p"
 	.string "{STR_VAR_2} is a very busy\n"
 	.string "thoroughfare, so I get challenged\l"
-	.string "by all kinds of TRAINERS every day.\p"
+	.string "by all kinds of Trainers every day.\p"
 	.string "Today, I won five battles and lost\n"
 	.string "only three!\p"
 	.string "How did you do today?\n"
@@ -1321,7 +1321,7 @@ MatchCall_PersonalizedText59:: @ 82AF480
 
 MatchCall_PersonalizedText60:: @ 82AF671
 	.string "It's a pleasure to chat with\n"
-	.string "a young TRAINER like you.\p"
+	.string "a young Trainer like you.\p"
 	.string "I imagine that you will continue to\n"
 	.string "enjoy Pokémon whatever your age.\p"
 	.string "Wouldn't it be good if you had\n"
@@ -1379,7 +1379,7 @@ MatchCall_PersonalizedText64:: @ 82AFB26
 	.string "It's {STR_VAR_1}!\p"
 	.string "I'm kind of busy, but I figured\n"
 	.string "I should let you know that I've\l"
-	.string "beaten five TRAINERS again today.\p"
+	.string "beaten five Trainers again today.\p"
 	.string "If I keep this pace up, I can\n"
 	.string "probably beat you next time.\p"
 	.string "I think we'll be good rivals,\n"
@@ -2286,7 +2286,7 @@ MatchCall_Text_Drake:: @ 82B368B
 	.string "I understand that there is now\n"
 	.string "a facility called the BATTLE\l"
 	.string "FRONTIER that tests the skills of\l"
-	.string "TRAINERS.\p"
+	.string "Trainers.\p"
 	.string "However, if you wish to have real\n"
 	.string "battles, there is no substitute for\l"
 	.string "the Pokémon LEAGUE!\p"
@@ -2453,7 +2453,7 @@ MatchCall_Text_May14:: @ 2B42E0
 	.string "to go, do you?$"
 
 MatchCall_Text_May15:: @ 2B4350
-	.string "MAY: There isn't a single TRAINER\n"
+	.string "MAY: There isn't a single Trainer\n"
 	.string "left in HOENN who doesn't know who\l"
 	.string "you are, {PLAYER}{KUN}!\p"
 	.string "When I tell people that I'm friends\n"
@@ -2579,7 +2579,7 @@ MatchCall_Text_Brendan14:: @ 2B4CD8
 	.string "You're getting awful close now!$"
 
 MatchCall_Text_Brendan15:: @ 2B4D46
-	.string "BRENDAN: There isn't a TRAINER in\n"
+	.string "BRENDAN: There isn't a Trainer in\n"
 	.string "all of HOENN who doesn't know who\l"
 	.string "you are, {PLAYER}!\p"
 	.string "When I tell people that I'm friends\n"
@@ -2590,7 +2590,7 @@ MatchCall_Text_Wally1:: @ 2B4DE2
 	.string "WALLY: Oh, {PLAYER}!\p"
 	.string "I've been getting healthier and\n"
 	.string "more physically fit.\p"
-	.string "I hope I can become a TRAINER like\n"
+	.string "I hope I can become a Trainer like\n"
 	.string "you soon, {PLAYER}!$"
 
 MatchCall_Text_Wally2:: @ 2B4E57
@@ -2609,7 +2609,7 @@ MatchCall_Text_Wally3:: @ 2B4EA5
 MatchCall_Text_Wally4:: @ 2B4F41
 	.string "WALLY: {PLAYER}?\n"
 	.string "It's me, WALLY!\p"
-	.string "The world of TRAINERS is amazing!\p"
+	.string "The world of Trainers is amazing!\p"
 	.string "When I have my Pokémon with me,\n"
 	.string "all sorts of people say hi!\p"
 	.string "It's as if everyone's getting\n"
@@ -2647,13 +2647,13 @@ MatchCall_Text_Scott1:: @ 2B5184
 	.string "Like in the mountains, in the sea,\n"
 	.string "in tall grass anywhere?\p"
 	.string "Just like Pokémon, you can find\n"
-	.string "TRAINERS everywhere, too.\p"
+	.string "Trainers everywhere, too.\p"
 	.string "As a result, I have to hurry\n"
 	.string "everywhere, too. Busy, busy!$"
 
 MatchCall_Text_Scott2:: @ 2B5275
 	.string "SCOTT: I'm on ROUTE 119 right now.\n"
-	.string "It's teeming with TRAINERS!\p"
+	.string "It's teeming with Trainers!\p"
 	.string "It's also overgrown with tall grass\n"
 	.string "everywhere, it seems.\p"
 	.string "Walking around in shorts here\n"
@@ -2665,7 +2665,7 @@ MatchCall_Text_Scott3:: @ 2B5323
 	.string "MT. PYRE?\p"
 	.string "The place is a memorial to Pokémon\n"
 	.string "that have passed away.\p"
-	.string "It's somewhere every TRAINER\n"
+	.string "It's somewhere every Trainer\n"
 	.string "should climb to the top of once.$"
 
 MatchCall_Text_Scott4:: @ 2B53DB
@@ -2675,12 +2675,12 @@ MatchCall_Text_Scott4:: @ 2B53DB
 	.string "TEAM MAGMA and TEAM AQUA,\n"
 	.string "I think they were.\p"
 	.string "I would think there'd be some\n"
-	.string "skilled TRAINERS among them.\p"
+	.string "skilled Trainers among them.\p"
 	.string "…But if they're thugs…$"
 
 MatchCall_Text_Scott5:: @ 2B54A5
 	.string "SCOTT: Oh, hi, {PLAYER}{KUN}.\p"
-	.string "Might there be tough TRAINERS\n"
+	.string "Might there be tough Trainers\n"
 	.string "at the bottom of the sea?\p"
 	.string "I can't go check for myself.\n"
 	.string "I can't swim, for one.\l"
@@ -2787,7 +2787,7 @@ MatchCall_Text_Steven1:: @ 82B5B95
 MatchCall_Text_Steven2:: @ 82B5C53
 	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
 	.string "I've met a lot of different\n"
-	.string "TRAINERS so far.\p"
+	.string "Trainers so far.\p"
 	.string "But you're one of a kind.\n"
 	.string "You're not like anyone else.$"
 

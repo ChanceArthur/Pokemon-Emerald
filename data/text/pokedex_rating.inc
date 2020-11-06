@@ -72,7 +72,7 @@ gBirchDexRatingText_LessThan130:: @ 82A609C
 gBirchDexRatingText_LessThan140:: @ 82A60D5
 	.string "I've heard of Pokémon that evolve\n"
 	.string "when they come to fully love their\l"
-	.string "TRAINERS.$"
+	.string "Trainers.$"
 
 gBirchDexRatingText_LessThan150:: @ 82A6124
 	.string "I had no idea that there were so\n"

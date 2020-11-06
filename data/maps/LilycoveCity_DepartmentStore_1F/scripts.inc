@@ -173,7 +173,7 @@ LilycoveCity_DepartmentStore_1F_Text_Azumarill: @ 821F974
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign: @ 821F98A
 	.string "1F: SERVICE COUNTER\n"
 	.string "    LOTTERY CORNER\p"
-	.string "2F: TRAINER'S ZONE\p"
+	.string "2F: Trainer's ZONE\p"
 	.string "3F: BATTLE COLLECTION\p"
 	.string "4F: TM CORNER\p"
 	.string "5F: POKé DOLL FLOOR\p"

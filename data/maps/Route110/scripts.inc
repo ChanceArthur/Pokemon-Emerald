@@ -968,14 +968,14 @@ Route110_Text_MauvilleCitySign: @ 81F08F3
 	.string "{UP_ARROW} MAUVILLE CITY$"
 
 Route110_Text_TrainerTipsPrlzSleep: @ 81F090D
-	.string "TRAINER TIPS\p"
+	.string "Trainer TIPS\p"
 	.string "The foe can be made helpless by\n"
 	.string "paralyzing it or causing it to sleep.\p"
 	.string "It is an important technique for\n"
 	.string "Pokémon battles.$"
 
 Route110_Text_TrainerTipsRegisterItems: @ 81F0992
-	.string "TRAINER TIPS\p"
+	.string "Trainer TIPS\p"
 	.string "The items in the BAG can be reorganized\n"
 	.string "by pressing SELECT.$"
 

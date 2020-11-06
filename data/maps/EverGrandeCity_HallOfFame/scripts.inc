@@ -95,7 +95,7 @@ EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions: @ 822990E
 
 EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames: @ 82299A3
 	.string "WALLACE: Come on, let's record your\n"
-	.string "name as a TRAINER who triumphed over\l"
+	.string "name as a Trainer who triumphed over\l"
 	.string "the Pokémon LEAGUE, and the names of\l"
 	.string "the partners who battled with you.$"
 

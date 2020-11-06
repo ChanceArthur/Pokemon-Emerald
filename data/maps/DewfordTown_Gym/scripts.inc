@@ -310,7 +310,7 @@ DewfordTown_Gym_Text_GymGuideAdvice: @ 81FC9D6
 	.string "What's worse, the GYM is as dark as\n"
 	.string "the ocean floor.\p"
 	.string "But it will get brighter after defeating\n"
-	.string "the TRAINERS in your way.\p"
+	.string "the Trainers in your way.\p"
 	.string "Hey, okay, go for it!$"
 
 DewfordTown_Gym_Text_GymGuidePostVictory: @ 81FCB5C
@@ -436,14 +436,14 @@ DewfordTown_Gym_Text_RegisteredBrawly: @ 81FD1E0
 DewfordTown_Gym_Text_BrawlyPostBattle: @ 81FD20D
 	.string "I can see your talent becoming a giant\n"
 	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.string "among Trainers one day!$"
 
 DewfordTown_Gym_Text_GymStatue: @ 81FD272
 	.string "DEWFORD TOWN Pokémon GYM$"
 
 DewfordTown_Gym_Text_GymStatueCertified: @ 81FD28B
 	.string "DEWFORD TOWN Pokémon GYM\p"
-	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
+	.string "BRAWLY'S CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch: @ 81FD2C4

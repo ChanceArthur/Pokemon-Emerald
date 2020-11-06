@@ -235,7 +235,7 @@ LavaridgeTown_Gym_B1F_Text_KeeganIntro: @ 81FEC31
 	.string "wouldn't you?\p"
 	.string "But you should know that maintaining\n"
 	.string "your willpower is an important ability\l"
-	.string "for all TRAINERS.$"
+	.string "for all Trainers.$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganDefeat: @ 81FECE3
 	.string "Play with fire, and be burned…$"
@@ -268,7 +268,7 @@ LavaridgeTown_Gym_1F_Text_DanielleDefeat: @ 81FEE42
 
 LavaridgeTown_Gym_1F_Text_DaniellePostBattle: @ 81FEE5D
 	.string "I'm going to be a pretty and strong\n"
-	.string "TRAINER just like FLANNERY.$"
+	.string "Trainer just like FLANNERY.$"
 
 LavaridgeTown_Gym_B1F_Text_JaceIntro: @ 81FEE9D
 	.string "Come on, get with it!\n"
@@ -310,7 +310,7 @@ LavaridgeTown_Gym_B1F_Text_EliPostBattle: @ 81FF09A
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro: @ 81FF0DC
 	.string "Welcome… No, wait.\p"
-	.string "Puny TRAINER, how good to see you've\n"
+	.string "Puny Trainer, how good to see you've\n"
 	.string "made it here!\p"
 	.string "I have been entrusted with the…\n"
 	.string "No, wait.\p"
@@ -371,7 +371,7 @@ LavaridgeTown_Gym_1F_Text_GymStatue: @ 81FF5A9
 
 LavaridgeTown_Gym_1F_Text_GymStatueCertified: @ 81FF5C4
 	.string "LAVARIDGE TOWN Pokémon GYM\p"
-	.string "FLANNERY'S CERTIFIED TRAINERS:\n"
+	.string "FLANNERY'S CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch: @ 81FF601

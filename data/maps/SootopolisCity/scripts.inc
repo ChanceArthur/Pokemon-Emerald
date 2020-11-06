@@ -1607,11 +1607,11 @@ SootopolisCity_Text_CaveOfOriginPleaseLeave: @ 81E6D77
 SootopolisCity_Text_LeadSuperiorTrainerToCave: @ 81E6DFE
 	.string "A person with a strong will and\n"
 	.string "superior talent…\p"
-	.string "A TRAINER who has knowledge and\n"
+	.string "A Trainer who has knowledge and\n"
 	.string "experience of many kinds of Pokémon…\p"
 	.string "If such a person were to appear, I was\n"
 	.string "instructed by WALLACE to lead that\l"
-	.string "TRAINER to this CAVE.$"
+	.string "Trainer to this CAVE.$"
 
 SootopolisCity_Text_AwakenedPokemonClash: @ 81E6ED4
 	.string "Oh, my…\p"

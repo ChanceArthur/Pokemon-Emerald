@@ -1139,7 +1139,7 @@ SlateportCity_Text_GetNameRaterToHelpYou: @ 81DE10E
 SlateportCity_Text_CantChangeTradeMonName: @ 81DE16C
 	.string "Any Pokémon you get in a trade,\n"
 	.string "you can't change its nickname.\p"
-	.string "The original TRAINER's love for that\n"
+	.string "The original Trainer's love for that\n"
 	.string "Pokémon is in the nickname.$"
 
 SlateportCity_Text_BattleTentBuiltRecently: @ 81DE1EC
@@ -1365,7 +1365,7 @@ SlateportCity_Text_YouDroveTeamAquaAway: @ 81DF032
 
 SlateportCity_Text_MaybeThisTrainer: @ 81DF0FE
 	.string "SCOTT: Hmm…\n"
-	.string "Maybe, just maybe, this TRAINER…$"
+	.string "Maybe, just maybe, this Trainer…$"
 
 SlateportCity_Text_LetsRegisterEachOther: @ 81DF12B
 	.string "SCOTT: All right! I think you're going\n"
@@ -1393,6 +1393,6 @@ SlateportCity_Text_TakingBattleTentChallenge: @ 81DF28C
 	.string "to take the BATTLE TENT challenge?\p"
 	.string "Yeah! That's a good idea!\n"
 	.string "That's a really great idea!\p"
-	.string "After all, a tough TRAINER is\n"
+	.string "After all, a tough Trainer is\n"
 	.string "the perfect fit for the BATTLE TENT!\p"
 	.string "Give it your best effort!$"

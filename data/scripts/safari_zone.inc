@@ -104,7 +104,7 @@ Route121_SafariZoneEntrance_Text_WelcomeToSafariZone: @ 82A4D12
 	.string "And, you'll see them in their wild,\n"
 	.string "untamed state in natural habitats.\p"
 	.string "What's more, we've thrown open the\n"
-	.string "gates to Pokémon TRAINERS.\p"
+	.string "gates to Pokémon Trainers.\p"
 	.string "You're encouraged to catch Pokémon\n"
 	.string "for keeps!\p"
 	.string "Come in and enjoy the SAFARI ZONE!$"
@@ -225,7 +225,7 @@ SafariZone_South_Text_Youngster: @ 82A553E
 	.string "without me noticing.$"
 
 Route121_SafariZoneEntrance_Text_TrainerTip: @ 82A55BB
-	.string "SAFARI ZONE TRAINER TIP!\p"
+	.string "SAFARI ZONE Trainer TIP!\p"
 	.string "Throw {POKEBLOCK}S at wild Pokémon to make\n"
 	.string "them less likely to flee.$"
 

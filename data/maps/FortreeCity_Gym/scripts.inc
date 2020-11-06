@@ -159,7 +159,7 @@ FortreeCity_Gym_Text_JaredDefeat: @ 82168D3
 	.string "You're strong…$"
 
 FortreeCity_Gym_Text_JaredPostBattle: @ 82168E7
-	.string "A TRAINER has to be smart to keep\n"
+	.string "A Trainer has to be smart to keep\n"
 	.string "up with unexpected turns of events.\p"
 	.string "Do you have the smarts to get to\n"
 	.string "our LEADER?$"
@@ -176,7 +176,7 @@ FortreeCity_Gym_Text_EdwardoDefeat: @ 82169C7
 
 FortreeCity_Gym_Text_EdwardoPostBattle: @ 82169F1
 	.string "The world is huge, and there are\n"
-	.string "countless tough TRAINERS.\p"
+	.string "countless tough Trainers.\p"
 	.string "I'm going to keep training and make\n"
 	.string "myself even stronger.$"
 
@@ -244,7 +244,7 @@ FortreeCity_Gym_Text_WinonaIntro: @ 8216D75
 	.string "of BIRD Pokémon and I!$"
 
 FortreeCity_Gym_Text_WinonaDefeat: @ 8216E60
-	.string "Never before have I seen a TRAINER\n"
+	.string "Never before have I seen a Trainer\n"
 	.string "command Pokémon with more grace\l"
 	.string "than I…\p"
 	.string "In recognition of your prowess,\n"
@@ -282,7 +282,7 @@ FortreeCity_Gym_Text_GymStatue: @ 82170AE
 
 FortreeCity_Gym_Text_GymStatueCertified: @ 82170C7
 	.string "FORTREE CITY Pokémon GYM\p"
-	.string "WINONA'S CERTIFIED TRAINERS:\n"
+	.string "WINONA'S CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch: @ 8217100

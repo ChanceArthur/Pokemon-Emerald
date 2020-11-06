@@ -198,7 +198,7 @@ LilycoveCity_EventScript_MoveDeletersHouseSign:: @ 81E2D74
 
 LilycoveCity_EventScript_WailmerTrainerGrunt:: @ 81E2D7D
 	lockall
-	goto_if_set FLAG_MET_WAILMER_TRAINER, LilycoveCity_EventScript_MetWailmerTrainer
+	goto_if_set FLAG_MET_WAILMER_Trainer, LilycoveCity_EventScript_MetWailmerTrainer
 	msgbox LilycoveCity_Text_WailmerLeapOutOfWater, MSGBOX_DEFAULT
 	applymovement VAR_LAST_TALKED, Common_Movement_FacePlayer
 	waitmovement 0
@@ -440,7 +440,7 @@ LilycoveCity_Text_MayNotRaisingPokemon: @ 81E318D
 	.string "MAY: Oh, why? {PLAYER}{KUN}, haven't you\n"
 	.string "been raising your Pokémon?\p"
 	.string "That's not a very good showing as a\n"
-	.string "TRAINER…$"
+	.string "Trainer…$"
 
 LilycoveCity_Text_MayBattleMe: @ 81E31F5
 	.string "MAY: Come on, battle with me, so I can\n"
@@ -517,7 +517,7 @@ LilycoveCity_Text_BrendanDefeat: @ 81E3777
 	.string "Humph…\n"
 	.string "You've done a lot of raising.\p"
 	.string "That stings a bit--I had a head start\n"
-	.string "on you as a TRAINER…$"
+	.string "on you as a Trainer…$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot: @ 81E37D7
 	.string "BRENDAN: I…\n"
@@ -684,7 +684,7 @@ LilycoveCity_Text_CitySign: @ 81E448B
 
 LilycoveCity_Text_ContestHallSign: @ 81E44C3
 	.string "Pokémon CONTEST HALL\n"
-	.string "“The gathering place for TRAINERS!”$"
+	.string "“The gathering place for Trainers!”$"
 
 LilycoveCity_Text_MotelSign: @ 81E44FC
 	.string "COVE LILY MOTEL\p"
@@ -714,8 +714,8 @@ LilycoveCity_Text_HarborSign: @ 81E4624
 	.string "the ferry S.S. TIDAL.”$"
 
 LilycoveCity_Text_TrainerFanClubSign: @ 81E466E
-	.string "Pokémon TRAINER FAN CLUB\p"
-	.string "The names of TRAINERS are scribbled\n"
+	.string "Pokémon Trainer FAN CLUB\p"
+	.string "The names of Trainers are scribbled\n"
 	.string "all over the sign…$"
 
 LilycoveCity_Text_DepartmentStoreSign: @ 81E46BE

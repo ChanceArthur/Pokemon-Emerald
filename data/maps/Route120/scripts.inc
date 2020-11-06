@@ -410,7 +410,7 @@ Route120_Text_StevenReadyForBattle: @ 81F5ADE
 
 Route120_Text_StevenShowMeYourPower: @ 81F5B0F
 	.string "STEVEN: {PLAYER}{KUN}, show me your true\n"
-	.string "power as a TRAINER!$"
+	.string "power as a Trainer!$"
 
 Route120_Text_StevenUsedDevonScope: @ 81F5B43
 	.string "STEVEN used the DEVON SCOPE.\p"
@@ -430,7 +430,7 @@ Route120_Text_StevenGiveDevonScope: @ 81F5BAF
 
 Route120_Text_StevenGoodbye: @ 81F5C7B
 	.string "STEVEN: {PLAYER}{KUN}.\p"
-	.string "I enjoy seeing Pokémon and TRAINERS\n"
+	.string "I enjoy seeing Pokémon and Trainers\n"
 	.string "who strive together.\p"
 	.string "I think you're doing great.\p"
 	.string "Well, let's meet again somewhere.$"

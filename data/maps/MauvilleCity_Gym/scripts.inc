@@ -326,8 +326,8 @@ MauvilleCity_Gym_Text_VivianDefeat: @ 820E4F4
 MauvilleCity_Gym_Text_VivianPostBattle: @ 820E50F
 	.string "I've heard that MAUVILLE was founded\n"
 	.string "by WATTSON.\p"
-	.string "He was a TRAINER long before we\n"
-	.string "became TRAINERS.\l"
+	.string "He was a Trainer long before we\n"
+	.string "became Trainers.\l"
 	.string "He must know all sorts of things!$"
 
 MauvilleCity_Gym_Text_AngeloIntro: @ 820E593
@@ -384,7 +384,7 @@ MauvilleCity_Gym_Text_RegisteredWattson: @ 820E8B5
 
 MauvilleCity_Gym_Text_WattsonPostBattle: @ 820E8E3
 	.string "I swell with optimism, seeing a promising\n"
-	.string "young TRAINER like you!$"
+	.string "young Trainer like you!$"
 
 MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor: @ 820E925
 	.string "Wahahahah!\n"
@@ -395,7 +395,7 @@ MauvilleCity_Gym_Text_GymStatue: @ 820E952
 
 MauvilleCity_Gym_Text_GymStatueCertified: @ 820E96C
 	.string "MAUVILLE CITY Pokémon GYM\p"
-	.string "WATTSON'S CERTIFIED TRAINERS:\n"
+	.string "WATTSON'S CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 MauvilleCity_Gym_Text_WattsonPreRematch: @ 820E9A7

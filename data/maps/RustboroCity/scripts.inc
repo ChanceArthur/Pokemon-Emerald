@@ -1059,7 +1059,7 @@ RustboroCity_Text_HaveYouChallengedGym: @ 81E130D
 	.string "Have you taken the Pokémon GYM\n"
 	.string "challenge?\p"
 	.string "When you get that shiny GYM BADGE\n"
-	.string "in hand, I guess TRAINERS begin to\l"
+	.string "in hand, I guess Trainers begin to\l"
 	.string "realize what is required of them.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge: @ 81E139E
@@ -1071,7 +1071,7 @@ RustboroCity_Text_YoureNewAroundHere: @ 81E1407
 	.string "Oh? Who might you be?\n"
 	.string "You're a new face around these parts.\p"
 	.string "Have you just transferred into the\n"
-	.string "Pokémon TRAINER'S SCHOOL?$"
+	.string "Pokémon Trainer's SCHOOL?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire: @ 81E1480
 	.string "I challenged the GYM LEADER, but…\p"
@@ -1100,7 +1100,7 @@ RustboroCity_Text_WowYouHavePokemon: @ 81E1633
 	.string "places with Pokémon, too.$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool: @ 81E1695
-	.string "Pokémon TRAINER'S SCHOOL!\p"
+	.string "Pokémon Trainer's SCHOOL!\p"
 	.string "If I go to this school, will I be able\n"
 	.string "to catch rare Pokémon easily?$"
 
@@ -1129,7 +1129,7 @@ RustboroCity_Text_WaitDontTakeMyGoods: @ 81E1817
 
 RustboroCity_Text_HelpMeIWasRobbed: @ 81E183E
 	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
+	.string "You're that fantastic Trainer who\n"
 	.string "helped me in PETALBURG WOODS!\p"
 	.string "Help me! I was robbed by TEAM AQUA!\n"
 	.string "I have to get the DEVON GOODS back!\p"
@@ -1145,7 +1145,7 @@ RustboroCity_Text_YouGotItThankYou: @ 81E194D
 	.string "The DEVON GOODS?\p"
 	.string "You did!\n"
 	.string "You got them back!\p"
-	.string "You really are a great TRAINER!\p"
+	.string "You really are a great Trainer!\p"
 	.string "I know! As my thanks, I'll give you\n"
 	.string "another GREAT BALL!$"
 
@@ -1183,14 +1183,14 @@ RustboroCity_Text_MayOhHaventRaisedPokemonEnough: @ 81E1BD3
 	.string "MAY: Oh, what's the matter?\p"
 	.string "Haven't you caught or raised your\n"
 	.string "Pokémon very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "That's not very good for a Trainer!$"
 
 RustboroCity_Text_MayWantToBattle: @ 81E1C48
 	.string "MAY: So, what do you think?\n"
 	.string "How about a little battle here?$"
 
 RustboroCity_Text_MayImNotGoingToLose: @ 81E1C84
-	.string "MAY: You just became a TRAINER,\n"
+	.string "MAY: You just became a Trainer,\n"
 	.string "{PLAYER}{KUN}. I'm not going to lose!$"
 
 RustboroCity_Text_MayDefeat: @ 81E1CC1
@@ -1237,7 +1237,7 @@ RustboroCity_Text_BrendanWantToBattle: @ 81E1F76
 
 RustboroCity_Text_BrendanIWontGoEasy: @ 81E1FA9
 	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "a Trainer, but I won't go easy!$"
 
 RustboroCity_Text_BrendanDefeat: @ 81E1FE9
 	.string "Hmm…\n"
@@ -1278,7 +1278,7 @@ RustboroCity_Text_CitySign: @ 81E220B
 	.string "nature and science.”$"
 
 RustboroCity_Text_TrainersSchoolSign: @ 81E2253
-	.string "Pokémon TRAINER'S SCHOOL\p"
+	.string "Pokémon Trainer's SCHOOL\p"
 	.string "“We'll teach you anything about\n"
 	.string "Pokémon!”$"
 
@@ -1314,9 +1314,9 @@ RustboroCity_Text_IdBetterGetBackToWork: @ 81E2464
 RustboroCity_Text_YouCanHave2On2Battle: @ 81E249D
 	.string "Did you know this?\p"
 	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another TRAINER.\p"
-	.string "If you catch the eyes of two TRAINERS\n"
+	.string "if you're not with another Trainer.\p"
+	.string "If you catch the eyes of two Trainers\n"
 	.string "when you have two or more Pokémon,\l"
 	.string "they'll both challenge you.\p"
 	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two TRAINERS by yourself?$"
+	.string "could beat two Trainers by yourself?$"

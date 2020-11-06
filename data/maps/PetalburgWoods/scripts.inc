@@ -343,7 +343,7 @@ PetalburgWoods_Text_HandOverThosePapers: @ 822E428
 
 PetalburgWoods_Text_YouHaveToHelpMe: @ 822E457
 	.string "Aiyeeeh!\p"
-	.string "You're a Pokémon TRAINER, aren't you?\n"
+	.string "You're a Pokémon Trainer, aren't you?\n"
 	.string "You've got to help me, please!$"
 
 PetalburgWoods_Text_NoOneCrossesTeamAqua: @ 822E4A5
@@ -449,7 +449,7 @@ PetalburgWoods_Text_HiddenItemsExplanation: @ 822EA8B
 PetalburgWoods_Text_TryUsingThisItem: @ 822EAFE
 	.string "Oh, neat!\n"
 	.string "That's the BADGE from RUSTBORO GYM!\p"
-	.string "You must be a TRAINER.\n"
+	.string "You must be a Trainer.\n"
 	.string "You should try using this item.$"
 
 PetalburgWoods_Text_MiracleSeedExplanation: @ 822EB63
@@ -461,7 +461,7 @@ PetalburgWoods_Text_MiracleSeedExplanation: @ 822EB63
 	.string "to hold.$"
 
 PetalburgWoods_Text_TrainerTipsExperience: @ 822EC10
-	.string "TRAINER TIPS\p"
+	.string "Trainer TIPS\p"
 	.string "Any Pokémon that appears even once\n"
 	.string "in a battle is awarded EXP Points.\p"
 	.string "To raise a weak Pokémon, put it at the\n"
@@ -471,7 +471,7 @@ PetalburgWoods_Text_TrainerTipsExperience: @ 822EC10
 	.string "being exposed to any harm.$"
 
 PetalburgWoods_Text_TrainerTipsPP: @ 822ED07
-	.string "TRAINER TIPS\p"
+	.string "Trainer TIPS\p"
 	.string "In addition to Hit Points (HP), Pokémon\n"
 	.string "have Power Points (PP) that are used to\l"
 	.string "make moves during battle.\p"

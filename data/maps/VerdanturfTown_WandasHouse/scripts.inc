@@ -88,7 +88,7 @@ VerdanturfTown_WandasHouse_Text_StrongerSpeech: @ 8202993
 	.string "Because I have a new purpose in life.\n"
 	.string "Together with my RALTS, I'm going\l"
 	.string "to challenge Pokémon GYMS and become\l"
-	.string "a great TRAINER.\p"
+	.string "a great Trainer.\p"
 	.string "Please watch me, {PLAYER}.\n"
 	.string "I'm going to be stronger than you.\p"
 	.string "When I do, I'm going to challenge you\n"

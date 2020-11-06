@@ -304,7 +304,7 @@ EventScript_EggHatch:: @ 8291FC0
 Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon: @ 8291FCF
 	.string "I'm the DAY-CARE MAN.\p"
 	.string "I help take care of the precious\n"
-	.string "Pokémon of TRAINERS.\p"
+	.string "Pokémon of Trainers.\p"
 	.string "If you'd like me to raise your Pokémon,\n"
 	.string "have a word with my wife.$"
 

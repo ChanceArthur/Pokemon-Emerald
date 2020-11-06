@@ -415,12 +415,12 @@ Route116_Text_ThankYouTokenOfAppreciation: @ 81F3317
 	.string "Why, if I were a rain cloud, I would\n"
 	.string "shower you with gratitude and hail\l"
 	.string "you as a hero!\p"
-	.string "For you, the most wonderful TRAINER,\n"
+	.string "For you, the most wonderful Trainer,\n"
 	.string "I bear good news!\p"
 	.string "Recently, our company developed\n"
 	.string "a new kind of POKé BALL.\p"
 	.string "As a token of our appreciation, this\n"
-	.string "is our gift to our wonderful TRAINER!$"
+	.string "is our gift to our wonderful Trainer!$"
 
 Route116_Text_NewBallAvailableAtMart: @ 81F3521
 	.string "Our new POKé BALL will be available\n"
@@ -436,7 +436,7 @@ Route116_Text_TokenOfAppreciation: @ 81F35CE
 	.string "As a token of our appreciation for\n"
 	.string "your delivering our package, I have\l"
 	.string "a gift of a new kind of POKé BALL\l"
-	.string "for our most wonderful TRAINER!$"
+	.string "for our most wonderful Trainer!$"
 
 Route116_Text_CanYouHelpMeFindGlasses: @ 81F3657
 	.string "I dropped my glasses…\n"
@@ -477,7 +477,7 @@ Route116_Text_TunnelersRestHouse: @ 81F380F
 	.string "TUNNELER'S REST HOUSE$"
 
 Route116_Text_TrainerTipsBToStopEvolution: @ 81F3825
-	.string "TRAINER TIPS\p"
+	.string "Trainer TIPS\p"
 	.string "If you want to stop a Pokémon from\n"
 	.string "evolving, press the B Button while it\l"
 	.string "is trying to evolve.\l"
@@ -485,10 +485,10 @@ Route116_Text_TrainerTipsBToStopEvolution: @ 81F3825
 	.string "This is called an evolution cancel.$"
 
 Route116_Text_TrainerTipsBagHasPockets: @ 81F38D4
-	.string "TRAINER TIPS\p"
+	.string "Trainer TIPS\p"
 	.string "Your BAG has several POCKETS.\p"
 	.string "Items you obtain are automatically\n"
 	.string "placed in the appropriate POCKETS.\p"
-	.string "No TRAINER can afford to be without\n"
+	.string "No Trainer can afford to be without\n"
 	.string "a BAG of their own.$"
 

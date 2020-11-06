@@ -63,7 +63,7 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection:: @ 822A52C
 	end
 
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou: @ 822A539
-	.string "You're the first TRAINER I've seen who\n"
+	.string "You're the first Trainer I've seen who\n"
 	.string "deploys Pokémon so masterfully.\p"
 	.string "But, I should tell you--my son is\n"
 	.string "stronger than you.\p"
@@ -93,7 +93,7 @@ Route111_WinstrateFamilysHouse_Text_GrandsonStrong: @ 822A780
 	.string "There's no question that you're strong.\p"
 	.string "But if you were to battle my grandson,\n"
 	.string "you'd end up crying in frustration.\p"
-	.string "He's much stronger than any TRAINER\n"
+	.string "He's much stronger than any Trainer\n"
 	.string "our family knows.\p"
 	.string "He must be challenging the Pokémon\n"
 	.string "LEAGUE CHAMPION by now.\p"

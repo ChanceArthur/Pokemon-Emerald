@@ -206,7 +206,7 @@ VictoryRoad_1F_Text_QuincyDefeat: @ 82363C4
 
 VictoryRoad_1F_Text_QuincyPostBattle: @ 82363D5
 	.string "Getting through here safely--that's\n"
-	.string "the final test for any TRAINER aiming\l"
+	.string "the final test for any Trainer aiming\l"
 	.string "to become the Pokémon CHAMPION.\p"
 	.string "That's why it's called the VICTORY\n"
 	.string "ROAD.$"

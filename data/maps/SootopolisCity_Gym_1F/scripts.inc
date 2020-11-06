@@ -196,7 +196,7 @@ SootopolisCity_Gym_1F_Text_GymGuideAdvice: @ 8225093
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory: @ 82251AF
 	.string "Yow! You've beaten even JUAN, who\n"
 	.string "was supposedly the best in all HOENN!\p"
-	.string "Okay! Check out your TRAINER CARD.\p"
+	.string "Okay! Check out your Trainer CARD.\p"
 	.string "If you've gotten all the BADGES, you're\n"
 	.string "set for the Pokémon LEAGUE challenge!$"
 
@@ -264,7 +264,7 @@ SootopolisCity_Gym_1F_Text_RegisteredJuan: @ 822574D
 	.string "in the POKéNAV.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle: @ 8225778
-	.string "The TRAINERS who have gathered all\n"
+	.string "The Trainers who have gathered all\n"
 	.string "the GYM BADGES of HOENN should make\l"
 	.string "way to the ultimate destination.\p"
 	.string "The Pokémon LEAGUE.\p"
@@ -285,7 +285,7 @@ SootopolisCity_Gym_1F_Text_GymStatue: @ 82258FA
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified: @ 8225916
 	.string "SOOTOPOLIS CITY Pokémon GYM\p"
-	.string "JUAN'S CERTIFIED TRAINERS:\n"
+	.string "JUAN'S CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch: @ 8225950

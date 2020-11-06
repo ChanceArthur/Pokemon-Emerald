@@ -363,7 +363,7 @@ LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous: @ 821B911
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal: @ 821B977
 	.string "MC: Okay, SMART Pokémon and their\n"
-	.string "TRAINERS, are you ready?!\p"
+	.string "Trainers, are you ready?!\p"
 	.string "Give it your best showing!\n"
 	.string "Let's appeal!$"
 
@@ -404,7 +404,7 @@ LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa: @ 821BC65
 	.string "Kiyaaah! You're beautiful, Grandpa!$"
 
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves: @ 821BC89
-	.string "Even when TRAINERS enter the same\n"
+	.string "Even when Trainers enter the same\n"
 	.string "kind of Pokémon, they all seem to use\l"
 	.string "different moves for appeals.\p"
 	.string "It's just like the way people have\n"
@@ -412,7 +412,7 @@ LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves: @ 821BC89
 
 LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers: @ 821BD30
 	.string "I think the Pokémon look smarter\n"
-	.string "than their TRAINERS. By a lot.$"
+	.string "than their Trainers. By a lot.$"
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests: @ 821BD70
 	.string "When all's said and done, I still love\n"

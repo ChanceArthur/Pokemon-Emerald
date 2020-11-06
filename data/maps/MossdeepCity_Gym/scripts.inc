@@ -383,7 +383,7 @@ MossdeepCity_Gym_Text_GymGuideAdvice: @ 8220CD5
 
 MossdeepCity_Gym_Text_GymGuidePostVictory: @ 8220E2A
 	.string "Wow, you're astounding!\n"
-	.string "You're one great TRAINER!$"
+	.string "You're one great Trainer!$"
 
 MossdeepCity_Gym_Text_PrestonIntro: @ 8220E5C
 	.string "Battles hinge on the strength of your\n"
@@ -613,7 +613,7 @@ MossdeepCity_Gym_Text_GymStatue: @ 8221CB0
 
 MossdeepCity_Gym_Text_GymStatueCertified: @ 8221CCA
 	.string "MOSSDEEP CITY Pokémon GYM\p"
-	.string "LIZA AND TATE'S CERTIFIED TRAINERS:\n"
+	.string "LIZA AND TATE'S CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch: @ 8221D0B

@@ -304,7 +304,7 @@ Route103_Text_MayLetsBattle: @ 81EC7DE
 	.string "Since we're here, let's have a quick\n"
 	.string "battle!\p"
 	.string "I'll give you a taste of what being\n"
-	.string "a TRAINER is like.$"
+	.string "a Trainer is like.$"
 
 Route103_Text_MayDefeated: @ 81EC881
 	.string "Wow! That's great!\n"
@@ -329,7 +329,7 @@ Route103_Text_BrendanLetsBattle: @ 81EC9CE
 	.string "…Oh, yeah, Dad gave you a Pokémon.\p"
 	.string "Since we're here, how about a little\n"
 	.string "battle?\p"
-	.string "I'll teach you what being a TRAINER's\n"
+	.string "I'll teach you what being a Trainer's\n"
 	.string "about!$"
 
 Route103_Text_BrendanDefeated: @ 81ECA59

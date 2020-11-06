@@ -1477,7 +1477,7 @@ static const u8 sTownMapDesc[] = _(
 static const u8 sVSSeekerDesc[] = _(
     "A rechargeable unit\n"
     "that flags battle-\n"
-    "ready TRAINERS.");
+    "ready Trainers.");
 
 static const u8 sFameCheckerDesc[] = _(
     "Stores information\n"
@@ -1497,7 +1497,7 @@ static const u8 sBerryPouchDesc[] = _(
 static const u8 sTeachyTVDesc[] = _(
     "A TV set tuned to\n"
     "an advice program\n"
-    "for TRAINERS.");
+    "for Trainers.");
 
 static const u8 sTriPassDesc[] = _(
     "A pass for ferries\n"
