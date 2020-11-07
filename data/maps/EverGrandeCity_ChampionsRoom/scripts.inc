@@ -42,7 +42,7 @@ EverGrandeCity_ChampionsRoom_Movement_PlayerApproachWallace: @ 8228A42
 	step_end
 
 EverGrandeCity_ChampionsRoom_EventScript_Wallace:: @ 8228A45
-	playbgm MUS_ENCOUNTER_Champion, 0
+	playbgm MUS_ENCOUNTER_CHAMPION, 0
 	msgbox EverGrandeCity_ChampionsRoom_Text_IntroSpeech, MSGBOX_DEFAULT
 	trainerbattle_no_intro TRAINER_WALLACE, EverGrandeCity_ChampionsRoom_Text_Defeat
 	goto EverGrandeCity_ChampionsRoom_EventScript_Defeated
