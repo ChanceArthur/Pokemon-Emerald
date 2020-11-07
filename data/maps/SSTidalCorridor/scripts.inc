@@ -165,7 +165,7 @@ SSTidalCorridor_EventScript_LookThroughPorthole:: @ 823C19E
 SSTidalCorridor_EventScript_Sailor:: @ 823C1A3
 	lock
 	faceplayer
-	goto_if_set FLAG_DEFEATED_SS_TIDAL_Trainers, SSTidalCorridor_EventScript_EnjoyYourCruise
+	goto_if_set FLAG_DEFEATED_SS_TIDAL_TRAINERS, SSTidalCorridor_EventScript_EnjoyYourCruise
 	call SSTidalCorridor_EventScript_CheckIfTrainersDefeated
 	msgbox SSTidalCorridor_Text_VisitOtherCabins, MSGBOX_DEFAULT
 	release
@@ -268,16 +268,16 @@ SSTidalCorridor_Text_ScottBattleFrontierInvite: @ 823C28F
 	.string "There's a place I'd like to invite\n"
 	.string "someone like you.\p"
 	.string "It's the…\n"
-	.string "BATTLE FRONTIER!\p"
+	.string "Battle Frontier!\p"
 	.string "What's the place like?\n"
 	.string "You'll understand when you see it!\p"
 	.string "I've spoken with the ship's CAPTAIN\n"
 	.string "about this.\p"
 	.string "The next time you take a ferry,\n"
 	.string "you should be able to sail to\l"
-	.string "the BATTLE FRONTIER.\p"
+	.string "the Battle Frontier.\p"
 	.string "Okay, {PLAYER}{KUN}, I'll be waiting for you\n"
-	.string "at the BATTLE FRONTIER!$"
+	.string "at the Battle Frontier!$"
 
 SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage: @ 823C462
 	.string "This ferry is built to plow through\n"

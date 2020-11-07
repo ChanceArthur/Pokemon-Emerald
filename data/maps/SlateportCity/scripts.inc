@@ -1026,7 +1026,7 @@ SlateportCity_Text_BuyBricksSoDecorWontGetDirty: @ 81DD999
 
 SlateportCity_Text_GoingToCompeteInBattleTent: @ 81DDA34
 	.string "Wroooar! I'm going to compete in\n"
-	.string "the BATTLE TENT, too!\p"
+	.string "the Battle Tent, too!\p"
 	.string "But before that, I need to catch\n"
 	.string "some Pokémon!$"
 
@@ -1143,12 +1143,12 @@ SlateportCity_Text_CantChangeTradeMonName: @ 81DE16C
 	.string "Pokémon is in the nickname.$"
 
 SlateportCity_Text_BattleTentBuiltRecently: @ 81DE1EC
-	.string "Recently, a BATTLE TENT was built\n"
+	.string "Recently, a Battle Tent was built\n"
 	.string "in SLATEPORT.\p"
-	.string "GYMS are fun, but the BATTLE TENT's\n"
+	.string "GYMS are fun, but the Battle Tent's\n"
 	.string "awesome in its own way.\p"
 	.string "You should go find tough Pokémon\n"
-	.string "for the BATTLE TENT!$"
+	.string "for the Battle Tent!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed: @ 81DE28E
 	.string "I was hoping that it was a famous star\n"
@@ -1242,7 +1242,7 @@ SlateportCity_Text_PleaseComeWithMe: @ 81DE8A0
 	.string "Please, come with me!$"
 
 SlateportCity_Text_BattleTentSign: @ 81DE8BC
-	.string "BATTLE TENT SLATEPORT SITE\n"
+	.string "Battle Tent SLATEPORT SITE\n"
 	.string "“Find it! The ultimate Pokémon!”$"
 
 SlateportCity_Text_SternsShipyardWantedSign: @ 81DE8F8
@@ -1371,7 +1371,7 @@ SlateportCity_Text_LetsRegisterEachOther: @ 81DF12B
 	.string "SCOTT: All right! I think you're going\n"
 	.string "to become a good friend.\p"
 	.string "So, let's register each other in our\n"
-	.string "PokéNavS.\p"
+	.string "PokéNavs.\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott: @ 81DF1A6
@@ -1390,9 +1390,9 @@ SlateportCity_Text_TakingBattleTentChallenge: @ 81DF28C
 	.string "SCOTT: Oh, hey!\n"
 	.string "If it isn't {PLAYER}{KUN}!\p"
 	.string "{PLAYER}{KUN}, let me guess--you're going\n"
-	.string "to take the BATTLE TENT challenge?\p"
+	.string "to take the Battle Tent challenge?\p"
 	.string "Yeah! That's a good idea!\n"
 	.string "That's a really great idea!\p"
 	.string "After all, a tough Trainer is\n"
-	.string "the perfect fit for the BATTLE TENT!\p"
+	.string "the perfect fit for the Battle Tent!\p"
 	.string "Give it your best effort!$"

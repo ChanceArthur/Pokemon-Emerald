@@ -28,7 +28,7 @@ Route116_TunnelersRestHouse_EventScript_TunnelOpened:: @ 822B881
 	end
 
 Route116_TunnelersRestHouse_Text_WeHadToStopBoring: @ 822B88B
-	.string "That RUSTURF TUNNEL there…\p"
+	.string "That Rusturf Tunnel there…\p"
 	.string "At first, we had a huge work crew boring\n"
 	.string "through rock with the latest machinery.\l"
 	.string "But, we had to stop.\p"

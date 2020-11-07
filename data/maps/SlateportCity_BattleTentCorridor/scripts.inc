@@ -214,7 +214,7 @@ SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest: @ 82094A1
 	.string "JUDGE: Well, hello there!\n"
 	.string "I see that you're a Trainer!\p"
 	.string "Then, it just wouldn't do for you\n"
-	.string "to miss a Pokémon CONTEST!\p"
+	.string "to miss a Pokémon Contest!\p"
 	.string "Get a CONTEST PASS in VERDANTURF\n"
 	.string "CITY and enter anytime!$"
 
@@ -278,6 +278,6 @@ SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon: @ 82098E6
 
 @ Unused
 SlateportCity_ContestHall_Text_HyperRankStage: @ 820993D
-	.string "Pokémon CONTESTS\n"
+	.string "Pokémon Contests\n"
 	.string "HYPER RANK STAGE!$"
 

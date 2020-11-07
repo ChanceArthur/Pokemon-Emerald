@@ -274,7 +274,7 @@ SlateportCity_PokemonFanClub_Text_MeetChairman: @ 820A233
 	.string "No one can best me when it comes\n"
 	.string "to raising Pokémon. No one!\p"
 	.string "Well, let me tell you about\n"
-	.string "Pokémon CONTESTS.\p"
+	.string "Pokémon Contests.\p"
 	.string "They're events where one can show off\n"
 	.string "Pokémon for the world to see!\p"
 	.string "However, they're held in far-off towns,\n"
@@ -285,12 +285,12 @@ SlateportCity_PokemonFanClub_Text_MeetChairman: @ 820A233
 
 SlateportCity_PokemonFanClub_Text_LikeToSeeEnteredContestPokemon: @ 820A3EE
 	.string "The Pokémon of a Trainer who has\n"
-	.string "entered a Pokémon CONTEST…\l"
+	.string "entered a Pokémon Contest…\l"
 	.string "That, I would like to see.$"
 
 SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon: @ 820A445
 	.string "Er-hem! I see you've participated in\n"
-	.string "a Pokémon CONTEST!\p"
+	.string "a Pokémon Contest!\p"
 	.string "Please! Allow me to examine how you\n"
 	.string "have raised your Pokémon.\p"
 	.string "It delights me no end to see Pokémon\n"
@@ -320,7 +320,7 @@ SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks: @ 820A66E
 	.string "You, the Trainer, must put more\n"
 	.string "effort into raising this Pokémon!\p"
 	.string "For instance, may I suggest that\n"
-	.string "you give it more {POKEBLOCK}S?$"
+	.string "you give it more {POKEBLOCK}s?$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward: @ 820A719
 	.string "Oh, my…\p"

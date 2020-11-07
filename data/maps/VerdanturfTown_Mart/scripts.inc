@@ -48,7 +48,7 @@ VerdanturfTown_Mart_Text_XSpecialIsCrucial: @ 82025D5
 
 VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent: @ 820264C
 	.string "They don't seem to sell any winning\n"
-	.string "strategy guides for the BATTLE TENT…\p"
+	.string "strategy guides for the Battle Tent…\p"
 	.string "It seems one must rely on one's\n"
 	.string "own wits after all…$"
 

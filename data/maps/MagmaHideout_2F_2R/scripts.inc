@@ -65,7 +65,7 @@ MagmaHideout_2F_2R_Text_Grunt7PostBattle: @ 823A07D
 
 MagmaHideout_2F_2R_Text_Grunt8Intro: @ 823A0E4
 	.string "One of our guys was freaking out that\n"
-	.string "he lost his MAGMA EMBLEM…\p"
+	.string "he lost his Magma Emblem…\p"
 	.string "Wait a minute!\n"
 	.string "Was it you who found it?$"
 

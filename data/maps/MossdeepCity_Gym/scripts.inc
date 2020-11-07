@@ -411,7 +411,7 @@ MossdeepCity_Gym_Text_VirgilPostBattle: @ 8220F3A
 
 MossdeepCity_Gym_Text_BlakeIntro: @ 8220FB0
 	.string "Fufufufu… Watch me levitate a Poké\n"
-	.string "BALL telekinetically!\p"
+	.string "Ball telekinetically!\p"
 	.string "Wrooooooooaaaar!\n"
 	.string "… … … … … … …\p"
 	.string "Sometimes, I'm out of sync…$"

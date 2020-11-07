@@ -375,7 +375,7 @@ VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves: @ 8201EB1
 VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers: @ 8201F3F
 	.string "SCOTT: Hey there, {PLAYER}{KUN}!\n"
 	.string "I thought I might see you here.\p"
-	.string "A BATTLE TENT's a place where\n"
+	.string "A Battle Tent's a place where\n"
 	.string "you can meet tough Trainers.\p"
 	.string "It doesn't matter what the rules are,\n"
 	.string "or how battles are waged, either.\p"
