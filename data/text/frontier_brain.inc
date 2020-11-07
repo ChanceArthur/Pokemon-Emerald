@@ -21,7 +21,7 @@ gText_TuckerDefeatSilver:: @ 82C84C1
 	.string "What the…$"
 
 gText_TuckerWonGold:: @ 82C84D0
-	.string "My DOME ACE title isn't just for show!$"
+	.string "My Dome Ace title isn't just for show!$"
 
 gText_TuckerDefeatGold:: @ 82C84F7
 	.string "Ahahaha!\n"

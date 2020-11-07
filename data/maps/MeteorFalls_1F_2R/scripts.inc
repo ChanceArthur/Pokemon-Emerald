@@ -66,7 +66,7 @@ MeteorFalls_1F_2R_EventScript_RematchJay:: @ 822C5ED
 MeteorFalls_1F_2R_Text_NicolasIntro: @ 822C608
 	.string "This is where we DRAGON users do our\n"
 	.string "training.\p"
-	.string "The CHAMPION even visits.\n"
+	.string "The Champion even visits.\n"
 	.string "Now do you see how special it is here?$"
 
 MeteorFalls_1F_2R_Text_NicolasDefeat: @ 822C678

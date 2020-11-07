@@ -1477,8 +1477,8 @@ SootopolisCity_Movement_DestroyTask:: @ 81E656D
 
 SootopolisCity_Text_GymSign: @ 81E656F
 	.string "SOOTOPOLIS CITY Pokémon GYM\n"
-	.string "LEADER: JUAN\p"
-	.string "“The GYM LEADER with the beauty\n"
+	.string "Leader: JUAN\p"
+	.string "“The Gym Leader with the beauty\n"
 	.string "of pure water!”$"
 
 SootopolisCity_Text_CitySign: @ 81E65C8
@@ -1787,7 +1787,7 @@ SootopolisCity_Text_ExplainWaterfallGoToGym: @ 81E7B86
 	.string "And where does one get the RAIN BADGE?\n"
 	.string "You know, don't you?\p"
 	.string "That's right! You have to beat\n"
-	.string "the SOOTOPOLIS GYM LEADER.\p"
+	.string "the SOOTOPOLIS Gym Leader.\p"
 	.string "When you're all set to go, step through\n"
 	.string "that door.$"
 

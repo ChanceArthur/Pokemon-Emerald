@@ -273,7 +273,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn: @ 825B1E2
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead: @ 825B1FB
 	.string "Hey, my name's NOLAND!\n"
 	.string "I'm basically in charge of this place,\l"
-	.string "which is why I'm the FACTORY HEAD!\p"
+	.string "which is why I'm the Factory Head!\p"
 	.string "I had a look at your Battle Swap data.\p"
 	.string "You seem to have the right idea,\n"
 	.string "but you're still square in your head!\p"

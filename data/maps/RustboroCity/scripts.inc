@@ -1074,7 +1074,7 @@ RustboroCity_Text_YoureNewAroundHere: @ 81E1407
 	.string "Pokémon Trainer's SCHOOL?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire: @ 81E1480
-	.string "I challenged the GYM LEADER, but…\p"
+	.string "I challenged the Gym Leader, but…\p"
 	.string "It's not going to be easy winning with\n"
 	.string "my FIRE-type Pokémon…\p"
 	.string "FIRE-type Pokémon don't match up\n"
@@ -1264,7 +1264,7 @@ RustboroCity_Text_DevonCorpSign: @ 81E2128
 
 RustboroCity_Text_GymSign: @ 81E2167
 	.string "RUSTBORO CITY Pokémon GYM\n"
-	.string "LEADER: ROXANNE\p"
+	.string "Leader: ROXANNE\p"
 	.string "“The ROCK-loving honors student!”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign: @ 81E21B3

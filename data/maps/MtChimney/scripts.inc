@@ -767,7 +767,7 @@ MtChimney_Text_ShelbyDefeat: @ 8230076
 
 MtChimney_Text_ShelbyPostBattle: @ 82300A2
 	.string "Well, well, I've lost. I can't call\n"
-	.string "myself an EXPERT now, can I?$"
+	.string "myself an Expert now, can I?$"
 
 MtChimney_Text_ShelbyRegister: @ 82300E3
 	.string "Thank you, child. It was fun, as if\n"

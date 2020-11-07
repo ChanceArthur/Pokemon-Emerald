@@ -136,9 +136,9 @@ FortreeCity_Gym_EventScript_GymStatue:: @ 821677B
 	end
 
 FortreeCity_Gym_Text_GymGuideAdvice: @ 8216785
-	.string "Yo, how's it going, CHAMPION-\n"
+	.string "Yo, how's it going, Champion-\n"
 	.string "bound {PLAYER}?\p"
-	.string "FORTREE GYM LEADER WINONA is\n"
+	.string "FORTREE Gym Leader WINONA is\n"
 	.string "a master of FLYING-type Pokémon.\p"
 	.string "She's waiting at the back of this GYM,\n"
 	.string "behind the rotating doors.\p"
@@ -162,7 +162,7 @@ FortreeCity_Gym_Text_JaredPostBattle: @ 82168E7
 	.string "A Trainer has to be smart to keep\n"
 	.string "up with unexpected turns of events.\p"
 	.string "Do you have the smarts to get to\n"
-	.string "our LEADER?$"
+	.string "our Leader?$"
 
 FortreeCity_Gym_Text_EdwardoIntro: @ 821695A
 	.string "The lovers of BIRD Pokémon aspire\n"
@@ -182,7 +182,7 @@ FortreeCity_Gym_Text_EdwardoPostBattle: @ 82169F1
 
 FortreeCity_Gym_Text_FlintIntro: @ 8216A66
 	.string "There's no need for WINONA, our GYM\n"
-	.string "LEADER, to deal with you!\p"
+	.string "Leader, to deal with you!\p"
 	.string "I'm plenty good enough for you!$"
 
 FortreeCity_Gym_Text_FlintDefeat: @ 8216AC4
@@ -191,7 +191,7 @@ FortreeCity_Gym_Text_FlintDefeat: @ 8216AC4
 
 FortreeCity_Gym_Text_FlintPostBattle: @ 8216AD7
 	.string "WINONA is cute and she's strong.\n"
-	.string "She's the ultimate LEADER!\p"
+	.string "She's the ultimate Leader!\p"
 	.string "Blush…$"
 
 FortreeCity_Gym_Text_AshleyIntro: @ 8216B1A
@@ -230,11 +230,11 @@ FortreeCity_Gym_Text_DariusDefeat: @ 8216CF2
 
 FortreeCity_Gym_Text_DariusPostBattle: @ 8216D0F
 	.string "Sure, you beat me all right.\n"
-	.string "But you'd better watch it! Our LEADER\l"
+	.string "But you'd better watch it! Our Leader\l"
 	.string "WINONA's Pokémon are all business.$"
 
 FortreeCity_Gym_Text_WinonaIntro: @ 8216D75
-	.string "I am WINONA. I am the LEADER of\n"
+	.string "I am WINONA. I am the Leader of\n"
 	.string "the FORTREE Pokémon GYM.\p"
 	.string "I have become one with BIRD Pokémon\n"
 	.string "and have soared the skies…\p"
@@ -270,7 +270,7 @@ FortreeCity_Gym_Text_ExplainAerialAce: @ 8216FEC
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona: @ 8217044
-	.string "Registered GYM LEADER WINONA\n"
+	.string "Registered Gym Leader WINONA\n"
 	.string "in the PokéNav.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle: @ 8217071
@@ -291,7 +291,7 @@ FortreeCity_Gym_Text_WinonaPreRematch: @ 8217100
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"
 	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
+	.string "the reigning Champion.\p"
 	.string "Please, allow me to see your power\n"
 	.string "at full flight!$"
 
@@ -311,7 +311,7 @@ FortreeCity_Gym_Text_WinonaRematchNeedTwoMons: @ 8217292
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"
 	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
+	.string "the reigning Champion.\p"
 	.string "Please, allow me to see your power\n"
 	.string "at full flight!\p"
 	.string "Oh, no… Do you have but one\n"

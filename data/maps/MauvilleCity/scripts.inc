@@ -647,7 +647,7 @@ MauvilleCity_Text_CitySign: @ 81E0485
 
 MauvilleCity_Text_GymSign: @ 81E04B7
 	.string "MAUVILLE CITY Pokémon GYM\n"
-	.string "LEADER: WATTSON\l"
+	.string "Leader: WATTSON\l"
 	.string "“The cheerfully electrifying man!”$"
 
 MauvilleCity_Text_BikeShopSign: @ 81E0504

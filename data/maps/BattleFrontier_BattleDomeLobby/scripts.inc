@@ -659,7 +659,7 @@ BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully: @ 824ACD3
 
 BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker: @ 824AD67
 	.string "Congratulations!\p"
-	.string "You defeated the DOME ACE and won\n"
+	.string "You defeated the Dome Ace and won\n"
 	.string "the Battle Tournament!$"
 
 BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints: @ 824ADB1

@@ -381,7 +381,7 @@ BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting: @ 825C2E0
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen: @ 825C383
 	.string "Congratulations…\p"
 	.string "You have snatched victory from the\n"
-	.string "PIKE QUEEN and cleared the event…$"
+	.string "Pike Queen and cleared the event…$"
 
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints: @ 825C3D9
 	.string "In recognition of your amazing luck,\n"

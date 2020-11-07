@@ -1799,7 +1799,7 @@ LilycoveCity_ContestLobby_Text_EnterWhichPokemon3: @ 827C1C3
 
 LilycoveCity_ContestLobby_Text_PleaseDecideLinkLeader: @ 827C1EA
 	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
+	.string "become the GROUP Leader.\p"
 	.string "The other players must then choose\n"
 	.string "“JOIN GROUP.”$"
 

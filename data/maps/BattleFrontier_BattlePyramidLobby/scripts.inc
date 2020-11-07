@@ -863,7 +863,7 @@ BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems: @ 8252595
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing: @ 82525F4
 	.string "Welcome back!\n"
 	.string "You've done the unthinkable!\p"
-	.string "You've defeated the PYRAMID KING\n"
+	.string "You've defeated the Pyramid King\n"
 	.string "and conquered the BATTLE PYRAMID!$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints: @ 8252662

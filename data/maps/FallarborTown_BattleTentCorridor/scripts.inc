@@ -58,7 +58,7 @@ FallarborTown_ContestHall_Text_MonAllTheseRibbons: @ 8200791
 
 @ Unused
 FallarborTown_ContestHall_Text_CantWinEverywhere: @ 8200802
-	.string "I can't beat GYM LEADERS…\p"
+	.string "I can't beat Gym Leaders…\p"
 	.string "I can't win any CONTESTS…\p"
 	.string "I've been here, there, and everywhere,\n"
 	.string "and it's all for naught…$"

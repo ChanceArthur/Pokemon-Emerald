@@ -109,23 +109,23 @@ RustboroCity_Gym_EventScript_RegisterRoxanne:: @ 821307B
 RustboroCity_Gym_Text_GymGuideAdvice: @ 821309D
 	.string "Yo, how's it going?\p"
 	.string "Listen, my friend!\n"
-	.string "Would you like to become the CHAMPION?\p"
+	.string "Would you like to become the Champion?\p"
 	.string "I'm no Trainer, not me, but I can\n"
 	.string "sure give you winning advice.\p"
 	.string "That's settled, then! We'll aim for the\n"
-	.string "Pokémon CHAMPIONSHIP together!\p"
+	.string "Pokémon Championship together!\p"
 	.string "It's your job as a Trainer to collect\n"
 	.string "GYM BADGES, am I right?\p"
-	.string "But GYM LEADERS aren't pushovers!\p"
+	.string "But Gym Leaders aren't pushovers!\p"
 	.string "And that's where I come in!\n"
 	.string "I'm here to provide expert advice!\p"
-	.string "ROXANNE, the GYM LEADER, is a user\n"
+	.string "ROXANNE, the Gym Leader, is a user\n"
 	.string "of ROCK-type Pokémon.\p"
 	.string "The ROCK type is very durable, but\n"
 	.string "it can't stand WATER-type and\l"
 	.string "GRASS-type moves.\p"
 	.string "Come see me afterwards, if you beat\n"
-	.string "the GYM LEADER.\p"
+	.string "the Gym Leader.\p"
 	.string "Well, go for it!$"
 
 RustboroCity_Gym_Text_GymGuidePostVictory: @ 82132E2
@@ -137,7 +137,7 @@ RustboroCity_Gym_Text_GymGuidePostVictory: @ 82132E2
 	.string "properly recorded on it.\p"
 	.string "In other words…\p"
 	.string "You've climbed the first step on\n"
-	.string "the stairs to the CHAMPIONSHIP!\p"
+	.string "the stairs to the Championship!\p"
 	.string "That's got to feel awesome!$"
 
 RustboroCity_Gym_Text_JoshIntro: @ 82133E9
@@ -174,14 +174,14 @@ RustboroCity_Gym_Text_MarcDefeat: @ 8213589
 	.string "Our challenger is one feisty customer!$"
 
 RustboroCity_Gym_Text_MarcPostBattle: @ 82135C0
-	.string "I have to hand it to our LEADER.\p"
+	.string "I have to hand it to our Leader.\p"
 	.string "It took smarts and sense for her to\n"
 	.string "pick the ROCK type at her young age.$"
 
 RustboroCity_Gym_Text_RoxanneIntro: @ 821362A
 	.string "Hello, I am ROXANNE, the RUSTBORO\n"
-	.string "Pokémon GYM LEADER.\p"
-	.string "I became a GYM LEADER so that I might\n"
+	.string "Pokémon Gym Leader.\p"
+	.string "I became a Gym Leader so that I might\n"
 	.string "apply what I learned at the Pokémon\l"
 	.string "Trainer's SCHOOL in battle.\p"
 	.string "Would you kindly demonstrate how you\n"
@@ -195,7 +195,7 @@ RustboroCity_Gym_Text_RoxanneDefeat: @ 821370B
 	.string "I understand.\p"
 	.string "The Pokémon LEAGUE's rules state\n"
 	.string "that Trainers are to be given this\l"
-	.string "if they defeat a GYM LEADER.\p"
+	.string "if they defeat a Gym Leader.\p"
 	.string "Please accept the official Pokémon\n"
 	.string "LEAGUE STONE BADGE.$"
 
@@ -222,7 +222,7 @@ RustboroCity_Gym_Text_ExplainRockTomb: @ 82138B1
 
 RustboroCity_Gym_Text_RoxannePostBattle: @ 82139A7
 	.string "Since you are so strong, you should\n"
-	.string "challenge other GYM LEADERS.\p"
+	.string "challenge other Gym Leaders.\p"
 	.string "By battling many Trainers, you should\n"
 	.string "learn many things.$"
 
@@ -252,12 +252,12 @@ RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
 	.string "… … … … … Click!$"
 
 RustboroCity_Gym_Text_RegisteredRoxanne: @ 8213C01
-	.string "Registered GYM LEADER ROXANNE\n"
+	.string "Registered Gym Leader ROXANNE\n"
 	.string "in the PokéNav.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch: @ 8213C2F
 	.string "ROXANNE: I'm so glad to see you again.\n"
-	.string "I'm ROXANNE, the GYM LEADER here.\p"
+	.string "I'm ROXANNE, the Gym Leader here.\p"
 	.string "I'm sure we've both experienced many\n"
 	.string "battles since we last met.\p"
 	.string "I would like to see how much better\n"
@@ -275,7 +275,7 @@ RustboroCity_Gym_Text_RoxannePostRematch: @ 8213D12
 
 RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons: @ 8213D93
 	.string "ROXANNE: I'm so glad to see you again.\n"
-	.string "I'm ROXANNE, the GYM LEADER here.\p"
+	.string "I'm ROXANNE, the Gym Leader here.\p"
 	.string "I'm sure we've both experienced many\n"
 	.string "battles since we last met.\p"
 	.string "I would like to see how much better\n"

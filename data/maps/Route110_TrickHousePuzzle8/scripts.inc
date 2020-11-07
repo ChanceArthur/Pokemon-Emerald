@@ -44,7 +44,7 @@ Route110_TrickHousePuzzle8_Text_VincentDefeat: @ 826E8F6
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle: @ 826E918
 	.string "You've beaten the Pokémon LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "Champion? That's too much!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro: @ 826E954
 	.string "Consider yourself lucky to be\n"

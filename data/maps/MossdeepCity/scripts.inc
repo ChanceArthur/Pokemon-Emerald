@@ -352,7 +352,7 @@ MossdeepCity_Text_SpaceCenterLaunchingRockets: @ 81E4F15
 	.string "launching huge rockets.$"
 
 MossdeepCity_Text_MossdeepTargetedByMagma: @ 81E4F50
-	.string "I heard from a SAILOR buddy that\n"
+	.string "I heard from a Sailor buddy that\n"
 	.string "Team Aqua set up shop in LILYCOVE.\p"
 	.string "I also heard that someone came along\n"
 	.string "and wiped the floor with them!\p"
@@ -362,7 +362,7 @@ MossdeepCity_Text_MossdeepTargetedByMagma: @ 81E4F50
 	.string "go visit the SPACE CENTER.$"
 
 MossdeepCity_Text_FeelReliefOnLand: @ 81E5051
-	.string "I'm a SAILOR, so the sea's obviously\n"
+	.string "I'm a Sailor, so the sea's obviously\n"
 	.string "more important to me.\p"
 	.string "But you know? When I get back on land\n"
 	.string "after a long voyage, I do feel relief!$"
@@ -403,7 +403,7 @@ MossdeepCity_Text_ItsAWhiteRock: @ 81E5396
 
 MossdeepCity_Text_GymSign: @ 81E53A9
 	.string "MOSSDEEP CITY Pokémon GYM\n"
-	.string "LEADERS: LIZA & TATE\p"
+	.string "Leaders: LIZA & TATE\p"
 	.string "“The mystic combination!”$"
 
 MossdeepCity_Text_CitySign: @ 81E53F2
@@ -417,7 +417,7 @@ MossdeepCity_Text_SpaceCenterSign: @ 81E541F
 MossdeepCity_Text_ScottSomethingWrongWithTown: @ 81E5453
 	.string "SCOTT: {PLAYER}{KUN}, feeling good?\n"
 	.string "I'm doing great!\p"
-	.string "I'd heard MOSSDEEP's GYM LEADER is\n"
+	.string "I'd heard MOSSDEEP's Gym Leader is\n"
 	.string "pretty strong, so I decided to come\l"
 	.string "take a look-see for myself.\p"
 	.string "But there's something wrong about\n"
@@ -433,7 +433,7 @@ MossdeepCity_Text_SootopolisNewGymLeader: @ 81E5581
 	.string "Speaking of the waves, you know that\n"
 	.string "island city SOOTOPOLIS?\p"
 	.string "I think the GYM there had a new\n"
-	.string "LEADER come in.\p"
-	.string "People tell me the new LEADER once\n"
+	.string "Leader come in.\p"
+	.string "People tell me the new Leader once\n"
 	.string "mentored WALLACE.$"
 

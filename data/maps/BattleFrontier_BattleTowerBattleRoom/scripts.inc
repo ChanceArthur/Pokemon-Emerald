@@ -512,18 +512,18 @@ BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved:: @ 8242481
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay: @ 82424C2
 	.string "Excuse me, but…\p"
-	.string "Our leader, the SALON MAIDEN, is on\n"
+	.string "Our leader, the Salon Maiden, is on\n"
 	.string "her way here in hopes of battling you.\p"
 	.string "She should be arriving very shortly.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden: @ 8242542
-	.string "You will be facing the SALON MAIDEN.\n"
+	.string "You will be facing the Salon Maiden.\n"
 	.string "Are you prepared?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel: @ 8242579
 	.string "Greetings…\n"
 	.string "My name is ANABEL.\p"
-	.string "I am the SALON MAIDEN, and I am in\n"
+	.string "I am the Salon Maiden, and I am in\n"
 	.string "charge of running the BATTLE TOWER…\p"
 	.string "I have heard several rumors\n"
 	.string "about you…\p"

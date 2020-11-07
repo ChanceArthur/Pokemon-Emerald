@@ -913,7 +913,7 @@ LittlerootTown_ProfessorBirchsLab_Text_PokedexUpgradedToNational: @ 81FB436
 
 LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting2: @ 81FB466
 	.string "PROF. BIRCH: But listen.\n"
-	.string "You've become the CHAMPION,\l"
+	.string "You've become the Champion,\l"
 	.string "but your Pokémon journey isn't over.\p"
 	.string "There is no end to the road\n"
 	.string "that is Pokémon.\p"

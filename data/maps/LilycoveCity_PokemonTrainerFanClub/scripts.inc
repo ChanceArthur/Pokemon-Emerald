@@ -670,7 +670,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer: @ 821D20C
 	.string "I've been hearing things about\n"
 	.string "a tough new Trainer.\p"
 	.string "This Trainer's supposed to be beating\n"
-	.string "GYM LEADERS, even.\p"
+	.string "Gym Leaders, even.\p"
 	.string "Do you know anything about this\n"
 	.string "new Trainer?$"
 
@@ -702,7 +702,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly: @ 821D377
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly: @ 821D3EE
 	.string "Whatever anyone says, my favorite\n"
-	.string "Trainer is DEWFORD's GYM LEADER\l"
+	.string "Trainer is DEWFORD's Gym Leader\l"
 	.string "BRAWLY!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather: @ 821D438

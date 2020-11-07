@@ -458,7 +458,7 @@ BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa: @ 823DF7D
 
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe: @ 823DFBF
 	.string "Ah, so this here is the BATTLE DOME?\n"
-	.string "I won't let GENTLEMEN beat me!\p"
+	.string "I won't let Gentlemen beat me!\p"
 	.string "But where is the entrance?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo: @ 823E01E
@@ -503,15 +503,15 @@ BattleFrontier_OutsideWest_Text_DomeAceLookedBecauseOfMyCheering: @ 823E2E9
 	.string "Pfft!\p"
 	.string "That only happened because\n"
 	.string "I happened to be sitting next to you!\p"
-	.string "The DOME ACE only looked our way\n"
+	.string "The Dome Ace only looked our way\n"
 	.string "because my cheering was so loud!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceIsMine: @ 823E37E
 	.string "Oh, shush!\n"
 	.string "Keep that racket down!\p"
 	.string "You fair-weather fans should stick\n"
-	.string "to cheering for some GYM LEADER!\p"
-	.string "The DOME ACE is mine!\n"
+	.string "to cheering for some Gym Leader!\p"
+	.string "The Dome Ace is mine!\n"
 	.string "The only idol for me!$"
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers: @ 823E410

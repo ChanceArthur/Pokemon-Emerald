@@ -100,7 +100,7 @@ SSTidalRooms_Text_ThomasDefeat: @ 823CC8A
 
 SSTidalRooms_Text_ThomasPostBattle: @ 823CCBB
 	.string "To be never ruffled in any situation is\n"
-	.string "the GENTLEMAN's code of conduct.$"
+	.string "the Gentleman's code of conduct.$"
 
 SSTidalRooms_Text_JedIntro: @ 823CD04
 	.string "JED: I feel a little shy about this, but…\n"

@@ -596,7 +596,7 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge: @ 824EBC2
 	.string "you will be disqualified.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers: @ 824EE81
-	.string "To defeat the PALACE MAVEN\n"
+	.string "To defeat the Palace Maven\n"
 	.string "and seven Trainers in a row…$"
 
 BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints: @ 824EEB9

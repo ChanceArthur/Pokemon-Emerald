@@ -404,7 +404,7 @@ RivalsHouse_1F_Text_BrendanWhoAreYou: @ 81F90B4
 	.string "Moved in next door, right?\p"
 	.string "I didn't know that you're a girl.\p"
 	.string "Dad, PROF. BIRCH, said that our new\n"
-	.string "next-door neighbor is a GYM LEADER's\l"
+	.string "next-door neighbor is a Gym Leader's\l"
 	.string "kid, so I assumed you'd be a guy.\p"
 	.string "My name's BRENDAN.\n"
 	.string "So, hi, neighbor!\p"

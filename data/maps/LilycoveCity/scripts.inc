@@ -619,7 +619,7 @@ LilycoveCity_Text_ImFromKanto: @ 81E3F05
 LilycoveCity_Text_TeamAquaBeenTrainingWailmer: @ 81E3FAB
 	.string "Team Aqua's been training their\n"
 	.string "WAILMER in the cove.\p"
-	.string "We SAILORS can't get our boats out\n"
+	.string "We Sailors can't get our boats out\n"
 	.string "to sea with them in the way!$"
 
 LilycoveCity_Text_SomeonePuntedTeamAquaOut: @ 81E4020

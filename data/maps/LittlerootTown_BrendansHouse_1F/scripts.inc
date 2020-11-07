@@ -384,7 +384,7 @@ PlayersHouse_1F_Text_Vigoroth2: @ 81F7EB3
 	.string "Huggoh, uggo uggo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym: @ 81F7EC6
-	.string "INTERVIEWER: …We brought you this\n"
+	.string "Interviewer: …We brought you this\n"
 	.string "report from in front of PETALBURG GYM.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV: @ 81F7F0F

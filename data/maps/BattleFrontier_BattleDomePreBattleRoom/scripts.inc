@@ -374,7 +374,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver: @ 824BB2E
 	.string "Congratulations for advancing\n"
 	.string "to the final match.\p"
 	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
+	.string "the Dome Ace TUCKER.\p"
 	.string "Are you ready?$"
 
 @ Identical to ReadyForTuckerSilver
@@ -382,7 +382,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold: @ 824BBAC
 	.string "Congratulations for advancing\n"
 	.string "to the final match.\p"
 	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
+	.string "the Dome Ace TUCKER.\p"
 	.string "Are you ready?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort: @ 824BC2A

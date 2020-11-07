@@ -1030,7 +1030,7 @@ gTVPokemonTodaySuccessfulText11:: @ 08283A5F
 gTVTodaysSmartShopperText00:: @ 08283B05
 	.string "Hello!\p"
 	.string "It's time for TODAY'S SMART SHOPPER.\p"
-	.string "INTERVIEWER: How are you, viewers?\p"
+	.string "Interviewer: How are you, viewers?\p"
 	.string "Today we're visiting a shop\n"
 	.string "in {STR_VAR_2}.\p"
 	.string "Let's check on what the hot sellers\n"
@@ -1047,7 +1047,7 @@ gTVTodaysSmartShopperText01:: @ 08283BAF
 	.string "named {STR_VAR_1} bought {STR_VAR_3}.$"
 
 gTVTodaysSmartShopperText02:: @ 08283C81
-	.string "INTERVIEWER: The Trainer bought\n"
+	.string "Interviewer: The Trainer bought\n"
 	.string "{STR_VAR_3} {STR_VAR_2}S? That's a haul!\p"
 	.string "If I may say so, {STR_VAR_1} must have\n"
 	.string "been stocking up for a long journey\l"
@@ -1056,13 +1056,13 @@ gTVTodaysSmartShopperText02:: @ 08283C81
 	.string "important!$"
 
 gTVTodaysSmartShopperText03:: @ 08283D32
-	.string "INTERVIEWER: Speaking of the item\n"
+	.string "Interviewer: Speaking of the item\n"
 	.string "{STR_VAR_2}, I just bought {STR_VAR_3} of\l"
 	.string "them recently.\p"
 	.string "After all, {STR_VAR_2}'s a great item!$"
 
 gTVTodaysSmartShopperText04:: @ 08283D99
-	.string "INTERVIEWER: {STR_VAR_2}?!\n"
+	.string "Interviewer: {STR_VAR_2}?!\n"
 	.string "But {STR_VAR_3} of them?!\p"
 	.string "I didn't think there would be anyone\n"
 	.string "buying that many.\p"
@@ -1070,7 +1070,7 @@ gTVTodaysSmartShopperText04:: @ 08283D99
 	.string "two at a time…$"
 
 gTVTodaysSmartShopperText05:: @ 08283E28
-	.string "INTERVIEWER: One time, I bought\n"
+	.string "Interviewer: One time, I bought\n"
 	.string "a whole lot of the item {STR_VAR_2}.\p"
 	.string "But it turned out to be too many.\n"
 	.string "I ended up regretting it…\p"
@@ -1082,7 +1082,7 @@ gTVTodaysSmartShopperText05:: @ 08283E28
 gTVTodaysSmartShopperText06:: @ 08283F01
 	.string "CLERK: {STR_VAR_1} also bought the item\n"
 	.string "{STR_VAR_2} in bulk, taking {STR_VAR_3}.\p"
-	.string "INTERVIEWER: Oh, that's smart.\n"
+	.string "Interviewer: Oh, that's smart.\n"
 	.string "{STR_VAR_2}'s a very good item, too.$"
 
 gTVTodaysSmartShopperText07:: @ 08283F72
@@ -1094,7 +1094,7 @@ gTVTodaysSmartShopperText08:: @ 08283FA9
 	.string "That's smart shopping.$"
 
 gTVTodaysSmartShopperText09:: @ 08283FE7
-	.string "INTERVIEWER: Hmm… {STR_VAR_1} sounds like\n"
+	.string "Interviewer: Hmm… {STR_VAR_1} sounds like\n"
 	.string "quite the shrewd bargain hunter!\p"
 	.string "In total, {STR_VAR_1}'s purchases came to…\p"
 	.string "¥{STR_VAR_2}?!\n"
@@ -1119,16 +1119,16 @@ gTVTodaysSmartShopperText11:: @ 082840CE
 	.string "I never dreamt that any customer\n"
 	.string "would ever need so many {STR_VAR_2}S.\l"
 	.string "It's just unheard of!\p"
-	.string "INTERVIEWER: So that would be like 100\n"
+	.string "Interviewer: So that would be like 100\n"
 	.string "or 200 sold?\p"
 	.string "CLERK: Oh, no, much more than that!\p"
-	.string "INTERVIEWER: Oh, my goodness!\n"
+	.string "Interviewer: Oh, my goodness!\n"
 	.string "{STR_VAR_1} must be a special shopper!\p"
 	.string "CLERK: {STR_VAR_1} is a VIP customer,\n"
 	.string "no doubt about it.$"
 
 gTVTodaysSmartShopperText12:: @ 082842E6
-	.string "INTERVIEWER: Hmm…\n"
+	.string "Interviewer: Hmm…\n"
 	.string "That is amazing.\p"
 	.string "But why would the Trainer need to buy\n"
 	.string "so many?\p"
@@ -1527,7 +1527,7 @@ gTVSecretBaseVisitText09:: @ 08285F46
 	.string "Sigh…\n"
 	.string "I've got to hand it to {STR_VAR_1}.\p"
 	.string "The Trainer's Pokémon were truly\n"
-	.string "worthy of the CHAMPION's title.\p"
+	.string "worthy of the Champion's title.\p"
 	.string "They gave ample proof of {STR_VAR_1}'s\n"
 	.string "toughness as a Trainer.\p"
 	.string "That the {STR_VAR_2} knew the move\n"
@@ -1771,7 +1771,7 @@ gTVCutiesText04:: @ 08286FAA
 	.string "RIBBONS worn by {STR_VAR_2}.$"
 
 gTVCutiesText05:: @ 08286FE4
-	.string "The CHAMPION RIBBON is especially\n"
+	.string "The Champion RIBBON is especially\n"
 	.string "fetching.\p"
 	.string "{STR_VAR_2} received it upon entering\n"
 	.string "the HALL OF FAME.\p"

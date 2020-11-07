@@ -659,7 +659,7 @@ DewfordTown_Text_TownSign: @ 81E9A0F
 
 DewfordTown_Text_GymSign: @ 81E9A3D
 	.string "DEWFORD TOWN Pokémon GYM\n"
-	.string "LEADER: BRAWLY\l"
+	.string "Leader: BRAWLY\l"
 	.string "“A big wave in fighting!”$"
 
 DewfordTown_Text_HallSign: @ 81E9A7F

@@ -844,7 +844,7 @@ Route109_Text_EdmondDefeated: @ 82972CE
 Route109_Text_EdmondPostBattle: @ 82972ED
 	.string "I'm usually stronger than this!\n"
 	.string "I'm just seasick as a dog!\p"
-	.string "I'm a SAILOR, but…$"
+	.string "I'm a Sailor, but…$"
 
 Route109_Text_RickyIntro: @ 829733B
 	.string "I'm thirsty… I could go for a SODA POP\n"
@@ -2145,7 +2145,7 @@ Route115_Text_HelenePostBattle: @ 829B971
 	.string "I rarely meet anyone who's better\n"
 	.string "than me…\p"
 	.string "I get it now!\n"
-	.string "You're a GYM LEADER, aren't you?$"
+	.string "You're a Gym Leader, aren't you?$"
 
 Route115_Text_AlixIntro: @ 829B9CB
 	.string "Our eyes met!\n"
@@ -2180,7 +2180,7 @@ Route116_Text_ClarkDefeat: @ 829BB0F
 
 Route116_Text_ClarkPostBattle: @ 829BB31
 	.string "It's no big deal if there's no tunnel.\n"
-	.string "To a HIKER, mountains are roads!$"
+	.string "To a Hiker, mountains are roads!$"
 
 Route116_Text_JoeyIntro: @ 829BB79
 	.string "My Pokémon rule!\n"
@@ -2454,8 +2454,8 @@ Route117_Text_MariaPostRematch: @ 829CAF6
 	.string "Let's battle again sometime!$"
 
 Route117_Text_DerekIntro: @ 829CB32
-	.string "Once a BUG CATCHER!\n"
-	.string "And now a BUG MANIAC!\p"
+	.string "Once a Bug Catcher!\n"
+	.string "And now a Bug Maniac!\p"
 	.string "But my love for Pokémon remains\n"
 	.string "unchanged!$"
 
@@ -2465,10 +2465,10 @@ Route117_Text_DerekDefeat: @ 829CB87
 
 Route117_Text_DerekPostBattle: @ 829CBAD
 	.string "All I did was follow my heart, and now\n"
-	.string "they call me a BUG MANIAC…\p"
+	.string "they call me a Bug Maniac…\p"
 	.string "Still, I am an expert on BUG Pokémon,\n"
 	.string "so it's only natural that they call me\l"
-	.string "a BUG MANIAC.$"
+	.string "a Bug Maniac.$"
 
 Route117_Text_AnnaIntro: @ 829CC4A
 	.string "ANNA: I'm with my pretty junior student\n"
@@ -2629,7 +2629,7 @@ Route118_Text_ChesterPostBattle: @ 829D4DA
 	.string "to fly more freely…$"
 
 Route118_Text_BarnyIntro: @ 829D515
-	.string "I'm a FISHERMAN, but also a Trainer.\n"
+	.string "I'm a Fisherman, but also a Trainer.\n"
 	.string "I'm raising the Pokémon I caught.$"
 
 Route118_Text_BarnyDefeat: @ 829D55C
@@ -2642,7 +2642,7 @@ Route118_Text_BarnyPostBattle: @ 829D587
 	.string "Was I doing things in half measures?$"
 
 Route118_Text_WadeIntro: @ 829D5DF
-	.string "For FISHERMEN, equipment is the key.\p"
+	.string "For Fishermen, equipment is the key.\p"
 	.string "But for Trainers, the key ingredients\n"
 	.string "are Pokémon and heart, of course!$"
 
@@ -2651,7 +2651,7 @@ Route118_Text_WadeDefeat: @ 829D64C
 
 Route118_Text_WadePostBattle: @ 829D663
 	.string "Come to think of it, fishing is a battle\n"
-	.string "between a FISHERMAN and a Pokémon.$"
+	.string "between a Fisherman and a Pokémon.$"
 
 Route118_Text_DaltonIntro: @ 829D6AF
 	.string "Let my melody rock your soul!$"
@@ -2766,7 +2766,7 @@ Route119_Text_KentPostBattle: @ 829DC2B
 Route119_Text_JacksonIntro: @ 829DC4C
 	.string "Who has the knowledge and\n"
 	.string "the technique for survival?\p"
-	.string "Pokémon RANGERS, that's who!$"
+	.string "Pokémon Rangers, that's who!$"
 
 Route119_Text_JacksonDefeat: @ 829DC9F
 	.string "I didn't have enough Pokémon\n"
@@ -3766,7 +3766,7 @@ Route124_Text_DeclanDefeat: @ 82A142C
 	.string "Blue as the sky…$"
 
 Route124_Text_DeclanPostBattle: @ 82A144F
-	.string "I should chat up lady SWIMMERS\n"
+	.string "I should chat up lady Swimmers\n"
 	.string "and invite them on a long swim.$"
 
 Route124_Text_IsabellaIntro: @ 82A148E
@@ -3826,7 +3826,7 @@ Route125_Text_SharonPostBattle: @ 82A16CE
 	.string "I'm amazed!$"
 
 Route125_Text_ErnestIntro: @ 82A16FC
-	.string "Ahoy! I'm a buff, tough SAILOR!\n"
+	.string "Ahoy! I'm a buff, tough Sailor!\n"
 	.string "I've braved the world's seas!$"
 
 Route125_Text_ErnestDefeat: @ 82A173A
@@ -3903,7 +3903,7 @@ Route125_Text_PresleyDefeat: @ 82A1B4E
 Route125_Text_PresleyPostBattle: @ 82A1B70
 	.string "I put a message in a bottle and put\n"
 	.string "it out to sea.\p"
-	.string "I'm sure that a girl SWIMMER will\n"
+	.string "I'm sure that a girl Swimmer will\n"
 	.string "find it!$"
 
 Route125_Text_AuronIntro: @ 82A1BCE
@@ -3968,7 +3968,7 @@ Route126_Text_BrendaPostBattle: @ 82A1E70
 
 Route126_Text_PabloIntro: @ 82A1EA5
 	.string "Check out this sculpted body!\n"
-	.string "I'm more cut than a BLACK BELT!$"
+	.string "I'm more cut than a Black Belt!$"
 
 Route126_Text_PabloDefeat: @ 82A1EE3
 	.string "Whoops! Too strong!\n"
@@ -3984,7 +3984,7 @@ Route126_Text_PabloRegister: @ 82A1F5A
 
 Route126_Text_PabloRematchIntro: @ 82A1F98
 	.string "Check out this beautiful body!\n"
-	.string "I'm more shapely than a SWIMMER!$"
+	.string "I'm more shapely than a Swimmer!$"
 
 Route126_Text_PabloRematchDefeat: @ 82A1FD8
 	.string "Whoops! Really too strong!\n"
@@ -3997,7 +3997,7 @@ Route126_Text_PabloPostRematch: @ 82A200C
 
 Route126_Text_LeonardoIntro: @ 82A2063
 	.string "I couldn't even swim last year,\n"
-	.string "but now I'm a decent SWIMMER.\p"
+	.string "but now I'm a decent Swimmer.\p"
 	.string "I think I'm capable of anything now.$"
 
 Route126_Text_LeonardoDefeat: @ 82A20C6
@@ -4193,7 +4193,7 @@ Route128_Text_KatelynRegister: @ 82A2AF9
 
 Route128_Text_KatelynRematchIntro: @ 82A2B41
 	.string "A triathlon is long. But I guess the\n"
-	.string "road to become the Pokémon CHAMPION\l"
+	.string "road to become the Pokémon Champion\l"
 	.string "is also a long and grueling one.$"
 
 Route128_Text_KatelynRematchDefeat: @ 82A2BAB
@@ -4355,7 +4355,7 @@ Route130_Text_KatieDefeat: @ 82A33AC
 Route130_Text_KatiePostBattle: @ 82A33F5
 	.string "The world's children dream\n"
 	.string "of one day becoming\l"
-	.string "the Pokémon CHAMPION.$"
+	.string "the Pokémon Champion.$"
 
 Route130_Text_SantiagoIntro: @ 82A343A
 	.string "Floating on the open sea like this…\n"
@@ -4769,7 +4769,7 @@ Route134_Text_ReynaPostBattle: @ 82A4A34
 	.string "Trainers I happen to meet!$"
 
 Route134_Text_HudsonIntro: @ 82A4A8F
-	.string "Listen, have you seen another SAILOR\n"
+	.string "Listen, have you seen another Sailor\n"
 	.string "around here?$"
 
 Route134_Text_HudsonDefeat: @ 82A4AC1

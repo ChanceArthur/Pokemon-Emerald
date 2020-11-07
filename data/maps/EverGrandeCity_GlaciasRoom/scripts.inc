@@ -61,7 +61,7 @@ EverGrandeCity_GlaciasRoom_EventScript_Defeated:: @ 822849A
 
 EverGrandeCity_GlaciasRoom_Text_IntroSpeech: @ 82284AC
 	.string "Welcome, my name is GLACIA\n"
-	.string "of the ELITE FOUR.\p"
+	.string "of the Elite Four.\p"
 	.string "I've traveled from afar to HOENN\n"
 	.string "so that I may hone my ice skills.\p"
 	.string "But all I have seen are challenges by\n"

@@ -96,11 +96,11 @@ LilycoveCity_CoveLilyMotel_2F_Text_ImTheGraphicArtist: @ 821892B
 	.string "Pokémon of HOENN interesting?$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_GirlsAreCute: @ 821896C
-	.string "The girl TUBERS, they're cute, hey?\n"
-	.string "To battle against a cute TUBER…\p"
+	.string "The girl Tubers, they're cute, hey?\n"
+	.string "To battle against a cute Tuber…\p"
 	.string "Whoop, it's so awesome!\p"
-	.string "And the TWINS! Aren't they cute?\n"
-	.string "A 2-on-2 battle with TWINS…\p"
+	.string "And the Twins! Aren't they cute?\n"
+	.string "A 2-on-2 battle with Twins…\p"
 	.string "Whoop, it's unbearably fun!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart: @ 8218A21
