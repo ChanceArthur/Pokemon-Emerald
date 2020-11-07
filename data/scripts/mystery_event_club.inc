@@ -167,4 +167,4 @@ MysteryEventClub_Text_YouKnowSecretSaying: @ 8291BB7
 	.string "Oh?\n"
 	.string "You know the secret saying!\p"
 	.string "That means you're now a fellow member\n"
-	.string "of the MYSTERY EVENT CLUB!$"
+	.string "of the Mystery Event Club!$"
