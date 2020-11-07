@@ -198,7 +198,7 @@ LilycoveCity_EventScript_MoveDeletersHouseSign:: @ 81E2D74
 
 LilycoveCity_EventScript_WailmerTrainerGrunt:: @ 81E2D7D
 	lockall
-	goto_if_set FLAG_MET_WAILMER_Trainer, LilycoveCity_EventScript_MetWailmerTrainer
+	goto_if_set FLAG_MET_WAILMER_TRAINER, LilycoveCity_EventScript_MetWailmerTrainer
 	msgbox LilycoveCity_Text_WailmerLeapOutOfWater, MSGBOX_DEFAULT
 	applymovement VAR_LAST_TALKED, Common_Movement_FacePlayer
 	waitmovement 0
@@ -485,7 +485,7 @@ LilycoveCity_Text_MayYouGoingToPokemonLeague: @ 81E346D
 
 LilycoveCity_Text_MayYouGoingToBattleFrontier: @ 81E353A
 	.string "{PLAYER}{KUN}, what are you going to do?\p"
-	.string "Are you taking the BATTLE FRONTIER\n"
+	.string "Are you taking the Battle Frontier\n"
 	.string "challenge?\p"
 	.string "Or, are you going to complete your\n"
 	.string "Pokédex?\p"
@@ -544,12 +544,12 @@ LilycoveCity_Text_BrendanYouGoingToPokemonLeague: @ 81E390C
 
 LilycoveCity_Text_BrendanYouGoingToBattleFrontier: @ 81E39E3
 	.string "{PLAYER}, what are you going to do?\p"
-	.string "Are you taking the BATTLE FRONTIER\n"
+	.string "Are you taking the Battle Frontier\n"
 	.string "challenge?\p"
 	.string "Or, are you going to complete your\n"
 	.string "Pokédex?\p"
 	.string "Since you're that strong, you should\n"
-	.string "consider the BATTLE FRONTIER.\p"
+	.string "consider the Battle Frontier.\p"
 	.string "Heh, if I train my Pokémon a bit more,\n"
 	.string "I'll get stronger than you, {PLAYER}.\p"
 	.string "Maybe I should go to the BATTLE\n"
@@ -592,7 +592,7 @@ LilycoveCity_Text_GetLostMessingUpTraining: @ 81E3D4A
 	.string "so can you, like, get lost?$"
 
 LilycoveCity_Text_ContestHallInTown: @ 81E3D9E
-	.string "There's a Pokémon CONTEST HALL\n"
+	.string "There's a Pokémon Contest HALL\n"
 	.string "right in this here town. \p"
 	.string "That means well-raised Pokémon will\n"
 	.string "come from all over the country.\p"
@@ -683,7 +683,7 @@ LilycoveCity_Text_CitySign: @ 81E448B
 	.string "sea begins.”$"
 
 LilycoveCity_Text_ContestHallSign: @ 81E44C3
-	.string "Pokémon CONTEST HALL\n"
+	.string "Pokémon Contest HALL\n"
 	.string "“The gathering place for Trainers!”$"
 
 LilycoveCity_Text_MotelSign: @ 81E44FC
@@ -737,7 +737,7 @@ LilycoveCity_Text_FasterSpinBetterPokeblocks: @ 81E47A1
 	.string "People have to work together to get it\n"
 	.string "to spin faster.\p"
 	.string "The faster you can make it spin, the\n"
-	.string "better {POKEBLOCK}S you can get, I've heard.$"
+	.string "better {POKEBLOCK}s you can get, I've heard.$"
 
 LilycoveCity_Text_ExplainBerryBlender: @ 81E4824
 	.string "It's used for making a kind of candy\n"

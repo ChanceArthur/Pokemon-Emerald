@@ -247,7 +247,7 @@ JaggedPass_Text_GoWhereverYouWant: @ 8230D65
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem: @ 8230DBA
 	.string "Oh! This boulder is shaking in response\n"
-	.string "to the MAGMA EMBLEM!$"
+	.string "to the Magma Emblem!$"
 
 JaggedPass_Text_JulioIntro: @ 8230DF7
 	.string "Aiyeeh! It's awfully scary to shoot\n"
