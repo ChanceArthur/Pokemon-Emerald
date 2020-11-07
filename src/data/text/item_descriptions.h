@@ -1040,7 +1040,7 @@ static const u8 sAcroBikeDesc[] = _(
 static const u8 sPokeblockCaseDesc[] = _(
     "A case for holding\n"
     "{POKEBLOCK}S made with\n"
-    "a BERRY BLENDER.");
+    "a Berry Blender.");
 
 static const u8 sLetterDesc[] = _(
     "A letter to STEVEN\n"
@@ -1527,7 +1527,7 @@ static const u8 sAuroraTicketDesc[] = _(
 static const u8 sPowderJarDesc[] = _(
     "Stores BERRY\n"
     "POWDER made using\n"
-    "a BERRY CRUSHER.");
+    "a Berry Crusher.");
 
 static const u8 sRubyDesc[] = _(
     "An exquisite, red-\n"

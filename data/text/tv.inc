@@ -2039,7 +2039,7 @@ gTVWhatsNo1InHoennTodayText03:: @ 0828821A
 
 gTVWhatsNo1InHoennTodayText04:: @ 082882BE
 	.string "In just one day, {STR_VAR_1} spun\n"
-	.string "the BERRY BLENDER {STR_VAR_2} times!\p"
+	.string "the Berry Blender {STR_VAR_2} times!\p"
 	.string "Toward the end, even {STR_VAR_1}\n"
 	.string "seemed to get dizzy.\p"
 	.string "The Trainer appeared to totter\n"

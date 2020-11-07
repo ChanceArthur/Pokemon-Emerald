@@ -3370,7 +3370,7 @@ Route123_Text_VioletDefeat: @ 829FD53
 	.string "I smell the bitter scent of misery…$"
 
 Route123_Text_VioletPostBattle: @ 829FD7B
-	.string "The BERRY MASTER's garden is filled\n"
+	.string "The Berry Master's garden is filled\n"
 	.string "with uplifting fragrances.$"
 
 Route123_Text_CameronIntro: @ 829FDBA

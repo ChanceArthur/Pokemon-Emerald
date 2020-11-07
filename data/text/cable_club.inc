@@ -195,7 +195,7 @@ CableClub_Text_YouMayBattleHere:: @ 82787D5
 
 CableClub_Text_CanMakeBerryPowder:: @ 82787FC
 	.string "Two to five Trainers can make\n"
-	.string "BERRY POWDER together.$"
+	.string "Berry Powder together.$"
 
 CableClub_Text_CanMixRecords:: @ 8278831
 	.string "The records of two to four players\n"
@@ -218,7 +218,7 @@ CableClub_Text_ReturnsToPreviousStep: @ 82788DE
 	.string "Returns to the previous step.$"
 
 CableClub_Text_NeedBerryForBerryCrush: @ 82788FC
-	.string "To use the BERRY CRUSH service,\n"
+	.string "To use the Berry Crush service,\n"
 	.string "you must have at least one BERRY.$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom: @ 827893E
@@ -352,7 +352,7 @@ CableClub_Text_AccessRecordCorner: @ 82790E8
 
 CableClub_Text_UseBerryCrush: @ 8279114
 	.string "Would you like to use the\n"
-	.string "BERRY CRUSH System?$"
+	.string "Berry Crush System?$"
 
 CableClub_Text_ExplainBattleModes: @ 8279142
 	.string "There are three Battle Modes.\p"

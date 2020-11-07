@@ -41,7 +41,7 @@ BerryBlender_Text_BlendMasterLetsBerryBlender: @ 82C451B
 	.string "Fine!\p"
 	.string "Let's get started, then!\p"
 	.string "All together with the BLEND MASTER,\n"
-	.string "let's BERRY BLENDER!$"
+	.string "let's Berry Blender!$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase: @ 82C4573
 	.string "Hmmm!\p"

@@ -1314,17 +1314,17 @@ SlateportCity_Text_ExplainBerries: @ 81DEBCE
 SlateportCity_Text_ExplainBerryPowder: @ 81DED27
 	.string "I recently had machines installed at\n"
 	.string "Pokémon CENTERS for crushing BERRIES.\p"
-	.string "The BERRY CRUSH machines are at\n"
+	.string "The Berry Crush machines are at\n"
 	.string "the DIRECT CORNER upstairs.\p"
 	.string "Did you know?\p"
-	.string "Could you make BERRY POWDER for\n"
+	.string "Could you make Berry Powder for\n"
 	.string "me using those machines?\p"
 	.string "I can make you all sorts of medicine\n"
-	.string "if you bring me lots of BERRY POWDER.$"
+	.string "if you bring me lots of Berry Powder.$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder: @ 81DEE40
 	.string "Have you brought me some\n"
-	.string "BERRY POWDER?$"
+	.string "Berry Powder?$"
 
 SlateportCity_Text_ExchangeWhatWithIt: @ 81DEE67
 	.string "What would you like to exchange\n"
@@ -1332,25 +1332,25 @@ SlateportCity_Text_ExchangeWhatWithIt: @ 81DEE67
 
 SlateportCity_Text_ExchangeBerryPowderForItem: @ 81DEE90
 	.string "Okay, you want to exchange your\n"
-	.string "BERRY POWDER for one {STR_VAR_1}?$"
+	.string "Berry Powder for one {STR_VAR_1}?$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder: @ 81DEEC9
 	.string "Oh, dear. You don't have enough\n"
-	.string "BERRY POWDER.$"
+	.string "Berry Powder.$"
 
 SlateportCity_Text_FineBerryPowderTradeSomethingElse: @ 81DEEF7
-	.string "This is fine BERRY POWDER.\n"
+	.string "This is fine Berry Powder.\n"
 	.string "It will make excellent medicine.\p"
 	.string "Would you like to trade more of your\n"
-	.string "BERRY POWDER for something else?$"
+	.string "Berry Powder for something else?$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe: @ 81DEF79
 	.string "Okay! When you get some more\n"
-	.string "BERRY POWDER, bring it to me, please!$"
+	.string "Berry Powder, bring it to me, please!$"
 
 SlateportCity_Text_ComeBackToTradeBerryPowder: @ 81DEFBC
 	.string "Come back if you'd like to trade your\n"
-	.string "BERRY POWDER for some medicine.\p"
+	.string "Berry Powder for some medicine.\p"
 	.string "I'm always running a bazaar here.\p"
 	.string "Did you know?$"
 

@@ -731,7 +731,7 @@ LilycoveCity_Text_MoveDeletersHouseSign: @ 81E473D
 
 LilycoveCity_Text_DoYouKnowAboutBerryBlender: @ 81E4774
 	.string "Do you know about the machine\n"
-	.string "BERRY BLENDER?$"
+	.string "Berry Blender?$"
 
 LilycoveCity_Text_FasterSpinBetterPokeblocks: @ 81E47A1
 	.string "People have to work together to get it\n"
