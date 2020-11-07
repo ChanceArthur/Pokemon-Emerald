@@ -10,7 +10,7 @@ struct TrainerMoney
 struct TrainerBall
 {
     u8 classId;
-    u16 Ball;
+    u8 Ball;
 };
 
 struct UnknownPokemonStruct4
