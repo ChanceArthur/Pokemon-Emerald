@@ -1010,7 +1010,7 @@ static const u8 sSSTicketDesc[] = _(
 static const u8 sContestPassDesc[] = _(
     "The pass required\n"
     "for entering\n"
-    "Pokémon CONTESTS.");
+    "Pokémon Contests.");
 
 static const u8 sWailmerPailDesc[] = _(
     "A tool used for\n"
@@ -1039,7 +1039,7 @@ static const u8 sAcroBikeDesc[] = _(
 
 static const u8 sPokeblockCaseDesc[] = _(
     "A case for holding\n"
-    "{POKEBLOCK}S made with\n"
+    "{POKEBLOCK}s made with\n"
     "a Berry Blender.");
 
 static const u8 sLetterDesc[] = _(

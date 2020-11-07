@@ -48,7 +48,7 @@ Route102_Text_AllenPostBattle: @ 82947DB
 
 Route102_Text_RickIntro: @ 829480C
 	.string "Hahah! Our eyes met!\n"
-	.string "I'll take you on with my BUG Pokémon!$"
+	.string "I'll take you on with my Bug Pokémon!$"
 
 Route102_Text_RickDefeated: @ 8294847
 	.string "Ow! Down and out!$"
@@ -81,78 +81,78 @@ Route103_Text_DaisyPostBattle: @ 82949B4
 	.string "healing that works with fragrances.$"
 
 Route103_Text_AmyIntro: @ 82949F9
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
+	.string "Amy: I'm Amy.\n"
+	.string "And this is my little sister Liv.\l"
 	.string "We battle together!$"
 
 Route103_Text_AmyDefeated: @ 8294A3D
-	.string "AMY: Uh-oh, we lost.$"
+	.string "Amy: Uh-oh, we lost.$"
 
 Route103_Text_AmyPostBattle: @ 8294A52
-	.string "AMY: You have to think about all\n"
+	.string "Amy: You have to think about all\n"
 	.string "kinds of things when you're battling\l"
 	.string "against two Trainers.$"
 
 Route103_Text_AmyNotEnoughPokemon: @ 8294AAE
-	.string "AMY: Uh-oh, you have only one\n"
+	.string "Amy: Uh-oh, you have only one\n"
 	.string "Pokémon with you.\l"
 	.string "You can't battle us like that.$"
 
 Route103_Text_LivIntro: @ 8294AFD
-	.string "LIV: We battle together as one\n"
+	.string "Liv: We battle together as one\n"
 	.string "team.$"
 
 Route103_Text_LivDefeated: @ 8294B22
-	.string "LIV: Oh, we lost, big sister…$"
+	.string "Liv: Oh, we lost, big sister…$"
 
 Route103_Text_LivPostBattle: @ 8294B40
-	.string "LIV: We work perfectly together,\n"
+	.string "Liv: We work perfectly together,\n"
 	.string "me and my big sister…\p"
 	.string "But we still lost…$"
 
 Route103_Text_AmyLivRegister: @ 8294B8A
-	.string "LIV: Really, we're a lot better…\n"
+	.string "Liv: Really, we're a lot better…\n"
 	.string "It's true! We'll show you next time!$"
 
 Route103_Text_LivNotEnoughPokemon: @ 8294BD0
-	.string "LIV: If you want to battle us,\n"
+	.string "Liv: If you want to battle us,\n"
 	.string "you have to have two Pokémon!\l"
 	.string "It's not fair if you don't!$"
 
 Route103_Text_AmyRematchIntro: @ 8294C29
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
+	.string "Amy: I'm Amy.\n"
+	.string "And this is my little sister Liv.\l"
 	.string "We battle together!$"
 
 Route103_Text_AmyRematchDefeated: @ 8294C6D
-	.string "AMY: Aww, boo!\n"
+	.string "Amy: Aww, boo!\n"
 	.string "We couldn't win again…$"
 
 Route103_Text_AmyRematchPostBattle: @ 8294C93
-	.string "AMY: You have to think about all\n"
+	.string "Amy: You have to think about all\n"
 	.string "kinds of things when you're battling\l"
 	.string "against two Trainers.$"
 
 Route103_Text_AmyRematchNotEnoughPokemon: @ 8294CEF
-	.string "AMY: Uh-oh, you have only one\n"
+	.string "Amy: Uh-oh, you have only one\n"
 	.string "Pokémon with you.\l"
 	.string "You can't battle us like that.$"
 
 Route103_Text_LivRematchIntro: @ 8294D3E
-	.string "LIV: We battle together as one\n"
+	.string "Liv: We battle together as one\n"
 	.string "team.$"
 
 Route103_Text_LivRematchDefeated: @ 8294D63
-	.string "LIV: Awww, we lost again…\n"
+	.string "Liv: Awww, we lost again…\n"
 	.string "Big sister…$"
 
 Route103_Text_LivRematchPostBattle: @ 8294D89
-	.string "LIV: We work perfectly together,\n"
+	.string "Liv: We work perfectly together,\n"
 	.string "me and my big sister…\p"
 	.string "But why did we lose again?$"
 
 Route103_Text_LivRematchNotEnoughPokemon: @ 8294DDB
-	.string "LIV: If you want to battle us, you\n"
+	.string "Liv: If you want to battle us, you\n"
 	.string "have to have two Pokémon!\l"
 	.string "It's not fair if you don't!$"
 
@@ -208,7 +208,7 @@ Route103_Text_PetePostBattle: @ 82950AA
 	.string "Oh, I understand where you're coming\n"
 	.string "from now.\p"
 	.string "If I had a Pokémon that trusty,\n"
-	.string "I'd want to SURF on it, too!$"
+	.string "I'd want to Surf on it, too!$"
 
 Route103_Text_IsabelleIntro: @ 8295116
 	.string "Watch where you're going!\n"
@@ -246,43 +246,43 @@ Route103_Text_MarcosPostBattle: @ 8295246
 	.string "Heh, maybe I should turn pro.$"
 
 Route104_Text_GinaIntro: @ 82952BB
-	.string "GINA: Okay, let's battle with our\n"
+	.string "Gina: Okay, let's battle with our\n"
 	.string "Pokémon!$"
 
 Route104_Text_GinaDefeat: @ 82952E6
-	.string "GINA: Losing upsets me!$"
+	.string "Gina: Losing upsets me!$"
 
 Route104_Text_GinaPostBattle: @ 82952FE
-	.string "GINA: You are strong!\n"
+	.string "Gina: You are strong!\n"
 	.string "We have to train lots more!$"
 
 Route104_Text_GinaNotEnoughMons: @ 8295330
-	.string "GINA: Oh? Only one Pokémon?\n"
+	.string "Gina: Oh? Only one Pokémon?\n"
 	.string "Then, we don't battle with you.\p"
 	.string "If there's only one Pokémon, it will\n"
 	.string "be lonesome. That's not nice.$"
 
 Route104_Text_MiaIntro: @ 82953AF
-	.string "MIA: We are twins, so we battle\n"
+	.string "Mia: We are twins, so we battle\n"
 	.string "Pokémon together.$"
 
 Route104_Text_MiaDefeat: @ 82953E1
-	.string "MIA: We battled together, but we\n"
+	.string "Mia: We battled together, but we\n"
 	.string "both lost…$"
 
 Route104_Text_MiaPostBattle: @ 829540D
-	.string "MIA: We will train our Pokémon more\n"
+	.string "Mia: We will train our Pokémon more\n"
 	.string "and be strong like you.$"
 
 Route104_Text_MiaNotEnoughMons: @ 8295449
-	.string "MIA: You want to battle with us?\p"
+	.string "Mia: You want to battle with us?\p"
 	.string "It's a big no-no if you don't have two\n"
 	.string "Pokémon with you.\l"
 	.string "We're too strong for you!$"
 
 Route104_Text_IvanIntro: @ 82954BD
 	.string "Why keep it a secret?\n"
-	.string "I'm the WATER Pokémon expert!\p"
+	.string "I'm the Water Pokémon expert!\p"
 	.string "Huh?\n"
 	.string "You don't know me?$"
 
@@ -395,13 +395,13 @@ Route104_Text_CindyPostBattle: @ 8295AC3
 Route104_Text_CindyRegister1: @ 8295B01
 	.string "Hello, we meet again.\p"
 	.string "We seem to be drawn together. Let's\n"
-	.string "register each other in our PokéNavS.$"
+	.string "register each other in our PokéNavs.$"
 
 Route104_Text_CindyRegister2: @ 8295B60
 	.string "We should commemorate how we seem\n"
 	.string "to be drawn to each other.\p"
 	.string "Let's register each other in our\n"
-	.string "PokéNavS.$"
+	.string "PokéNavs.$"
 
 Route104_Text_CindyRematchIntro: @ 8295BC8
 	.string "Hello, we meet again.\n"
@@ -464,7 +464,7 @@ Route105_Text_DominikDefeated: @ 8295EEA
 Route105_Text_DominikPostBattle: @ 8295F08
 	.string "Why is the sea blue?\p"
 	.string "I learned about that at the MUSEUM in\n"
-	.string "SLATEPORT, but I forgot.$"
+	.string "Slateport, but I forgot.$"
 
 Route105_Text_BeverlyIntro: @ 8295F5C
 	.string "My body feels lighter in the water.\n"
@@ -762,7 +762,7 @@ Route108_Text_MissyPostBattle: @ 8296F2A
 	.string "It's so healthy!$"
 
 Route108_Text_CoryIntro: @ 8296F5D
-	.string "I love WATER-type Pokémon.\n"
+	.string "I love Water-type Pokémon.\n"
 	.string "I love other Pokémon, too!$"
 
 Route108_Text_CoryDefeated: @ 8296F93
@@ -824,7 +824,7 @@ Route109_Text_AlicePostBattle: @ 829720F
 
 Route109_Text_HueyIntro: @ 8297235
 	.string "I've laid anchor in ports around\n"
-	.string "the world, but SLATEPORT's the best.$"
+	.string "the world, but Slateport's the best.$"
 
 Route109_Text_HueyDefeated: @ 829727B
 	.string "You're the best!$"
@@ -847,8 +847,8 @@ Route109_Text_EdmondPostBattle: @ 82972ED
 	.string "I'm a Sailor, but…$"
 
 Route109_Text_RickyIntro: @ 829733B
-	.string "I'm thirsty… I could go for a SODA POP\n"
-	.string "at the SEASHORE HOUSE…$"
+	.string "I'm thirsty… I could go for a Soda Pop\n"
+	.string "at the Seashore House…$"
 
 Route109_Text_RickyDefeated: @ 8297379
 	.string "Groan…$"
@@ -933,37 +933,37 @@ Route109_Text_CarterPostBattle: @ 8297715
 	.string "No, you're a big-one-to-be!$"
 
 Route109_Text_PaulIntro: @ 8297754
-	.string "PAUL: Well, this is a mood-breaker.\p"
+	.string "Paul: Well, this is a mood-breaker.\p"
 	.string "I wish you wouldn't disturb our\n"
 	.string "precious time together.$"
 
 Route109_Text_PaulDefeated: @ 82977B0
-	.string "PAUL: Well, I give up.$"
+	.string "Paul: Well, I give up.$"
 
 Route109_Text_PaulPostBattle: @ 82977C7
-	.string "PAUL: Well, don't tell anyone that\n"
+	.string "Paul: Well, don't tell anyone that\n"
 	.string "we're here.\l"
 	.string "This is just our private world of two!$"
 
 Route109_Text_PaulNotEnoughPokemon: @ 829781D
-	.string "PAUL: We're totally, deeply in love.\n"
+	.string "Paul: We're totally, deeply in love.\n"
 	.string "That's why we make our Pokémon battle\l"
 	.string "together.$"
 
 Route109_Text_MelIntro: @ 8297872
-	.string "MEL: We're, like, totally in love.\n"
+	.string "Mel: We're, like, totally in love.\n"
 	.string "Our romance is heating up all of HOENN!$"
 
 Route109_Text_MelDefeated: @ 82978BD
-	.string "MEL: We lost, and it's my fault!\n"
-	.string "PAUL will hate me!$"
+	.string "Mel: We lost, and it's my fault!\n"
+	.string "Paul will hate me!$"
 
 Route109_Text_MelPostBattle: @ 82978F1
-	.string "MEL: Um, PAUL, are you angry with me?\n"
+	.string "Mel: Um, Paul, are you angry with me?\n"
 	.string "Please don't be angry.$"
 
 Route109_Text_MelNotEnoughPokemon: @ 829792E
-	.string "MEL: We're, like, deeply and truly in love.\n"
+	.string "Mel: We're, like, deeply and truly in love.\n"
 	.string "That's why we make our Pokémon\l"
 	.string "battle together.$"
 
@@ -1001,11 +1001,11 @@ Route109_Text_ElijahDefeated: @ 8297AC7
 Route109_Text_ElijahPostBattle: @ 8297AE5
 	.string "For a guy as macho as me, a port\n"
 	.string "is the perfect setting!\p"
-	.string "I guess I'll head for SLATEPORT.$"
+	.string "I guess I'll head for Slateport.$"
 
 Route110_Text_JacobIntro: @ 8297B3F
 	.string "Whoa! Watch it!\n"
-	.string "I guess you're not used to BIKE racing.$"
+	.string "I guess you're not used to Bike racing.$"
 
 Route110_Text_JacobDefeated: @ 8297B77
 	.string "Whoa!\n"
@@ -1014,7 +1014,7 @@ Route110_Text_JacobDefeated: @ 8297B77
 Route110_Text_JacobPostBattle: @ 8297B8F
 	.string "Flat tires and brake problems can\n"
 	.string "cause serious injury!\l"
-	.string "Inspect your BIKE for problems!$"
+	.string "Inspect your Bike for problems!$"
 
 Route110_Text_AnthonyIntro: @ 8297BE7
 	.string "Yo, you!\n"
@@ -1028,7 +1028,7 @@ Route110_Text_AnthonyPostBattle: @ 8297C1F
 	.string "I need to reconsider this…$"
 
 Route110_Text_BenjaminIntro: @ 8297C63
-	.string "Don't panic if your BIKE's going fast!$"
+	.string "Don't panic if your Bike's going fast!$"
 
 Route110_Text_BenjaminDefeated: @ 8297C8A
 	.string "I shouldn't panic during Pokémon\n"
@@ -1067,7 +1067,7 @@ Route110_Text_AbigailPostBattle: @ 8297E88
 
 Route110_Text_AbigailRegister: @ 8297ECD
 	.string "You know, I like you!\n"
-	.string "Let's have a rematch on CYCLING ROAD.$"
+	.string "Let's have a rematch on Cycling Road.$"
 
 Route110_Text_AbigailRematchIntro: @ 8297F09
 	.string "Isn't it neat to hold a battle while\n"
@@ -1089,7 +1089,7 @@ Route110_Text_JasmineDefeated: @ 8297FD0
 	.string "I'm worried about muscle cramps…$"
 
 Route110_Text_JasminePostBattle: @ 8297FF1
-	.string "Oh, you have some GYM BADGES?\n"
+	.string "Oh, you have some Gym Badges?\n"
 	.string "No wonder you're so strong!$"
 
 Route110_Text_EdwardIntro: @ 829802B
@@ -1129,7 +1129,7 @@ Route110_Text_EdwinPostBattle: @ 82981B3
 	.string "my passion as a collector is ignited!$"
 
 Route110_Text_EdwinRegister: @ 8298201
-	.string "I like collecting MATCH CALL\n"
+	.string "I like collecting Match Call\n"
 	.string "registrations, too…$"
 
 Route110_Text_EdwinRematchIntro: @ 8298232
@@ -1166,7 +1166,7 @@ Route110_Text_IsabelDefeated: @ 8298389
 
 Route110_Text_IsabelPostBattle: @ 82983A2
 	.string "Rather than battling, perhaps I should\n"
-	.string "show off my Pokémon at the FAN CLUB.$"
+	.string "show off my Pokémon at the Fan Club.$"
 
 Route110_Text_IsabelRegister: @ 82983EE
 	.string "That wasn't close to what I could\n"
@@ -1198,7 +1198,7 @@ Route110_Text_TimmyPostBattle: @ 8298579
 	.string "just caught.$"
 
 Route110_Text_AlyssaIntro: @ 82985AB
-	.string "I fell off CYCLING ROAD…\p"
+	.string "I fell off Cycling Road…\p"
 	.string "I'll get over my embarrassment by\n"
 	.string "battling with you!$"
 
@@ -1233,17 +1233,17 @@ Route110_Text_KalebPostBattle: @ 8298755
 	.string "could, my pretties.$"
 
 Route111_Text_DrewIntro: @ 829878E
-	.string "Oh, hey! Those GO-GOGGLES suit you.\n"
+	.string "Oh, hey! Those Go-Goggles suit you.\n"
 	.string "But I think they look better on me.\p"
 	.string "Let's decide who they look better on\n"
 	.string "with a battle!$"
 
 Route111_Text_DrewDefeat: @ 829880A
 	.string "I couldn't see what was happening at\n"
-	.string "my sides because of the GO-GOGGLES.$"
+	.string "my sides because of the Go-Goggles.$"
 
 Route111_Text_DrewPostBattle: @ 8298853
-	.string "The GO-GOGGLES make it possible to\n"
+	.string "The Go-Goggles make it possible to\n"
 	.string "get through sandstorms.\l"
 	.string "That makes me happy!$"
 
@@ -1262,7 +1262,7 @@ Route111_Text_HeidiPostBattle: @ 829891B
 	.string "an eye on it!$"
 
 Route111_Text_BeauIntro: @ 829898E
-	.string "Wearing these GO-GOGGLES makes me\n"
+	.string "Wearing these Go-Goggles makes me\n"
 	.string "feel like a superhero.\l"
 	.string "Right now, nobody can beat me!$"
 
@@ -1304,7 +1304,7 @@ Route111_Text_DustyRegister: @ 8298C00
 	.string "I haven't been searching for any\n"
 	.string "tough Pokémon.\p"
 	.string "But, for some reason, I sure do like\n"
-	.string "PokéNavS.$"
+	.string "PokéNavs.$"
 
 Route111_Text_DustyRematchIntro: @ 8298C5F
 	.string "For thirty years I have searched for\n"
@@ -1344,7 +1344,7 @@ Route111_Text_IreneDefeat: @ 8298E6E
 
 Route111_Text_IrenePostBattle: @ 8298E8C
 	.string "I'm thinking that I should go to\n"
-	.string "MT. CHIMNEY, but the view around\l"
+	.string "Mt. Chimney, but the view around\l"
 	.string "here is very nice, too.$"
 
 Route111_Text_DaisukeIntro: @ 8298EE6
@@ -1389,7 +1389,7 @@ Route111_Text_WiltonRematchDefeat: @ 82990EE
 
 Route111_Text_WiltonPostRematch: @ 8299102
 	.string "Since you're that strong, you should\n"
-	.string "aim for the Pokémon LEAGUE.$"
+	.string "aim for the Pokémon League.$"
 
 Route111_Text_BrookeIntro: @ 8299143
 	.string "Oh, your Pokémon look like serious\n"
@@ -1435,7 +1435,7 @@ Route111_Text_CeliaDefeat: @ 8299384
 Route111_Text_CeliaPostBattle: @ 82993A7
 	.string "In a sandstorm like this, I can't set\n"
 	.string "the places for a picnic even with my\l"
-	.string "GO-GOGGLES on…$"
+	.string "Go-Goggles on…$"
 
 Route111_Text_BryanIntro: @ 8299401
 	.string "How tough are you?\n"
@@ -1458,7 +1458,7 @@ Route111_Text_BrandenDefeat: @ 82994C5
 	.string "enough of a bribe…$"
 
 Route111_Text_BrandenPostBattle: @ 82994FB
-	.string "My SANDSHREW loves eating\n"
+	.string "My Sandshrew loves eating\n"
 	.string "my sandwiches.$"
 
 Route111_Text_TyronIntro: @ 8299524
@@ -1495,10 +1495,10 @@ Route111_Text_HaydenDefeat: @ 82996BE
 
 Route111_Text_HaydenPostBattle: @ 82996C5
 	.string "My stomach is grumbling!\n"
-	.string "Maybe I can grill some BERRIES…$"
+	.string "Maybe I can grill some Berries…$"
 
 Route111_Text_BiancaIntro: @ 82996FE
-	.string "Did you come from MAUVILLE?\n"
+	.string "Did you come from Mauville?\n"
 	.string "Then you should be full of energy!$"
 
 Route111_Text_BiancaDefeat: @ 829973D
@@ -1556,7 +1556,7 @@ Route112_Text_TrentRematchDefeat: @ 82999F7
 
 Route112_Text_TrentRematchPostBattle: @ 8299A0F
 	.string "I hear there are some seriously tough\n"
-	.string "Trainers on top of MT. CHIMNEY.\p"
+	.string "Trainers on top of Mt. Chimney.\p"
 	.string "I intend to get up there and give them\n"
 	.string "a challenge!$"
 
@@ -1585,7 +1585,7 @@ Route112_Text_CarolPostBattle: @ 8299B4C
 	.string "If you have the most fun, you win!$"
 
 Route112_Text_BryantIntro: @ 8299BAE
-	.string "I caught hot Pokémon in FIERY PATH!\n"
+	.string "I caught hot Pokémon in Fiery Path!\n"
 	.string "Take a look!$"
 
 Route112_Text_BryantDefeat: @ 8299BDF
@@ -1639,7 +1639,7 @@ Route113_Text_DillonPostBattle: @ 8299E38
 Route113_Text_MadelineIntro: @ 8299EA6
 	.string "I use this parasol to ward off this\n"
 	.string "filthy, yucky volcanic ash from\l"
-	.string "my dear NUMEL.$"
+	.string "my dear Numel.$"
 
 Route113_Text_MadelineDefeat: @ 8299EF9
 	.string "Huff, huff…\n"
@@ -1697,7 +1697,7 @@ Route113_Text_LungIntro: @ 829A192
 
 Route113_Text_LungDefeat: @ 829A1C6
 	.string "I'll use my ninjutsu on you…\n"
-	.string "“VOLCANIC ASH SWIRL CLOAK”!\p"
+	.string "“Volcanic Ash Swirl Cloak”!\p"
 	.string "…What?\n"
 	.string "It's already over?$"
 
@@ -1706,35 +1706,35 @@ Route113_Text_LungPostBattle: @ 829A219
 	.string "It's lonely if no one comes along.$"
 
 Route113_Text_ToriIntro: @ 829A261
-	.string "TORI: Both of us, we collect ashes.\n"
+	.string "Tori: Both of us, we collect ashes.\n"
 	.string "We battle Pokémon, too.$"
 
 Route113_Text_ToriDefeat: @ 829A29D
-	.string "TORI: We lost… It's boring, so I'm going\n"
+	.string "Tori: We lost… It's boring, so I'm going\n"
 	.string "to get some more ashes.$"
 
 Route113_Text_ToriPostBattle: @ 829A2DE
-	.string "TORI: How much ash do we have?\n"
-	.string "Enough for a WHITE FLUTE, I hope.$"
+	.string "Tori: How much ash do we have?\n"
+	.string "Enough for a White Flute, I hope.$"
 
 Route113_Text_ToriNotEnoughMons: @ 829A31F
-	.string "TORI: We want to battle 2-on-2.\n"
+	.string "Tori: We want to battle 2-on-2.\n"
 	.string "If we didn't, we would lose!$"
 
 Route113_Text_TiaIntro: @ 829A35C
-	.string "TIA: Both of us, we collect ashes.\n"
+	.string "Tia: Both of us, we collect ashes.\n"
 	.string "We battle Pokémon, too.$"
 
 Route113_Text_TiaDefeat: @ 829A397
-	.string "TIA: We couldn't win… It's boring,\n"
+	.string "Tia: We couldn't win… It's boring,\n"
 	.string "so I'm getting some more ashes.$"
 
 Route113_Text_TiaPostBattle: @ 829A3DA
-	.string "TIA: We have a lot of ashes!\n"
-	.string "I think enough for a WHITE FLUTE!$"
+	.string "Tia: We have a lot of ashes!\n"
+	.string "I think enough for a White Flute!$"
 
 Route113_Text_TiaNotEnoughMons: @ 829A419
-	.string "TIA: We want to battle 2-on-2.\n"
+	.string "Tia: We want to battle 2-on-2.\n"
 	.string "If we don't, we won't win!$"
 
 Route113_Text_CobyIntro: @ 829A453
@@ -1907,7 +1907,7 @@ Route114_Text_ClaudeDefeat: @ 829AD0A
 
 Route114_Text_ClaudePostBattle: @ 829AD2E
 	.string "I think I'll try my luck at landing\n"
-	.string "a big one at METEOR FALLS.\p"
+	.string "a big one at Meteor Falls.\p"
 	.string "There has to be something in there.\n"
 	.string "I just know it.$"
 
@@ -1927,35 +1927,35 @@ Route114_Text_NolanPostBattle: @ 829AE3D
 	.string "away from fishing or Pokémon.$"
 
 Route114_Text_TyraIntro: @ 829AE96
-	.string "TYRA: Well, sure.\n"
+	.string "Tyra: Well, sure.\n"
 	.string "I'm in the mood for it.\l"
 	.string "I'll teach you a little about Pokémon.$"
 
 Route114_Text_TyraDefeat: @ 829AEE7
-	.string "TYRA: What an amazing battle style!$"
+	.string "Tyra: What an amazing battle style!$"
 
 Route114_Text_TyraPostBattle: @ 829AF0B
-	.string "TYRA: I was teaching my junior IVY\n"
+	.string "Tyra: I was teaching my junior Ivy\n"
 	.string "about Pokémon.$"
 
 Route114_Text_TyraNotEnoughMons: @ 829AF3D
-	.string "TYRA: Giggle…\n"
+	.string "Tyra: Giggle…\n"
 	.string "If you want to battle with us, just one\l"
 	.string "Pokémon isn't enough!$"
 
 Route114_Text_IvyIntro: @ 829AF89
-	.string "IVY: Who taught you about Pokémon?$"
+	.string "Ivy: Who taught you about Pokémon?$"
 
 Route114_Text_IvyDefeat: @ 829AFAC
-	.string "IVY: What an amazing battle style!$"
+	.string "Ivy: What an amazing battle style!$"
 
 Route114_Text_IvyPostBattle: @ 829AFCF
-	.string "IVY: I started training Pokémon\n"
-	.string "because TYRA, my student mentor,\l"
+	.string "Ivy: I started training Pokémon\n"
+	.string "because Tyra, my student mentor,\l"
 	.string "taught me!$"
 
 Route114_Text_IvyNotEnoughMons: @ 829B01B
-	.string "IVY: Do you only have one Pokémon?\n"
+	.string "Ivy: Do you only have one Pokémon?\n"
 	.string "I think it must feel lonesome.$"
 
 Route114_Text_KaiIntro: @ 829B05D
@@ -2030,14 +2030,14 @@ Route115_Text_TimothyPostRematch: @ 829B385
 
 Route115_Text_KoichiIntro: @ 829B3CC
 	.string "You!\p"
-	.string "My MACHOP!\p"
+	.string "My Machop!\p"
 	.string "Demand a battle!$"
 
 Route115_Text_KoichiDefeat: @ 829B3ED
 	.string "Ouch, ouch, ouch!$"
 
 Route115_Text_KoichiPostBattle: @ 829B3FF
-	.string "My MACHOP crew!\p"
+	.string "My Machop crew!\p"
 	.string "So long as they seek power, I will\n"
 	.string "grow strong with them!$"
 
@@ -2157,7 +2157,7 @@ Route115_Text_AlixDefeat: @ 829B9F6
 
 Route115_Text_AlixPostBattle: @ 829BA04
 	.string "Oh, well.\n"
-	.string "I think I will TELEPORT home.$"
+	.string "I think I will Teleport home.$"
 
 Route115_Text_MarleneIntro: @ 829BA2C
 	.string "You've disturbed my meditation…\n"
@@ -2195,7 +2195,7 @@ Route116_Text_JoeyPostBattle: @ 829BBC6
 	.string "I've got another one!$"
 
 Route116_Text_JoseIntro: @ 829BBFD
-	.string "My BUG Pokémon are tough!\n"
+	.string "My Bug Pokémon are tough!\n"
 	.string "Let's battle!$"
 
 Route116_Text_JoseDefeat: @ 829BC25
@@ -2203,7 +2203,7 @@ Route116_Text_JoseDefeat: @ 829BC25
 	.string "I thought I had you!$"
 
 Route116_Text_JosePostBattle: @ 829BC42
-	.string "BUG Pokémon evolve quickly.\n"
+	.string "Bug Pokémon evolve quickly.\n"
 	.string "So they get strong quickly, too.$"
 
 Route116_Text_JaniceIntro: @ 829BC7F
@@ -2219,7 +2219,7 @@ Route116_Text_JanicePostBattle: @ 829BCCC
 
 Route116_Text_JerryIntro: @ 829BD0C
 	.string "We learn all sorts of things at the\n"
-	.string "Trainer's SCHOOL.\p"
+	.string "Trainer's School.\p"
 	.string "I want to test things out for real!$"
 
 Route116_Text_JerryDefeat: @ 829BD66
@@ -2228,24 +2228,24 @@ Route116_Text_JerryDefeat: @ 829BD66
 
 Route116_Text_JerryPostBattle: @ 829BD92
 	.string "I'll have to redo some courses at\n"
-	.string "the Trainer's SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "the Trainer's School.\l"
+	.string "If I don't, Roxanne will be steamed.$"
 
 Route116_Text_JerryRegister1: @ 829BDEF
-	.string "I learned at the Trainer's SCHOOL\n"
+	.string "I learned at the Trainer's School\n"
 	.string "that a PokéNav can register Trainers.\p"
 	.string "I don't really get what that means,\n"
 	.string "so can I just try it?$"
 
 Route116_Text_JerryRegister2: @ 829BE71
-	.string "I learned at the Trainer's SCHOOL\n"
+	.string "I learned at the Trainer's School\n"
 	.string "that a PokéNav can register Trainers.\p"
 	.string "I don't really get what that means,\n"
 	.string "so can I just try it?$"
 
 Route116_Text_JerryRematchIntro: @ 829BEF3
 	.string "I've been studying seriously at the\n"
-	.string "Trainer's SCHOOL.\l"
+	.string "Trainer's School.\l"
 	.string "I won't lose like I did last time.$"
 
 Route116_Text_JerryRematchDefeat: @ 829BF4C
@@ -2254,8 +2254,8 @@ Route116_Text_JerryRematchDefeat: @ 829BF4C
 
 Route116_Text_JerryPostRematch: @ 829BF68
 	.string "I'll have to redo some courses at\n"
-	.string "the Trainer's SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "the Trainer's School.\l"
+	.string "If I don't, Roxanne will be steamed.$"
 
 Route116_Text_KarenIntro: @ 829BFC5
 	.string "I study at school, and I study on\n"
@@ -2266,7 +2266,7 @@ Route116_Text_KarenDefeat: @ 829BFFA
 
 Route116_Text_KarenPostBattle: @ 829C010
 	.string "Awww, I'll never become an elegant\n"
-	.string "Trainer like ROXANNE this way!$"
+	.string "Trainer like Roxanne this way!$"
 
 Route116_Text_KarenRegister1: @ 829C052
 	.string "Oh, wow! Isn't that a PokéNav?\n"
@@ -2285,7 +2285,7 @@ Route116_Text_KarenRematchDefeat: @ 829C11F
 	.string "I lost again?$"
 
 Route116_Text_KarenPostRematch: @ 829C13B
-	.string "You've beaten ROXANNE?\n"
+	.string "You've beaten Roxanne?\n"
 	.string "I can't beat you, then. Not yet.$"
 
 Route116_Text_SarahIntro: @ 829C173
@@ -2361,11 +2361,11 @@ Route117_Text_IsaacRematchIntro: @ 829C549
 
 Route117_Text_IsaacRematchDefeat: @ 829C58B
 	.string "You know how to raise them properly.\n"
-	.string "You might have DAY CARE skills…$"
+	.string "You might have Day Care skills…$"
 
 Route117_Text_IsaacPostRematch: @ 829C5D0
 	.string "Your Pokémon are growing good!\n"
-	.string "You should enter them in CONTESTS.$"
+	.string "You should enter them in Contests.$"
 
 Route117_Text_LydiaIntro: @ 829C612
 	.string "Please, allow me to evaluate if you\n"
@@ -2391,7 +2391,7 @@ Route117_Text_LydiaRematchDefeat: @ 829C73E
 
 Route117_Text_LydiaPostRematch: @ 829C75A
 	.string "Pokémon seem to like different kinds\n"
-	.string "of {POKEBLOCK}S, depending on their nature.$"
+	.string "of {POKEBLOCK}s, depending on their nature.$"
 
 Route117_Text_DylanIntro: @ 829C7A5
 	.string "I'm in the middle of a triathlon, but,\n"
@@ -2466,78 +2466,78 @@ Route117_Text_DerekDefeat: @ 829CB87
 Route117_Text_DerekPostBattle: @ 829CBAD
 	.string "All I did was follow my heart, and now\n"
 	.string "they call me a Bug Maniac…\p"
-	.string "Still, I am an expert on BUG Pokémon,\n"
+	.string "Still, I am an expert on Bug Pokémon,\n"
 	.string "so it's only natural that they call me\l"
 	.string "a Bug Maniac.$"
 
 Route117_Text_AnnaIntro: @ 829CC4A
-	.string "ANNA: I'm with my pretty junior student\n"
+	.string "Anna: I'm with my pretty junior student\n"
 	.string "partner. I have to do good!$"
 
 Route117_Text_AnnaDefeat: @ 829CC8E
-	.string "ANNA: I'm with my pretty junior student\n"
+	.string "Anna: I'm with my pretty junior student\n"
 	.string "partner! Let me win!$"
 
 Route117_Text_AnnaPostBattle: @ 829CCCB
-	.string "ANNA: Your Pokémon have some good\n"
+	.string "Anna: Your Pokémon have some good\n"
 	.string "combinations.\p"
 	.string "I'd say you're second only to us!$"
 
 Route117_Text_AnnaAndMegRegister: @ 829CD1D
-	.string "ANNA: We can't take this lying down!\n"
+	.string "Anna: We can't take this lying down!\n"
 	.string "You will come back, won't you?$"
 
 Route117_Text_AnnaNotEnoughMons: @ 829CD61
-	.string "ANNA: If you want to battle us,\n"
+	.string "Anna: If you want to battle us,\n"
 	.string "bring two Pokémon with you.$"
 
 Route117_Text_MegIntro: @ 829CD9D
-	.string "MEG: I'm going to tag up with my super\n"
+	.string "Meg: I'm going to tag up with my super\n"
 	.string "senior student partner and beat you!$"
 
 Route117_Text_MegDefeat: @ 829CDE9
-	.string "MEG: Oh, no!\n"
-	.string "I'm sorry, ANNA! I let you down…$"
+	.string "Meg: Oh, no!\n"
+	.string "I'm sorry, Anna! I let you down…$"
 
 Route117_Text_MegPostBattle: @ 829CE17
-	.string "MEG: I dragged ANNA down…\n"
+	.string "Meg: I dragged Anna down…\n"
 	.string "If I didn't, she would have won!$"
 
 Route117_Text_MegNotEnoughMons: @ 829CE52
-	.string "MEG: Do you only have one Pokémon?\n"
+	.string "Meg: Do you only have one Pokémon?\n"
 	.string "We can't battle with you, then.\p"
 	.string "We want to have a 2-on-2 battle.$"
 
 Route117_Text_AnnaRematchIntro: @ 829CEB6
-	.string "ANNA: I can't keep losing in front of\n"
+	.string "Anna: I can't keep losing in front of\n"
 	.string "my junior partner, right?$"
 
 Route117_Text_AnnaRematchDefeat: @ 829CEF6
-	.string "ANNA: I couldn't get into the groove.$"
+	.string "Anna: I couldn't get into the groove.$"
 
 Route117_Text_AnnaPostRematch: @ 829CF1C
-	.string "ANNA: Your Pokémon have some good\n"
+	.string "Anna: Your Pokémon have some good\n"
 	.string "combinations.\p"
 	.string "I'd say you're second only to us!$"
 
 Route117_Text_AnnaRematchNotEnoughMons: @ 829CF6E
-	.string "ANNA: If you want to battle us,\n"
+	.string "Anna: If you want to battle us,\n"
 	.string "bring two Pokémon with you.$"
 
 Route117_Text_MegRematchIntro: @ 829CFAA
-	.string "MEG: I'm going to tag up with my\n"
+	.string "Meg: I'm going to tag up with my\n"
 	.string "senior partner and win this time!$"
 
 Route117_Text_MegRematchDefeat: @ 829CFED
-	.string "MEG: Too strong!$"
+	.string "Meg: Too strong!$"
 
 Route117_Text_MegPostRematch: @ 829CFFE
-	.string "MEG: I battled together with my\n"
+	.string "Meg: I battled together with my\n"
 	.string "senior partner, but we lost…\p"
 	.string "That's so discouraging…$"
 
 Route117_Text_MegRematchNotEnoughMons: @ 829D053
-	.string "MEG: Do you only have one Pokémon?\n"
+	.string "Meg: Do you only have one Pokémon?\n"
 	.string "We can't battle with you, then.\p"
 	.string "We want to have a 2-on-2 battle.$"
 
@@ -2554,13 +2554,13 @@ Route117_Text_MelinaPostBattle: @ 829D10E
 
 Route117_Text_BrandiIntro: @ 829D14B
 	.string "Let me demonstrate the power\n"
-	.string "hidden within a PSYCHIC Pokémon!$"
+	.string "hidden within a Psychic Pokémon!$"
 
 Route117_Text_BrandiDefeat: @ 829D189
 	.string "Astonishing!$"
 
 Route117_Text_BrandiPostBattle: @ 829D196
-	.string "PSYCHIC Pokémon are complex.\n"
+	.string "Psychic Pokémon are complex.\n"
 	.string "You should try catching some.$"
 
 Route117_Text_AishaIntro: @ 829D1D1
@@ -2606,7 +2606,7 @@ Route118_Text_RosePostRematch: @ 829D3D9
 	.string "Pokémon will be attracted by it.$"
 
 Route118_Text_PerryIntro: @ 829D41D
-	.string "BIRD Pokémon that FLY elegantly in\n"
+	.string "Bird Pokémon that Fly elegantly in\n"
 	.string "the sky… They're the best!$"
 
 Route118_Text_PerryDefeat: @ 829D45B
@@ -2619,7 +2619,7 @@ Route118_Text_PerryPostBattle: @ 829D46C
 
 Route118_Text_ChesterIntro: @ 829D4A6
 	.string "Take flight!\n"
-	.string "My BIRD Pokémon!$"
+	.string "My Bird Pokémon!$"
 
 Route118_Text_ChesterDefeat: @ 829D4C4
 	.string "They did take flight…$"
@@ -2694,8 +2694,8 @@ Route118_Text_DeandrePostBattle: @ 829D872
 	.string "You can copy me--I don't mind!$"
 
 Route119_Text_BrentIntro: @ 829D8C2
-	.string "We're the MIMIC CIRCLE!\n"
-	.string "We MIMIC what you do!$"
+	.string "We're the Mimic Circle!\n"
+	.string "We Mimic what you do!$"
 
 Route119_Text_BrentDefeat: @ 829D8F0
 	.string "Whoopsie!\n"
@@ -2708,13 +2708,13 @@ Route119_Text_BrentPostBattle: @ 829D902
 
 Route119_Text_DonaldIntro: @ 829D941
 	.string "So, we finally meet!\n"
-	.string "My BUG Pokémon will keep you company!$"
+	.string "My Bug Pokémon will keep you company!$"
 
 Route119_Text_DonaldDefeat: @ 829D97C
 	.string "I wish we'd never met…$"
 
 Route119_Text_DonaldPostBattle: @ 829D993
-	.string "I want to MIMIC you some more.\n"
+	.string "I want to Mimic you some more.\n"
 	.string "Can you hurry up and move?$"
 
 Route119_Text_TaylorIntro: @ 829D9CD
@@ -2725,7 +2725,7 @@ Route119_Text_TaylorDefeat: @ 829DA14
 	.string "But if you win, I lose…$"
 
 Route119_Text_TaylorPostBattle: @ 829DA2C
-	.string "I can't MIMIC you winning the match.\n"
+	.string "I can't Mimic you winning the match.\n"
 	.string "That's just impossible…\l"
 	.string "It's burning me up…$"
 
@@ -2737,7 +2737,7 @@ Route119_Text_DougDefeat: @ 829DABC
 	.string "Whoop, that was a great match!$"
 
 Route119_Text_DougPostBattle: @ 829DADB
-	.string "We're the MIMIC CIRCLE!\n"
+	.string "We're the Mimic Circle!\n"
 	.string "I hope you enjoyed our performance.$"
 
 Route119_Text_GregIntro: @ 829DB17
@@ -2753,15 +2753,15 @@ Route119_Text_GregPostBattle: @ 829DB7C
 	.string "keep on mimicking your every move.$"
 
 Route119_Text_KentIntro: @ 829DBC2
-	.string "The MIMIC CIRCLE was formed by people\n"
-	.string "who like to MIMIC.\p"
+	.string "The Mimic Circle was formed by people\n"
+	.string "who like to Mimic.\p"
 	.string "A battle starts the instant we meet!$"
 
 Route119_Text_KentDefeat: @ 829DC20
 	.string "I give up!$"
 
 Route119_Text_KentPostBattle: @ 829DC2B
-	.string "Won't you join our MIMIC CIRCLE?$"
+	.string "Won't you join our Mimic Circle?$"
 
 Route119_Text_JacksonIntro: @ 829DC4C
 	.string "Who has the knowledge and\n"
@@ -2835,19 +2835,19 @@ Route119_Text_HughDefeat: @ 829E063
 	.string "Down and out!$"
 
 Route119_Text_HughPostBattle: @ 829E071
-	.string "My BIRD Pokémon made my dreams of\n"
+	.string "My Bird Pokémon made my dreams of\n"
 	.string "flying come true!$"
 
 Route119_Text_PhilIntro: @ 829E0A5
 	.string "I'll show you the true potential of me\n"
-	.string "and my BIRD Pokémon!$"
+	.string "and my Bird Pokémon!$"
 
 Route119_Text_PhilDefeat: @ 829E0E1
 	.string "We lacked potential…$"
 
 Route119_Text_PhilPostBattle: @ 829E0F6
 	.string "Ever since I was a little kid, I always\n"
-	.string "admired BIRD Pokémon…$"
+	.string "admired Bird Pokémon…$"
 
 Route119_Text_YasuIntro: @ 829E134
 	.string "To lurk in shadows, and live in\n"
@@ -2889,14 +2889,14 @@ Route119_Text_ChrisIntro: @ 829E30D
 	.string "You spoke to me…\n"
 	.string "So you want to challenge me!\p"
 	.string "Sure! I'll try out the Pokémon I caught\n"
-	.string "while SURFING!$"
+	.string "while Surfing!$"
 
 Route119_Text_ChrisDefeat: @ 829E372
 	.string "I don't have a clue about what it\n"
 	.string "takes to win.$"
 
 Route119_Text_ChrisPostBattle: @ 829E3A2
-	.string "Go for a SURF on my Pokémon…\p"
+	.string "Go for a Surf on my Pokémon…\p"
 	.string "Then fish off its back…\p"
 	.string "It's an indescribably luxuriant moment!$"
 
@@ -2938,7 +2938,7 @@ Route119_Text_RachelDefeat: @ 829E5B1
 
 Route119_Text_RachelPostBattle: @ 829E5CB
 	.string "You're asking if my parasol is heavy?\n"
-	.string "Your BAG is filled with more junk than\l"
+	.string "Your Bag is filled with more junk than\l"
 	.string "I ever carry around.$"
 
 Route120_Text_ColinIntro: @ 829E62D
@@ -2949,7 +2949,7 @@ Route120_Text_ColinDefeat: @ 829E665
 	.string "You soared above me!$"
 
 Route120_Text_ColinPostBattle: @ 829E67A
-	.string "The move FLY is convenient,\n"
+	.string "The move Fly is convenient,\n"
 	.string "don't you think?\p"
 	.string "While the Pokémon is flying,\n"
 	.string "almost no moves can strike it.$"
@@ -3036,7 +3036,7 @@ Route120_Text_JeffreyPostRematch: @ 829EAA9
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
 	.string "I'll try harder…\l"
-	.string "For my precious BUG Pokémon…$"
+	.string "For my precious Bug Pokémon…$"
 
 Route120_Text_JenniferIntro: @ 829EAEF
 	.string "Pokémon have many special abilities.\n"
@@ -3146,9 +3146,9 @@ Route121_Text_VanessaDefeat: @ 829F11F
 	.string "This isn't what I meant!$"
 
 Route121_Text_VanessaPostBattle: @ 829F138
-	.string "I'm going to a CONTEST in LILYCOVE.\p"
+	.string "I'm going to a Contest in Lilycove.\p"
 	.string "My Pokémon should have no problem\n"
-	.string "sweeping the MASTER CLASS.$"
+	.string "sweeping the Master Class.$"
 
 Route121_Text_WalterIntro: @ 829F199
 	.string "With my Pokémon, I have traveled\n"
@@ -3194,36 +3194,36 @@ Route121_Text_TammyPostBattle: @ 829F3C6
 	.string "at work there…$"
 
 Route121_Text_KateIntro: @ 829F3FB
-	.string "KATE: Together, we're fearless!\n"
+	.string "Kate: Together, we're fearless!\n"
 	.string "We'll demonstrate how tough we are!$"
 
 Route121_Text_KateDefeat: @ 829F43F
-	.string "KATE: I blew it in front of my junior\n"
+	.string "Kate: I blew it in front of my junior\n"
 	.string "student partner…$"
 
 Route121_Text_KatePostBattle: @ 829F476
-	.string "KATE: When someone's relying on me,\n"
+	.string "Kate: When someone's relying on me,\n"
 	.string "I get this urge to look cool in front\l"
 	.string "of them…$"
 
 Route121_Text_KateNotEnoughMons: @ 829F4C9
-	.string "KATE: If you've only got one Pokémon,\n"
+	.string "Kate: If you've only got one Pokémon,\n"
 	.string "we can't battle with you.\p"
 	.string "That would be bullying.$"
 
 Route121_Text_JoyIntro: @ 829F521
-	.string "JOY: Together, we're fearless!\n"
+	.string "Joy: Together, we're fearless!\n"
 	.string "We'll demonstrate how tough we are!$"
 
 Route121_Text_JoyDefeat: @ 829F564
-	.string "JOY: Please forgive me, KATE!$"
+	.string "Joy: Please forgive me, Kate!$"
 
 Route121_Text_JoyPostBattle: @ 829F582
-	.string "JOY: Ehehe, I'll have to train with KATE,\n"
+	.string "Joy: Ehehe, I'll have to train with Kate,\n"
 	.string "my senior student partner, again.$"
 
 Route121_Text_JoyNotEnoughMons: @ 829F5CE
-	.string "JOY: You need at least two Pokémon\n"
+	.string "Joy: You need at least two Pokémon\n"
 	.string "if you're going to challenge us!$"
 
 Route121_Text_JessicaIntro: @ 829F612
@@ -3236,7 +3236,7 @@ Route121_Text_JessicaDefeat: @ 829F641
 
 Route121_Text_JessicaPostBattle: @ 829F66F
 	.string "Maybe I'll go catch more Pokémon at\n"
-	.string "the SAFARI.$"
+	.string "the Safari.$"
 
 Route121_Text_JessicaRegister: @ 829F69F
 	.string "I took it easy on you this time!\n"
@@ -3252,7 +3252,7 @@ Route121_Text_JessicaRematchDefeat: @ 829F710
 
 Route121_Text_JessicaPostRematch: @ 829F740
 	.string "Maybe I'll go catch more Pokémon at\n"
-	.string "the SAFARI.$"
+	.string "the Safari.$"
 
 Route121_Text_CristinIntro: @ 829F770
 	.string "I have this routine.\n"
@@ -3298,9 +3298,9 @@ Route121_Text_CaleDefeat: @ 829F97B
 
 Route121_Text_CalePostBattle: @ 829F9AE
 	.string "I bought too much stuff at\n"
-	.string "the LILYCOVE DEPT. STORE.\p"
+	.string "the Lilycove Dept. Store.\p"
 	.string "It's up the road from here.\n"
-	.string "I wish I had a BAG like yours.$"
+	.string "I wish I had a Bag like yours.$"
 
 Route121_Text_MylesIntro: @ 829FA1E
 	.string "There's nothing I love more than\n"
@@ -3328,14 +3328,14 @@ Route121_Text_PatPostBattle: @ 829FAEA
 Route121_Text_MarcelIntro: @ 829FB35
 	.string "My Pokémon have never tasted defeat!\n"
 	.string "On their next win, I'm entering them\l"
-	.string "in CONTESTS.$"
+	.string "in Contests.$"
 
 Route121_Text_MarcelDefeat: @ 829FB8C
 	.string "Oh, now what happened here?$"
 
 Route121_Text_MarcelPostBattle: @ 829FBA8
 	.string "I may have to train my gang some more\n"
-	.string "before entering any CONTEST.$"
+	.string "before entering any Contest.$"
 
 Route123_Text_WendyIntro: @ 829FBEB
 	.string "Want to determine how strong you are?\n"
@@ -3350,15 +3350,15 @@ Route123_Text_WendyPostBattle: @ 829FC42
 
 Route123_Text_BraxtonIntro: @ 829FC6F
 	.string "You seem to have a big collection\n"
-	.string "of GYM BADGES.\p"
+	.string "of Gym Badges.\p"
 	.string "Let me see if you're actually worthy of\n"
-	.string "those BADGES!$"
+	.string "those Badges!$"
 
 Route123_Text_BraxtonDefeat: @ 829FCD6
 	.string "Oh, you're worthy, all right!$"
 
 Route123_Text_BraxtonPostBattle: @ 829FCF4
-	.string "You did your BADGES proud in that\n"
+	.string "You did your Badges proud in that\n"
 	.string "match!$"
 
 Route123_Text_VioletIntro: @ 829FD1D
@@ -3431,33 +3431,33 @@ Route123_Text_JackiPostRematch: @ 82A0099
 	.string "That could be a psychic power, too.$"
 
 Route123_Text_MiuIntro: @ 82A00D6
-	.string "MIU: Hello, Trainer. I hope your\n"
+	.string "Miu: Hello, Trainer. I hope your\n"
 	.string "Pokémon won't cry when they lose.$"
 
 Route123_Text_MiuDefeat: @ 82A0119
-	.string "MIU: Uh-oh, we lost.$"
+	.string "Miu: Uh-oh, we lost.$"
 
 Route123_Text_MiuPostBattle: @ 82A012E
-	.string "MIU: Trainer, your Pokémon are\n"
+	.string "Miu: Trainer, your Pokémon are\n"
 	.string "strong because you are friends.$"
 
 Route123_Text_MiuNotEnoughMons: @ 82A016D
-	.string "MIU: It's no fun to battle if you\n"
+	.string "Miu: It's no fun to battle if you\n"
 	.string "don't have two Pokémon.$"
 
 Route123_Text_YukiIntro: @ 82A01A7
-	.string "YUKI: Okay!\n"
+	.string "Yuki: Okay!\n"
 	.string "We're beating the Trainer's Pokémon!$"
 
 Route123_Text_YukiDefeat: @ 82A01D8
-	.string "YUKI: Uh-oh, we lost.$"
+	.string "Yuki: Uh-oh, we lost.$"
 
 Route123_Text_YukiPostBattle: @ 82A01EE
-	.string "YUKI: Why are you so strong?\n"
+	.string "Yuki: Why are you so strong?\n"
 	.string "We've never lost before.$"
 
 Route123_Text_YukiNotEnoughMons: @ 82A0224
-	.string "YUKI: It's no fun to battle if you\n"
+	.string "Yuki: It's no fun to battle if you\n"
 	.string "don't have two Pokémon.$"
 
 Route123_Text_KindraIntro: @ 82A025F
@@ -3504,7 +3504,7 @@ Route123_Text_FernandoPostRematch: @ 82A0487
 	.string "by my tune, you'd lose.$"
 
 Route123_Text_DavisIntro: @ 82A04C0
-	.string "This is my awesome BUG Pokémon!\n"
+	.string "This is my awesome Bug Pokémon!\n"
 	.string "My big brother got it for me.$"
 
 Route123_Text_DavisDefeat: @ 82A04FE
@@ -3540,19 +3540,19 @@ Route123_Text_FrederickPostBattle: @ 82A0672
 	.string "Wasn't the prize money enough?$"
 
 Route123_Text_AlbertoIntro: @ 82A06AF
-	.string "I have to tell you, BIRD Pokémon\n"
+	.string "I have to tell you, Bird Pokémon\n"
 	.string "are my obsession!\p"
 	.string "Birds are cool!\n"
 	.string "They're the best!$"
 
 Route123_Text_AlbertoDefeat: @ 82A0704
-	.string "Even in defeat, BIRD Pokémon are cool!$"
+	.string "Even in defeat, Bird Pokémon are cool!$"
 
 Route123_Text_AlbertoPostBattle: @ 82A072B
-	.string "I gather BIRD Pokémon feathers that\n"
+	.string "I gather Bird Pokémon feathers that\n"
 	.string "scatter during battles.\p"
 	.string "I'm going to make a hat with\n"
-	.string "BIRD Pokémon feathers.$"
+	.string "Bird Pokémon feathers.$"
 
 Route123_Text_EdIntro: @ 82A079B
 	.string "When there are no Trainers around,\n"
@@ -3601,7 +3601,7 @@ Route124_Text_SpencerDefeat: @ 82A0A02
 Route124_Text_SpencerPostBattle: @ 82A0A20
 	.string "Many people lose their bearings at sea.\p"
 	.string "If you're that sort, you should refer\n"
-	.string "to the PokéNav's MAP.$"
+	.string "to the PokéNav's Map.$"
 
 Route124_Text_RolandIntro: @ 82A0A84
 	.string "Hm! You're riding a Pokémon instead\n"
@@ -3645,7 +3645,7 @@ Route124_Text_JennyRematchDefeat: @ 82A0CA0
 
 Route124_Text_JennyPostRematch: @ 82A0CBE
 	.string "This has nothing to do with anything,\n"
-	.string "but maybe I'll visit the TRICK HOUSE.$"
+	.string "but maybe I'll visit the Trick House.$"
 
 Route124_Text_GraceIntro: @ 82A0D0A
 	.string "I'm growing bored of swimming…\n"
@@ -3670,89 +3670,89 @@ Route124_Text_ChadDefeat: @ 82A0DFF
 
 Route124_Text_ChadPostBattle: @ 82A0E1E
 	.string "I have it on good authority that\n"
-	.string "there's a DIVE spot around here.\p"
+	.string "there's a Dive spot around here.\p"
 	.string "It gives me the urge to go deep\n"
 	.string "again…$"
 
 Route124_Text_LilaIntro: @ 82A0E87
-	.string "LILA: Sigh…\p"
+	.string "Lila: Sigh…\p"
 	.string "Here I am in the sea, but who's with me?\n"
 	.string "My little brother!\p"
 	.string "Let's battle so I won't have to dwell\n"
 	.string "on that!$"
 
 Route124_Text_LilaDefeat: @ 82A0EFE
-	.string "LILA: ROY! It's your fault we lost!\n"
+	.string "Lila: Roy! It's your fault we lost!\n"
 	.string "You're in for it later!$"
 
 Route124_Text_LilaPostBattle: @ 82A0F3A
-	.string "LILA: Sigh…\p"
+	.string "Lila: Sigh…\p"
 	.string "If only it wasn't my little brother\n"
 	.string "next to me, but a nice boyfriend…$"
 
 Route124_Text_LilaNotEnoughMons: @ 82A0F8C
-	.string "LILA: You're planning to battle us?\n"
+	.string "Lila: You're planning to battle us?\n"
 	.string "Not unless you have two Pokémon.$"
 
 Route124_Text_RoyIntro: @ 82A0FD1
-	.string "ROY: My big sister is tough at Pokémon!\p"
+	.string "Roy: My big sister is tough at Pokémon!\p"
 	.string "Don't cry when you lose!$"
 
 Route124_Text_RoyDefeat: @ 82A1012
-	.string "ROY: Uh-oh…\n"
+	.string "Roy: Uh-oh…\n"
 	.string "My big sister will chew me out…$"
 
 Route124_Text_RoyPostBattle: @ 82A103E
-	.string "ROY: My big sister is really scary\n"
+	.string "Roy: My big sister is really scary\n"
 	.string "when she gets angry.\p"
 	.string "That's why she doesn't have a\n"
 	.string "boyfriend.$"
 
 Route124_Text_LilaRoyRegister: @ 82A109F
-	.string "ROY: Will you battle with us again?\n"
+	.string "Roy: Will you battle with us again?\n"
 	.string "But take it easy next time, okay?$"
 
 Route124_Text_RoyNotEnoughMons: @ 82A10E5
-	.string "ROY: Did you want to battle us?\n"
+	.string "Roy: Did you want to battle us?\n"
 	.string "Bring two Pokémon, then.$"
 
 Route124_Text_LilaRematchIntro: @ 82A111E
-	.string "LILA: Sigh…\p"
+	.string "Lila: Sigh…\p"
 	.string "Here I am in the sea, but who's with me?\n"
 	.string "My little brother!\p"
 	.string "Oh, hi, it's been a while. Let's battle\n"
 	.string "so I won't have to dwell on things!$"
 
 Route124_Text_LilaRematchDefeat: @ 82A11B2
-	.string "LILA: ROY!\n"
+	.string "Lila: Roy!\n"
 	.string "It's your fault we lost again!\p"
 	.string "We're having a training session later!$"
 
 Route124_Text_LilaPostRematch: @ 82A1203
-	.string "LILA: Sigh…\p"
+	.string "Lila: Sigh…\p"
 	.string "If I had a nice boyfriend, we'd beat\n"
 	.string "anyone with lovely combinations…$"
 
 Route124_Text_LilaRematchNotEnoughMons: @ 82A1255
-	.string "LILA: You're planning to battle us?\n"
+	.string "Lila: You're planning to battle us?\n"
 	.string "Not unless you have two Pokémon.$"
 
 Route124_Text_RoyRematchIntro: @ 82A129A
-	.string "ROY: If we lose, I'll catch heck.\n"
+	.string "Roy: If we lose, I'll catch heck.\n"
 	.string "I'm going to go totally all out!$"
 
 Route124_Text_RoyRematchDefeat: @ 82A12DD
-	.string "ROY: Uh-oh…\n"
+	.string "Roy: Uh-oh…\n"
 	.string "My big sister will chew me out again.$"
 
 Route124_Text_RoyPostRematch: @ 82A130F
-	.string "ROY: My big sister is really scary\n"
+	.string "Roy: My big sister is really scary\n"
 	.string "when she gets angry.\p"
 	.string "She's going to make me train really\n"
 	.string "hard with Pokémon later…$"
 
 Route124_Text_RoyRematchNotEnoughMons: @ 82A1384
-	.string "ROY: Did you want to battle us?\n"
+	.string "Roy: Did you want to battle us?\n"
 	.string "Bring two Pokémon, then.$"
 
 Route124_Text_DeclanIntro: @ 82A13BD
@@ -3800,7 +3800,7 @@ Route125_Text_StanDefeat: @ 82A15C7
 	.string "I floundered…$"
 
 Route125_Text_StanPostBattle: @ 82A15D5
-	.string "I was blown away by HORSEA's charm,\n"
+	.string "I was blown away by Horsea's charm,\n"
 	.string "so I started swimming, too.$"
 
 Route125_Text_TanyaIntro: @ 82A1615
@@ -3812,11 +3812,11 @@ Route125_Text_TanyaDefeat: @ 82A164D
 
 Route125_Text_TanyaPostBattle: @ 82A165E
 	.string "Whew…\n"
-	.string "Which way is it to MOSSDEEP CITY?$"
+	.string "Which way is it to Mossdeep City?$"
 
 Route125_Text_SharonIntro: @ 82A1686
 	.string "How would you like to take on the\n"
-	.string "WATER-type Pokémon I raised?$"
+	.string "Water-type Pokémon I raised?$"
 
 Route125_Text_SharonDefeat: @ 82A16C5
 	.string "Lost it…$"
@@ -3835,7 +3835,7 @@ Route125_Text_ErnestDefeat: @ 82A173A
 
 Route125_Text_ErnestPostBattle: @ 82A1755
 	.string "The tide ebbs and flows inside the\n"
-	.string "SHOAL CAVE.\p"
+	.string "Shoal Cave.\p"
 	.string "By the way, it's about six hours from\n"
 	.string "high tide to low tide. Did you know?$"
 
@@ -3852,7 +3852,7 @@ Route125_Text_ErnestRematchDefeat: @ 82A1851
 	.string "I flat out couldn't win!$"
 
 Route125_Text_ErnestRematchPostBattle: @ 82A187A
-	.string "The SHOAL CAVE…\p"
+	.string "The Shoal Cave…\p"
 	.string "There are places you can and can't\n"
 	.string "get to depending on the rise and fall\l"
 	.string "of the tide.\p"
@@ -3860,40 +3860,40 @@ Route125_Text_ErnestRematchPostBattle: @ 82A187A
 	.string "high tide to low tide. Don't forget!$"
 
 Route125_Text_KimIntro: @ 82A192B
-	.string "KIM: A funny old man lives in the\n"
-	.string "SHOAL CAVE. Someone told me.\l"
+	.string "Kim: A funny old man lives in the\n"
+	.string "Shoal Cave. Someone told me.\l"
 	.string "Are you going to see him, too?$"
 
 Route125_Text_KimDefeat: @ 82A1989
-	.string "KIM: I thought we would win.$"
+	.string "Kim: I thought we would win.$"
 
 Route125_Text_KimPostBattle: @ 82A19A6
-	.string "KIM: A funny old man lives in the\n"
-	.string "SHOAL CAVE, doesn't he?\p"
-	.string "Let's go see him, IRIS!$"
+	.string "Kim: A funny old man lives in the\n"
+	.string "Shoal Cave, doesn't he?\p"
+	.string "Let's go see him, Iris!$"
 
 Route125_Text_KimNotEnoughMons: @ 82A19F8
-	.string "KIM: No, no, no! You need two Pokémon,\n"
+	.string "Kim: No, no, no! You need two Pokémon,\n"
 	.string "or it's just no good!$"
 
 Route125_Text_IrisIntro: @ 82A1A35
-	.string "IRIS: KIM, can you tell me what we're\n"
+	.string "Iris: Kim, can you tell me what we're\n"
 	.string "looking for out here?$"
 
 Route125_Text_IrisDefeat: @ 82A1A71
-	.string "IRIS: Oh, we came sort of close.$"
+	.string "Iris: Oh, we came sort of close.$"
 
 Route125_Text_IrisPostBattle: @ 82A1A92
-	.string "IRIS: KIM, are we really going into\n"
-	.string "the SHOAL CAVE?\l"
+	.string "Iris: Kim, are we really going into\n"
+	.string "the Shoal Cave?\l"
 	.string "We'll get all wet.$"
 
 Route125_Text_IrisNotEnoughMons: @ 82A1AD9
-	.string "IRIS: Oh, we could never, ever do\n"
+	.string "Iris: Oh, we could never, ever do\n"
 	.string "anything like a 2-on-1 battle.$"
 
 Route125_Text_PresleyIntro: @ 82A1B1A
-	.string "Why would a BIRDKEEPER like me\n"
+	.string "Why would a Birdkeeper like me\n"
 	.string "come out to the sea?$"
 
 Route125_Text_PresleyDefeat: @ 82A1B4E
@@ -3934,14 +3934,14 @@ Route126_Text_BarryPostBattle: @ 82A1CDD
 
 Route126_Text_DeanIntro: @ 82A1D2A
 	.string "This towering white mountain of rock\n"
-	.string "is SOOTOPOLIS CITY.$"
+	.string "is Sootopolis City.$"
 
 Route126_Text_DeanDefeat: @ 82A1D63
 	.string "I was done in?$"
 
 Route126_Text_DeanPostBattle: @ 82A1D72
 	.string "I can't find the entrance to\n"
-	.string "SOOTOPOLIS. Where could it be?$"
+	.string "Sootopolis. Where could it be?$"
 
 Route126_Text_NikkiIntro: @ 82A1DAE
 	.string "Ufufufufu!\n"
@@ -4072,7 +4072,7 @@ Route127_Text_JonahPostBattle: @ 82A240C
 
 Route127_Text_HenryIntro: @ 82A2450
 	.string "Whoops! Don't tell me I snagged\n"
-	.string "a SURFING Pokémon?$"
+	.string "a Surfing Pokémon?$"
 
 Route127_Text_HenryDefeat: @ 82A2483
 	.string "I can't keep up!$"
@@ -4094,7 +4094,7 @@ Route127_Text_RogerPostBattle: @ 82A2538
 	.string "The tangle tango! Hahaha, snarl!$"
 
 Route127_Text_AidanIntro: @ 82A257A
-	.string "BIRD Pokémon have excellent vision.\n"
+	.string "Bird Pokémon have excellent vision.\n"
 	.string "They spot prey from great heights.$"
 
 Route127_Text_AidanDefeat: @ 82A25C1
@@ -4116,7 +4116,7 @@ Route127_Text_KojiDefeat: @ 82A2685
 
 Route127_Text_KojiPostBattle: @ 82A26AC
 	.string "Going barefoot feels great.\n"
-	.string "But your RUNNING SHOES are cool, too.$"
+	.string "But your Running Shoes are cool, too.$"
 
 Route127_Text_KojiRegister: @ 82A26EE
 	.string "This is what I do to people who beat me!\n"
@@ -4132,7 +4132,7 @@ Route127_Text_KojiRematchDefeat: @ 82A276B
 
 Route127_Text_KojiPostRematch: @ 82A278E
 	.string "Want to go barefoot for a while?\n"
-	.string "So I can try your RUNNING SHOES?$"
+	.string "So I can try your Running Shoes?$"
 
 Route127_Text_AthenaIntro: @ 82A27D0
 	.string "We should have a slow and methodical\n"
@@ -4147,7 +4147,7 @@ Route127_Text_AthenaPostBattle: @ 82A2832
 	.string "and sky, it feels as if time slows down.$"
 
 Route128_Text_IsaiahIntro: @ 82A287F
-	.string "EVER GRANDE CITY is still a long ways\n"
+	.string "Ever Grande City is still a long ways\n"
 	.string "away…$"
 
 Route128_Text_IsaiahDefeat: @ 82A28AB
@@ -4165,13 +4165,13 @@ Route128_Text_IsaiahRegister: @ 82A2916
 
 Route128_Text_IsaiahRematchIntro: @ 82A2975
 	.string "I'm still feeling good. I'll keep on\n"
-	.string "swimming to EVER GRANDE CITY.$"
+	.string "swimming to Ever Grande City.$"
 
 Route128_Text_IsaiahRematchDefeat: @ 82A29B8
 	.string "I've yet to taste my first victory…$"
 
 Route128_Text_IsaiahPostRematch: @ 82A29DC
-	.string "I'll eventually reach EVER GRANDE CITY\n"
+	.string "I'll eventually reach Ever Grande City\n"
 	.string "where I can eventually win…$"
 
 Route128_Text_KatelynIntro: @ 82A2A1F
@@ -4184,7 +4184,7 @@ Route128_Text_KatelynDefeat: @ 82A2A94
 	.string "A Pokémon battle is grueling, too…$"
 
 Route128_Text_KatelynPostBattle: @ 82A2AB7
-	.string "I have to ride a BIKE next, but…\n"
+	.string "I have to ride a Bike next, but…\n"
 	.string "I'm about to throw in the towel…$"
 
 Route128_Text_KatelynRegister: @ 82A2AF9
@@ -4202,11 +4202,11 @@ Route128_Text_KatelynRematchDefeat: @ 82A2BAB
 
 Route128_Text_KatelynPostRematch: @ 82A2BDD
 	.string "You should give serious thought to\n"
-	.string "challenges on VICTORY ROAD.$"
+	.string "challenges on Victory Road.$"
 
 Route128_Text_AlexaIntro: @ 82A2C1C
 	.string "We've been working so hard to mount\n"
-	.string "a Pokémon LEAGUE challenge…\p"
+	.string "a Pokémon League challenge…\p"
 	.string "We can't afford to lose now!$"
 
 Route128_Text_AlexaDefeat: @ 82A2C79
@@ -4228,17 +4228,17 @@ Route128_Text_RubenPostBattle: @ 82A2D0D
 	.string "than you!$"
 
 Route128_Text_WayneIntro: @ 82A2D3D
-	.string "I want to visit EVER GRANDE, so I\n"
+	.string "I want to visit Ever Grande, so I\n"
 	.string "caught myself a Pokémon that knows\l"
-	.string "the move WATERFALL to crest the falls.$"
+	.string "the move Waterfall to crest the falls.$"
 
 Route128_Text_WayneDefeat: @ 82A2DA9
 	.string "I'm crestfallen!$"
 
 Route128_Text_WaynePostBattle: @ 82A2DBA
 	.string "Awww, phooey!\p"
-	.string "My Pokémon knows WATERFALL, but\n"
-	.string "I don't have the SOOTOPOLIS GYM BADGE!$"
+	.string "My Pokémon knows Waterfall, but\n"
+	.string "I don't have the Sootopolis Gym Badge!$"
 
 Route128_Text_HarrisonIntro: @ 82A2E0F
 	.string "You're looking awfully tough.\n"
@@ -4250,7 +4250,7 @@ Route128_Text_HarrisonDefeat: @ 82A2E44
 
 Route128_Text_HarrisonPostBattle: @ 82A2E6C
 	.string "There are tough Trainers galore\n"
-	.string "around EVER GRANDE.\p"
+	.string "around Ever Grande.\p"
 	.string "Do you think I may be out\n"
 	.string "of my league?$"
 
@@ -4327,7 +4327,7 @@ Route129_Text_ClarenceDefeat: @ 82A3239
 
 Route129_Text_ClarencePostBattle: @ 82A3252
 	.string "You have your sights on the Pokémon\n"
-	.string "LEAGUE? Keep at it!$"
+	.string "League? Keep at it!$"
 
 Route130_Text_RodneyIntro: @ 82A328A
 	.string "What a surprise! I didn't expect to\n"
@@ -4423,38 +4423,38 @@ Route131_Text_KaraPostBattle: @ 82A379F
 	.string "makes men look. It must be my beauty!$"
 
 Route131_Text_ReliIntro: @ 82A37E9
-	.string "RELI: We'll work together as siblings\n"
+	.string "Reli: We'll work together as siblings\n"
 	.string "to take you on!$"
 
 Route131_Text_ReliDefeat: @ 82A381F
-	.string "RELI: We couldn't win even though we\n"
+	.string "Reli: We couldn't win even though we\n"
 	.string "worked together…$"
 
 Route131_Text_ReliPostBattle: @ 82A3855
-	.string "RELI: The people of PACIFIDLOG are\n"
+	.string "Reli: The people of Pacifidlog are\n"
 	.string "together with the sea and Pokémon from\l"
 	.string "the time they are born.$"
 
 Route131_Text_ReliNotEnoughMons: @ 82A38B7
-	.string "RELI: You don't have two Pokémon?\n"
+	.string "Reli: You don't have two Pokémon?\n"
 	.string "We can't enjoy a battle, then.$"
 
 Route131_Text_IanIntro: @ 82A38F8
-	.string "IAN: I'm doing my best together with\n"
+	.string "Ian: I'm doing my best together with\n"
 	.string "my sis!$"
 
 Route131_Text_IanDefeat: @ 82A3925
-	.string "IAN: I did my best with my sis,\n"
+	.string "Ian: I did my best with my sis,\n"
 	.string "but we still couldn't win…$"
 
 Route131_Text_IanPostBattle: @ 82A3960
-	.string "IAN: You know how PACIFIDLOG is\n"
+	.string "Ian: You know how Pacifidlog is\n"
 	.string "a floating town?\p"
 	.string "So, wherever there is the sea,\n"
-	.string "that's a part of PACIFIDLOG!$"
+	.string "that's a part of Pacifidlog!$"
 
 Route131_Text_IanNotEnoughMons: @ 82A39CD
-	.string "IAN: If you have two Pokémon,\n"
+	.string "Ian: If you have two Pokémon,\n"
 	.string "we'll take you on!$"
 
 Route131_Text_TaliaIntro: @ 82A39FE
@@ -4471,7 +4471,7 @@ Route131_Text_TaliaPostBattle: @ 82A3A48
 	.string "Why don't you go take a look?$"
 
 Route131_Text_KevinIntro: @ 82A3AA0
-	.string "The people of PACIFIDLOG are\n"
+	.string "The people of Pacifidlog are\n"
 	.string "a peaceful bunch.\p"
 	.string "They never get angry.\n"
 	.string "That goes for me, too.$"
@@ -4637,14 +4637,14 @@ Route133_Text_WarrenPostBattle: @ 82A4304
 
 Route133_Text_BeckIntro: @ 82A436A
 	.string "I came all the way out here with my\n"
-	.string "BIRD Pokémon.$"
+	.string "Bird Pokémon.$"
 
 Route133_Text_BeckDefeat: @ 82A439C
 	.string "You…\n"
 	.string "You're stunningly cool!$"
 
 Route133_Text_BeckPostBattle: @ 82A43B9
-	.string "I'd like to go back to FORTREE,\n"
+	.string "I'd like to go back to Fortree,\n"
 	.string "but I've grown to like this place, too.$"
 
 Route133_Text_MollieIntro: @ 82A4401
@@ -4682,7 +4682,7 @@ Route134_Text_JackPostBattle: @ 82A45C5
 	.string "currents around these parts.$"
 
 Route134_Text_LaurelIntro: @ 82A4609
-	.string "My LUVDISC are looking for a fun\n"
+	.string "My Luvdisc are looking for a fun\n"
 	.string "match. Will you join us?$"
 
 Route134_Text_LaurelDefeat: @ 82A4643
@@ -4690,7 +4690,7 @@ Route134_Text_LaurelDefeat: @ 82A4643
 
 Route134_Text_LaurelPostBattle: @ 82A464B
 	.string "There's a collector who's after\n"
-	.string "the SCALES of LUVDISC.$"
+	.string "the Scales of Luvdisc.$"
 
 Route134_Text_AlexIntro: @ 82A4682
 	.string "Okeydokey! That's enough rest, gang!\n"
@@ -4700,7 +4700,7 @@ Route134_Text_AlexDefeat: @ 82A46BE
 	.string "Tuckered out again…$"
 
 Route134_Text_AlexPostBattle: @ 82A46D2
-	.string "My BIRD Pokémon get tired quickly after\n"
+	.string "My Bird Pokémon get tired quickly after\n"
 	.string "a long flight…$"
 
 Route134_Text_HitoshiIntro: @ 82A4709
@@ -4724,7 +4724,7 @@ Route134_Text_AaronDefeat: @ 82A47E1
 
 Route134_Text_AaronPostBattle: @ 82A47FD
 	.string "We will return for more training at\n"
-	.string "METEOR FALLS.\p"
+	.string "Meteor Falls.\p"
 	.string "If you'd like, you should go, too.\n"
 	.string "It will definitely toughen you up!$"
 
@@ -4737,10 +4737,10 @@ Route134_Text_KelvinDefeat: @ 82A489B
 	.string "Please, stop! Please!$"
 
 Route134_Text_KelvinPostBattle: @ 82A48BD
-	.string "If we can't SURF, how are we supposed\n"
+	.string "If we can't Surf, how are we supposed\n"
 	.string "to get home?\p"
 	.string "Actually, I know a fainted Pokémon\n"
-	.string "can still SURF, but it feels wrong.$"
+	.string "can still Surf, but it feels wrong.$"
 
 Route134_Text_MarleyIntro: @ 82A4937
 	.string "Can your Pokémon dodge our\n"

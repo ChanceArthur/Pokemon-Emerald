@@ -68,7 +68,7 @@ const struct Item gItems[] =
 
     [ITEM_SAFARI_BALL] =
     {
-        .name = _("SAFARI BALL"),
+        .name = _("Safari Ball"),
         .itemId = ITEM_SAFARI_BALL,
         .price = 0,
         .description = sSafariBallDesc,
@@ -3497,7 +3497,7 @@ const struct Item gItems[] =
 
     [ITEM_WAILMER_PAIL] =
     {
-        .name = _("WAILMER PAIL"),
+        .name = _("Wailmer Pail"),
         .itemId = ITEM_WAILMER_PAIL,
         .price = 0,
         .description = sWailmerPailDesc,
@@ -4909,7 +4909,7 @@ const struct Item gItems[] =
 
     [ITEM_MAGMA_EMBLEM] =
     {
-        .name = _("MAGMA EMBLEM"),
+        .name = _("Magma Emblem"),
         .itemId = ITEM_MAGMA_EMBLEM,
         .price = 0,
         .description = sMagmaEmblemDesc,

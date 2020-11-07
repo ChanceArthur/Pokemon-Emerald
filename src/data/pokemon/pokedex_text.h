@@ -2309,7 +2309,7 @@ const u8 gRayquazaPokedexText[] = _(
     "were to fight.");
 
 const u8 gJirachiPokedexText[] = _(
-    "JIRACHI is said to make wishes come true.\n"
+    "Jirachi is said to make wishes come true.\n"
     "While it sleeps, a tough crystalline shell\n"
     "envelops the body to protect it from\n"
     "enemies.");
