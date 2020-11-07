@@ -24,13 +24,13 @@ EventScript_RepelWoreOff_Chose:
 	callnative HandleRepelMenuChoice
 	bufferitemname 1, VAR_0x8004
 	removeitem VAR_0x8004, 1
-	playse SE_TU_SAA
+	playse SE_REPEL
 	msgbox gText_PlayerUsedVar2, MSGBOX_SIGN
 EventScript_RepelWoreOff_End:
 	end
 
 Text_RepelWoreOff: @ 82A4B33
-	.string "REPEL's effect wore off…$"
+	.string "Repel's effect wore off…$"
 
 Text_RepelAskAnother:
 	.string "Would you like to use another one?$"
