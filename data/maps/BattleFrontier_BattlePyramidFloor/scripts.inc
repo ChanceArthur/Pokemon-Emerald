@@ -138,13 +138,13 @@ BattleFacility_TrainerBattle_PlaceholderText: @ 8252C8D
 	.string "This is a sample message.$"
 
 gText_BattlePyramidConfirmRest:: @ 8252CA7
-	.string "Your BATTLE PYRAMID quest will be\n"
+	.string "Your Battle Pyramid quest will be\n"
 	.string "saved so that you may quit for now.\l"
 	.string "Is that okay?$"
 
 gText_BattlePyramidConfirmRetire:: @ 8252CFB
 	.string "Are you sure you want to quit your\n"
-	.string "PYRAMID quest?$"
+	.string "Pyramid quest?$"
 
 BattlePyramid_Text_ExitHintUp1:: @ 8252D2D
 	.string "This floor's exit is in\n"
@@ -442,39 +442,39 @@ BattlePyramid_Text_ZeroItemsRemaining4:: @ 8253D3E
 	.string "items on the ground.$"
 
 BattlePyramid_Text_EightItemsRemaining5:: @ 8253D96
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are eight items…$"
 
 BattlePyramid_Text_SevenItemsRemaining5:: @ 8253DD2
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are seven items…$"
 
 BattlePyramid_Text_SixItemsRemaining5:: @ 8253E0E
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are six items…$"
 
 BattlePyramid_Text_FiveItemsRemaining5:: @ 8253E48
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are five items…$"
 
 BattlePyramid_Text_FourItemsRemaining5:: @ 8253E83
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are four items…$"
 
 BattlePyramid_Text_ThreeItemsRemaining5:: @ 8253EBE
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are three items…$"
 
 BattlePyramid_Text_TwoItemsRemaining5:: @ 8253EFA
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are two items…$"
 
 BattlePyramid_Text_OneItemRemaining5:: @ 8253F34
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there is one item…$"
 
 BattlePyramid_Text_ZeroItemsRemaining5:: @ 8253F6C
-	.string "On this floor of the PYRAMID,\n"
+	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are no items…$"
 
 BattlePyramid_Text_EightItemsRemaining6:: @ 8253FA5

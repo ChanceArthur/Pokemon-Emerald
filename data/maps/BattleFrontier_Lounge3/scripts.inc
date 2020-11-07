@@ -219,10 +219,10 @@ BattleFrontier_Lounge3_Text_YouLookToughExplainGambling:: @ 8262061
 	.string "Listen, I have this proposition.\p"
 	.string "We have a little group going here,\n"
 	.string "and we play a little game with what\l"
-	.string "goes on in the BATTLE FRONTIER.\p"
+	.string "goes on in the Battle Frontier.\p"
 	.string "The rules are really simple.\p"
 	.string "First, we pick one of the facilities\n"
-	.string "in the BATTLE FRONTIER.\p"
+	.string "in the Battle Frontier.\p"
 	.string "Then, we each pick a different Trainer\n"
 	.string "who's taking that facility's challenge,\l"
 	.string "and bet with our Battle Points.\p"
@@ -234,22 +234,22 @@ BattleFrontier_Lounge3_Text_YouLookToughExplainGambling:: @ 8262061
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle:: @ 8262261
 	.string "What I'm looking for is a Trainer who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's SINGLE BATTLE ROOMS.\p"
+	.string "going to be challenging the Battle\l"
+	.string "Tower's Single Battle Rooms.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble:: @ 826230D
 	.string "What I'm looking for is a Trainer who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's DOUBLE BATTLE ROOMS.\p"
+	.string "going to be challenging the Battle\l"
+	.string "Tower's Double Battle Rooms.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti:: @ 82623B9
 	.string "What I'm looking for is a Trainer who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's MULTI BATTLE ROOMS.\p"
+	.string "going to be challenging the Battle\l"
+	.string "Tower's Multi Battle Rooms.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
@@ -284,14 +284,14 @@ BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble:: @ 826266A
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle:: @ 826271C
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's SINGLE BATTLE HALLS.\p"
+	.string "PALACE's Single Battle Halls.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble:: @ 82627C9
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's DOUBLE BATTLE HALLS.\p"
+	.string "PALACE's Double Battle Halls.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
@@ -304,7 +304,7 @@ BattleFrontier_Lounge3_Text_ChallengeBattleArena:: @ 8262876
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePike:: @ 826291A
 	.string "What I'm looking for is a Trainer who's\n"
-	.string "going to be entering the BATTLE PIKE's\l"
+	.string "going to be entering the Battle Pike's\l"
 	.string "Battle Choice.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
@@ -343,22 +343,22 @@ BattleFrontier_Lounge3_Text_ThanksOffYouGo:: @ 8262BE0
 	.string "So, off you go!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerSingle:: @ 8262C04
-	.string "Get to the BATTLE TOWER's\n"
-	.string "SINGLE BATTLE ROOMS pronto!\p"
+	.string "Get to the Battle Tower's\n"
+	.string "SINGLE Battle Rooms pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerDouble:: @ 8262C90
-	.string "Get to the BATTLE TOWER's\n"
-	.string "DOUBLE BATTLE ROOMS pronto!\p"
+	.string "Get to the Battle Tower's\n"
+	.string "DOUBLE Battle Rooms pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerMulti:: @ 8262D1C
-	.string "Get to the BATTLE TOWER's\n"
-	.string "MULTI BATTLE ROOMS pronto!\p"
+	.string "Get to the Battle Tower's\n"
+	.string "MULTI Battle Rooms pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
@@ -392,15 +392,15 @@ BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble:: @ 8262F56
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceSingle:: @ 8262FEB
-	.string "Get to the BATTLE PALACE's\n"
-	.string "SINGLE BATTLE HALLS pronto!\p"
+	.string "Get to the Battle Palace's\n"
+	.string "Single Battle Halls pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceDouble:: @ 8263078
-	.string "Get to the BATTLE PALACE's\n"
-	.string "DOUBLE BATTLE HALLS pronto!\p"
+	.string "Get to the Battle Palace's\n"
+	.string "Double Battle Halls pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
@@ -413,14 +413,14 @@ BattleFrontier_Lounge3_Text_GetToBattleArena:: @ 8263105
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePike:: @ 826318C
-	.string "Get to the BATTLE PIKE's\n"
+	.string "Get to the Battle Pike's\n"
 	.string "Battle Choice pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePyramid:: @ 8263211
-	.string "Get to the BATTLE PYRAMID's\n"
+	.string "Get to the Battle Pyramid's\n"
 	.string "Battle Quest pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"

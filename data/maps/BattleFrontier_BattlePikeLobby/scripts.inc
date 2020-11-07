@@ -274,8 +274,8 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain:: @ 825BB49
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike: @ 825BB52
 	.string "Where the luck of Trainers\n"
 	.string "is put to the test…\p"
-	.string "Welcome to the BATTLE PIKE…\p"
-	.string "I am your guide to the BATTLE PIKE…$"
+	.string "Welcome to the Battle Pike…\p"
+	.string "I am your guide to the Battle Pike…$"
 
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge: @ 825BBC1
 	.string "Would you like to take the Battle\n"
@@ -288,7 +288,7 @@ BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike: @ 825BBF5
 	.string "simple…\p"
 	.string "Choose one of three paths and make\n"
 	.string "your way to the goal room at the end\l"
-	.string "of the BATTLE PIKE. It's that simple.\p"
+	.string "of the Battle Pike. It's that simple.\p"
 	.string "However, what happens on the chosen\n"
 	.string "path depends entirely on the luck\l"
 	.string "of the challenger…\p"
@@ -419,12 +419,12 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading: @ 825C621
 	.string "Which heading do you want to read?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules: @ 825C644
-	.string "The BAG and PokéNav may not be used\n"
+	.string "The Bag and PokéNav may not be used\n"
 	.string "during a Battle Choice challenge.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules: @ 825C68A
 	.string "During a Battle Choice challenge,\n"
-	.string "any BERRY or HERB held by Pokémon\l"
+	.string "any Berry or Herb held by Pokémon\l"
 	.string "will be effective only once.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules: @ 825C6EB

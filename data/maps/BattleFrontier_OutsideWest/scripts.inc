@@ -328,11 +328,11 @@ BattleFrontier_OutsideWest_Text_BattleFactorySign: @ 823D737
 	.string "Seek out the toughest Pokémon!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign: @ 823D772
-	.string "This is the BATTLE PIKE!\n"
+	.string "This is the Battle Pike!\n"
 	.string "Choose one of three paths!$"
 
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower: @ 823D7A6
-	.string "This is the BATTLE TOWER.\p"
+	.string "This is the Battle Tower.\p"
 	.string "Trainers bring their best-raised\n"
 	.string "Pokémon for elimination-style matches.$"
 
@@ -373,9 +373,9 @@ BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends: @ 823D99C
 	.string "I've been useless!$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower: @ 823D9DD
-	.string "I want to go to the BATTLE TOWER,\n"
+	.string "I want to go to the Battle Tower,\n"
 	.string "but I can't find it even though I have\l"
-	.string "a map of the BATTLE FRONTIER.\p"
+	.string "a map of the Battle Frontier.\p"
 	.string "This place is just too big!$"
 
 BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere: @ 823DA60
@@ -390,7 +390,7 @@ BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere: @ 823DABF
 	.string "Only those Trainers who've been\n"
 	.string "recognized as tough are brought here.\p"
 	.string "That's why many Trainers don't even\n"
-	.string "know about the BATTLE FRONTIER.$"
+	.string "know about the Battle Frontier.$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons: @ 823DB7D
 	.string "Hey, bro…\p"
@@ -424,13 +424,13 @@ BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors: @ 823DD3B
 
 BattleFrontier_OutsideWest_Text_WonIllTakePikeChallenge: @ 823DD7A
 	.string "Yay! I won!\n"
-	.string "I will take the BATTLE PIKE challenge!$"
+	.string "I will take the Battle Pike challenge!$"
 
 BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge: @ 823DDAD
 	.string "Oh, no…\n"
 	.string "I lost.\p"
 	.string "I guess I'm not very lucky today.\n"
-	.string "I'll put off my BATTLE PIKE challenge\l"
+	.string "I'll put off my Battle Pike challenge\l"
 	.string "until tomorrow.$"
 
 BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling: @ 823DE15
@@ -482,7 +482,7 @@ BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople: @ 823E102
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike: @ 823E154
 	.string "Crunch, munch…\p"
 	.string "A while back, I met this older girl\n"
-	.string "at the BATTLE PIKE.\p"
+	.string "at the Battle Pike.\p"
 	.string "She had these eyes that were scary\n"
 	.string "in a real ornery way.\p"
 	.string "Crunch, munch…\p"
@@ -531,7 +531,7 @@ BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers: @ 823E410
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier: @ 823E5A5
 	.string "I heard a rumor that someone saw\n"
 	.string "a Pokémon with an unusually long tail\l"
-	.string "somewhere in the BATTLE FRONTIER.\p"
+	.string "somewhere in the Battle Frontier.\p"
 	.string "It must be adorable. I'm sure of it…\p"
 	.string "Oh, challenges can wait. I feel driven\n"
 	.string "to find the delightful creature!$"
