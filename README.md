@@ -23,7 +23,6 @@ Implementing features and changes, many of which were introduced in newer entrie
 - TMs are no longer limited-use, and cannot be sold, tossed, or re-bought.
 - The game no longer checks the Union Room upon entering a Pokémon Center.
   - This removes the momentary pause.
-  - GBA Wireless Adapters are obselete, making the Union Room useless anyway.
 - Eggs are no longer counted when healing your Pokémon.
 - Removed save overwrite confirmation.
 - Name entry automatically switches to lowercase after the first letter.
@@ -35,6 +34,7 @@ Implementing features and changes, many of which were introduced in newer entrie
 - Running indoors is now possible.
 - Added pluralization when receiving multiple of the same item.
 - Added prompt to continue using Repels.
+- Optimizations to improve performance and efficiency.
 
 ## To Do
 
