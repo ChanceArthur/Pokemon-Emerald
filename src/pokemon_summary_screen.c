@@ -301,6 +301,7 @@ static void SpriteCb_MoveSelector(struct Sprite *sprite);
 static void DestroyMoveSelectorSprites(u8 firstArrayId);
 static void SetMainMoveSelectorColor(u8 whichColor);
 static void KeepMoveSelectorVisible(u8 firstSpriteId);
+static void BufferStat(u8 *dst, s8 natureMod, u32 stat, u32 strId, u32 n);
 static void SummaryScreen_DestroyAnimDelayTask(void);
 
 // const rom data
